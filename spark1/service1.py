@@ -5,7 +5,7 @@ import pymssql
 
 app = Flask(__name__)
 
-spark = SparkSession.builder.appName("spark1").config("spark.jars", "/home/decoders/jdbc_driver/jar_files/mysql-connector-java-8.0.15.jar").getOrCreate()
+spark = SparkSession.builder.appName("spark1").config("spark.jars", "/home/decoders/jdbc_driver/mssql/sqljdbc_12.4.1.0_enu/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.1.jre8.jar").getOrCreate()
 DATABASE_URI = 'mssql+pymssql://sa:Welcome123@localhost:1433/master'
 
 @app.route('/readfile', methods=['GET'])
@@ -34,11 +34,11 @@ def getdata(df):
     #     .mode("overwrite") \
     #     .save()
     df.write.format("jdbc") \
-        .option("url", "jdbc:mysql://localhost:3306/clinical_trial_db_relational?useSSL=false") \
-        .option("driver", "com.mysql.jdbc.Driver") \
+        .option("url", "jdbc:sqlserver://localhost:1433;databaseName=clinical_data_base;encrypt=true;trustServerCertificate=true") \
+        .option("driver", "com.microsoft.sqlserver.jdbc.SQLServerDriver") \
         .option("dbtable", "newTable") \
-        .option("user", "root") \
-        .option("password", "sam_8778") \
+        .option("user", "sa") \
+        .option("password", "Welcome123") \
         .mode("overwrite") \
         .save()
     return {"data": "Data Added Succussfully"}
