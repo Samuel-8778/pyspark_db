@@ -1,0 +1,1384 @@
+nct_id,company,sponsor_type,agency_class
+ACTRN12619000581167,"Melbourne Health",Sponsor,Institution
+ACTRN12619001265167,"The University of Sydney",Sponsor,Institution
+ACTRN12620000490976,"Australasian Myeloma Research Consortium",Sponsor,Institution
+ChiCTR2000039157,"Cancer Hospital, Chinese Academy of Medical Sciences",Sponsor,Institution
+ChiCTR2100048560,"Shengjing Hospital of China Medical University",Sponsor,Institution
+ChiCTR2200060153,"West China Hospital, Sichuan University",Sponsor,Institution
+ChiCTR2200060250,"The First Affiliated Hospital of Army Medical University, PLA",Sponsor,Institution
+ChiCTR2200062770,"Zhongshan hospital,Fudan University",Sponsor,Institution
+ChiCTR2200063838,"Jiangsu Province Hospital",Sponsor,Institution
+ChiCTR2200065807,"Chinese PLA General Hospital",Sponsor,Institution
+ChiCTR2200066256,"Fudan University Shanghai Cancer Center",Sponsor,Institution
+ChiCTR2300067600,"Chongqing University Cancer Hospital",Sponsor,Institution
+ChiCTR2300068270,"Chinese Academy of Medical Sciences & Peking Union Medical College Hospital",Sponsor,Institution
+ChiCTR2300068769,"West China Hospital of Sichuan University",Sponsor,Institution
+ChiCTR2300068946,"Tianjin Cancer Hospital Airport Hospital",Sponsor,Institution
+ChiCTR2300069410,"Beijing Cancer Hospital/Sun Yat-sen Memorial Hospital, Sun Yat-sen University",Sponsor,Institution
+CTRI/2019/08/020544,Hetero,Sponsor,Industry
+CTRI/2021/10/037317,Roche,Sponsor,Industry
+CTRI/2022/02/040116,AstraZeneca,Sponsor,Industry
+CTRI/2023/03/050491,Roche,Sponsor,Industry
+CTRI/2023/05/052218,AstraZeneca,Sponsor,Industry
+EUCTR2005-000279-16-FI,"Sahlgrenska University Hospital",Sponsor,Institution
+EUCTR2005-001588-78-GB,"Cardiff University",Sponsor,Institution
+EUCTR2007-003798-16-DK,"Cardiff University",Sponsor,Institution
+EUCTR2010-018980-41-BE,"German Society of Pediatric Hematology and Oncology gGmbH (GPOH gGmbH)",Sponsor,Institution
+EUCTR2013-003252-20-BE,Biotest,Sponsor,Industry
+EUCTR2014-000793-19-ES,SOLTI,Sponsor,Institution
+EUCTR2014-000808-10-SE,"Karolinska University Hospital",Sponsor,Institution
+EUCTR2014-002195-90-DK,"Cardiff University",Sponsor,Institution
+EUCTR2014-005341-44-AT,"Medical University of Graz",Sponsor,Institution
+EUCTR2016-000227-71-FI,"Erasmus Medical Center",Sponsor,Institution
+EUCTR2019-002181-12-IT,"ISTITUTI FISIOTERAPICI OSPITALIERI",Sponsor,Institution
+EUCTR2019-003084-21-IT,"PROF.BRUNANGELO FALINI, DR.ENRICO TIACCI. DIPARTIMENTO DI MEDICINA, UNIVERSITA' DI PERUGIA",Sponsor,Institution
+EUCTR2020-000273-24-GB,"University of Birmingham",Sponsor,Institution
+EUCTR2020-004181-20-IT,"ISTITUTO EUROPEO DI ONCOLOGIA",Sponsor,Institution
+EUCTR2021-003526-80-CZ,"Kooperativní lymfomová skupina, z.s",Sponsor,Industry
+JPRN-jRCT2011210017,"AKITA Hirotoshi",Collaborator,Industry
+JPRN-jRCT2011210017,"Hirotoshi Akita",Sponsor,Industry
+JPRN-jRCT2031200186,"Inoguchi Akihiro",Sponsor,Industry
+JPRN-jRCT2031220404,AstraZeneca,Collaborator,Industry
+JPRN-jRCT2031220404,"Inoguchi Akihiro",Sponsor,Industry
+JPRN-jRCT2031220414,"Shi Wei",Sponsor,Industry
+JPRN-jRCT2051220070,"Hidetoshi Hayashi",Sponsor,Industry
+JPRN-jRCT2061220066,AstraZeneca,Collaborator,Industry
+JPRN-jRCT2061220066,"Inoguchi Akihiro",Sponsor,Industry
+JPRN-jRCT2061220066,Merck,Collaborator,Industry
+JPRN-jRCTs031200336,"Aoyama Toru",Sponsor,Industry
+JPRN-jRCTs031200336,"DAIICHI SANKYO",Collaborator,Industry
+JPRN-jRCTs031210410,"Sakai Hitomi",Sponsor,Industry
+JPRN-jRCTs041190101,"Kiguchi Toru",Sponsor,Industry
+JPRN-jRCTs041200063,"Toshihiro Miyamoto",Sponsor,Industry
+JPRN-UMIN000014649,"Japan Breast Cancer Research Group(JBCRG)",Sponsor,Institution
+JPRN-UMIN000030783,"Japan Clinical Oncology Group (JCOG)",Sponsor,Institution
+JPRN-UMIN000034205,"Okayama University Graduate School of Medicine, Dentistry and Pharmaceutical Sciences",Sponsor,Institution
+NCT00006721,"Cancer and Leukemia Group B",Collaborator,Other
+NCT00006721,"Eastern Cooperative Oncology Group",Collaborator,Other
+NCT00006721,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT00006721,"Southwest Oncology Group",Sponsor,Other
+NCT00135200,GSK,Collaborator,Industry
+NCT00135200,"University of Michigan Rogel Cancer Center",Sponsor,Other
+NCT00658814,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT00781612,Roche,Sponsor,Industry
+NCT00801489,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT00801489,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT01042379,"QuantumLeap Healthcare Collaborative",Sponsor,Other
+NCT01352520,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT01352520,Seagen,Collaborator,Industry
+NCT01371630,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT01371630,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT01409161,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT01409161,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT01476410,"Northwestern University",Sponsor,Other
+NCT01476410,"Robert H. Lurie Cancer Center",Collaborator,Other
+NCT01476410,Seagen,Collaborator,Industry
+NCT01494662,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT01494662,"Puma Biotechnology",Collaborator,Industry
+NCT01494662,"Translational Breast Cancer Research Consortium",Collaborator,Other
+NCT01508312,"Hôpitaux Universitaires Henri Mondor, France",Collaborator,Other
+NCT01508312,"Memorial Sloan Kettering Cancer Center",Sponsor,Other
+NCT01508312,Seagen,Collaborator,Industry
+NCT01565200,"Jules Bordet Institute",Sponsor,Other
+NCT01565200,Roche,Collaborator,Industry
+NCT01703949,"University of Washington",Sponsor,Other
+NCT01712490,Seagen,Collaborator,Industry
+NCT01712490,Takeda,Sponsor,Industry
+NCT01716806,BMS,Collaborator,Industry
+NCT01716806,Seagen,Sponsor,Industry
+NCT01745965,Roche,Collaborator,Industry
+NCT01745965,"West German Study Group",Sponsor,Other
+NCT01771107,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT01771107,"The Lymphoma Academic Research Organisation",Collaborator,Other
+NCT01772472,"German Breast Group",Collaborator,Other
+NCT01772472,"NSABP Foundation",Collaborator,Other
+NCT01772472,Roche,Sponsor,Industry
+NCT01853748,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT01868451,"City of Hope Medical Center",Collaborator,Other
+NCT01868451,"Memorial Sloan Kettering Cancer Center",Sponsor,Other
+NCT01868451,Seagen,Collaborator,Industry
+NCT01868451,"Stanford University",Collaborator,Other
+NCT01868451,"University of Rochester",Collaborator,Other
+NCT01920932,Seagen,Collaborator,Industry
+NCT01920932,"St. Jude Children's Research Hospital",Sponsor,Other
+NCT01979536,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT02098512,"New York Medical College",Sponsor,Other
+NCT02098512,"St. Baldrick's Foundation",Collaborator,Other
+NCT02099058,AbbVie,Sponsor,Industry
+NCT02117297,"New York Medical College",Sponsor,Other
+NCT02152995,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT02166463,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT02187848,Sanofi,Sponsor,Industry
+NCT02191930,"University of Cologne",Sponsor,Other
+NCT02221310,"New York Medical College",Sponsor,Other
+NCT02226276,"City of Hope Medical Center",Sponsor,Other
+NCT02226276,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT02227199,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT02227199,Seagen,Collaborator,Industry
+NCT02227199,"University of Washington",Sponsor,Other
+NCT02272478,"Cancer Research UK",Collaborator,Other
+NCT02272478,"Cardiff University",Sponsor,Other
+NCT02298257,"The Lymphoma Academic Research Organisation",Sponsor,Other
+NCT02314481,Roche,Collaborator,Industry
+NCT02314481,"University College, London",Sponsor,Other
+NCT02326974,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT02326974,Roche,Collaborator,Industry
+NCT02343042,"Karyopharm Therapeutics",Sponsor,Industry
+NCT02390427,"Otto Metzger, MD",Sponsor,Other
+NCT02390427,Roche,Collaborator,Industry
+NCT02393690,"Academic and Community Cancer Research United",Sponsor,Other
+NCT02393690,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT02398240,"Mitchell Cairo",Sponsor,Other
+NCT02448420,"SOLTI Breast Cancer Research Group",Sponsor,Other
+NCT02453594,Merck,Sponsor,Industry
+NCT02465060,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT02473146,"Versailles Hospital",Sponsor,Other
+NCT02564900,AstraZeneca,Collaborator,Industry
+NCT02564900,"Daiichi Sankyo",Sponsor,Industry
+NCT02568839,"Thomas Hatschek",Sponsor,Other
+NCT02588651,"Deepa Jagadeesh",Sponsor,Other
+NCT02616965,BMS,Collaborator,Industry
+NCT02616965,"Fox Chase Cancer Center",Sponsor,Other
+NCT02616965,Seagen,Collaborator,Industry
+NCT02661503,"University of Cologne",Sponsor,Other
+NCT02665065,"Actinium pharma",Sponsor,Industry
+NCT02675829,"Memorial Sloan Kettering Cancer Center",Sponsor,Other
+NCT02675829,Roche,Collaborator,Industry
+NCT02684292,Merck,Sponsor,Industry
+NCT02724163,"Assistance Publique - Hôpitaux de Paris",Collaborator,Other
+NCT02724163,"Cancer Research UK",Collaborator,Other
+NCT02724163,"National Cancer Institute, France",Collaborator,Other
+NCT02724163,Pfizer,Collaborator,Industry
+NCT02724163,"University of Birmingham",Sponsor,Other
+NCT02734771,"Patrick Reagan",Sponsor,Other
+NCT02734771,Seagen,Collaborator,Industry
+NCT02744612,"City of Hope Medical Center",Sponsor,Other
+NCT02744612,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT02758717,"Academic and Community Cancer Research United",Sponsor,Other
+NCT02758717,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT02877303,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT02877303,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT02927769,BMS,Sponsor,Industry
+NCT02927769,Seagen,Collaborator,Industry
+NCT02980341,"Daiichi Sankyo",Sponsor,Industry
+NCT02981628,"Children's Oncology Group",Sponsor,Other
+NCT02981628,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT02996825,"City of Hope Medical Center",Sponsor,Other
+NCT02996825,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03007030,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT03007030,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03013933,"City of Hope Medical Center",Sponsor,Other
+NCT03013933,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03032107,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT03032107,Merck,Collaborator,Industry
+NCT03052634,RemeGen,Sponsor,Industry
+NCT03057795,"City of Hope Medical Center",Sponsor,Other
+NCT03057795,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03104491,"Leland Metheny",Sponsor,Other
+NCT03113500,"City of Hope Medical Center",Sponsor,Other
+NCT03113500,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03126630,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT03126916,"Children's Oncology Group",Sponsor,Other
+NCT03126916,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03187210,Mundipharma,Collaborator,Industry
+NCT03187210,"University Hospital Inselspital, Berne",Sponsor,Other
+NCT03217643,"Imagine Institute",Sponsor,Other
+NCT03217643,Takeda,Collaborator,Industry
+NCT03219333,Astellas,Sponsor,Industry
+NCT03219333,Seagen,Collaborator,Industry
+NCT03233347,"Academic and Community Cancer Research United",Sponsor,Other
+NCT03233347,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03246750,Takeda,Collaborator,Industry
+NCT03246750,"The Thai Lymphoma Study Group",Sponsor,Other
+NCT03248492,AstraZeneca,Collaborator,Industry
+NCT03248492,"Daiichi Sankyo",Sponsor,Industry
+NCT03249870,"Versailles Hospital",Sponsor,Other
+NCT03255070,Ambrx,Sponsor,Industry
+NCT03260491,"Daiichi Sankyo",Sponsor,Industry
+NCT03264131,Seagen,Collaborator,Industry
+NCT03264131,"UNC Lineberger Comprehensive Cancer Center",Sponsor,Other
+NCT03264547,Eisai,Collaborator,Industry
+NCT03264547,"Japan Breast Cancer Research Group",Sponsor,Other
+NCT03274492,Roche,Sponsor,Industry
+NCT03288545,Astellas,Sponsor,Industry
+NCT03288545,Merck,Collaborator,Industry
+NCT03288545,Seagen,Collaborator,Industry
+NCT03310957,Merck,Collaborator,Industry
+NCT03310957,Seagen,Sponsor,Industry
+NCT03316638,"Pierre Fabre",Sponsor,Industry
+NCT03319628,"Mersana Therapeutics",Sponsor,Industry
+NCT03334617,AstraZeneca,Sponsor,Industry
+NCT03337698,Roche,Sponsor,Industry
+NCT03356054,"Stichting Hemato-Oncologie voor Volwassenen Nederland",Sponsor,Other
+NCT03374332,"Brown University",Sponsor,Other
+NCT03374332,Pfizer,Collaborator,Industry
+NCT03374332,"Rhode Island Hospital",Collaborator,Other
+NCT03374332,"The Miriam Hospital",Collaborator,Other
+NCT03379428,AbbVie,Collaborator,Industry
+NCT03379428,"US Oncology Research",Sponsor,Industry
+NCT03383692,AstraZeneca,Collaborator,Industry
+NCT03383692,"Daiichi Sankyo",Sponsor,Industry
+NCT03386513,ImmunoGen,Sponsor,Industry
+NCT03401385,AstraZeneca,Collaborator,Industry
+NCT03401385,"Daiichi Sankyo",Sponsor,Industry
+NCT03409432,"John Reneau",Sponsor,Other
+NCT03424005,Gilead,Collaborator,Industry
+NCT03424005,Roche,Sponsor,Industry
+NCT03424005,Seagen,Collaborator,Industry
+NCT03424603,"Sutro Biopharma",Sponsor,Industry
+NCT03425279,BioAtla,Sponsor,Industry
+NCT03441061,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT03441061,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03460522,"Nicola Goekbuget",Sponsor,Other
+NCT03467373,Roche,Sponsor,Industry
+NCT03474107,Astellas,Sponsor,Industry
+NCT03474107,Seagen,Collaborator,Industry
+NCT03474133,"Federal Research Institute of Pediatric Hematology, Oncology and Immunology",Sponsor,Other
+NCT03485209,Genmab,Collaborator,Industry
+NCT03485209,Merck,Collaborator,Industry
+NCT03485209,Seagen,Sponsor,Industry
+NCT03500380,RemeGen,Sponsor,Industry
+NCT03504488,BioAtla,Sponsor,Industry
+NCT03505710,AstraZeneca,Collaborator,Industry
+NCT03505710,"Daiichi Sankyo",Sponsor,Industry
+NCT03517137,"European Organisation for Research and Treatment of Cancer - EORTC",Sponsor,Other
+NCT03523572,AstraZeneca,Collaborator,Industry
+NCT03523572,BMS,Collaborator,Industry
+NCT03523572,"Daiichi Sankyo",Sponsor,Industry
+NCT03523585,AstraZeneca,Collaborator,Industry
+NCT03523585,"Daiichi Sankyo",Sponsor,Industry
+NCT03525678,GSK,Sponsor,Industry
+NCT03527628,"King Abdullah International Medical Research Center",Sponsor,Other
+NCT03529110,AstraZeneca,Collaborator,Industry
+NCT03529110,"Daiichi Sankyo",Sponsor,Industry
+NCT03533283,Roche,Sponsor,Industry
+NCT03539536,AbbVie,Sponsor,Industry
+NCT03540849,"University Hospital, Caen",Sponsor,Other
+NCT03543813,"CytomX Therapeutics",Sponsor,Industry
+NCT03544281,GSK,Sponsor,Industry
+NCT03544281,Iqvia,Collaborator,Industry
+NCT03547973,Gilead,Sponsor,Industry
+NCT03552471,"Clovis Oncology",Collaborator,Industry
+NCT03552471,ImmunoGen,Collaborator,Industry
+NCT03552471,"Ohio State University Comprehensive Cancer Center",Sponsor,Other
+NCT03564678,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT03564678,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03568994,"Baylor College of Medicine",Sponsor,Other
+NCT03568994,"William Marsh Rice University",Collaborator,Other
+NCT03576378,"Grupo Español de Linfomas y Transplante Autólogo de Médula Ósea",Sponsor,Other
+NCT03576378,Takeda,Collaborator,Industry
+NCT03587311,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT03587740,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT03587740,"Gateway for Cancer Research",Collaborator,Other
+NCT03587740,"Susan G. Komen Breast Cancer Foundation",Collaborator,Other
+NCT03589729,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT03589729,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03595059,AbbVie,Sponsor,Industry
+NCT03610438,"Gruppo Italiano Malattie EMatologiche dell'Adulto",Sponsor,Other
+NCT03639194,AbbVie,Sponsor,Industry
+NCT03646123,BMS,Collaborator,Industry
+NCT03646123,Seagen,Sponsor,Industry
+NCT03652441,"University of Cologne",Sponsor,Other
+NCT03671018,Roche,Sponsor,Industry
+NCT03672539,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT03672539,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03677141,Roche,Sponsor,Industry
+NCT03677154,Roche,Sponsor,Industry
+NCT03698552,"ADC Therapeutics",Collaborator,Industry
+NCT03698552,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT03698552,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03703050,"Gustave Roussy, Cancer Campus, Grand Paris",Sponsor,Other
+NCT03709082,Pfizer,Collaborator,Industry
+NCT03709082,"University of Kansas Medical Center",Sponsor,Other
+NCT03712202,"City of Hope Medical Center",Sponsor,Other
+NCT03712202,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03715478,"Canadian Myeloma Research Group",Sponsor,Other
+NCT03715478,GSK,Collaborator,Industry
+NCT03719105,"New York Medical College",Sponsor,Other
+NCT03719105,"University of Alabama at Birmingham",Collaborator,Other
+NCT03725761,Gilead,Collaborator,Industry
+NCT03725761,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03725761,"University of Wisconsin, Madison",Sponsor,Other
+NCT03726879,Roche,Sponsor,Industry
+NCT03732703,AbbVie,Collaborator,Industry
+NCT03732703,BMS,Collaborator,Industry
+NCT03732703,GSK,Collaborator,Industry
+NCT03732703,JnJ,Collaborator,Industry
+NCT03732703,"Karyopharm Therapeutics",Collaborator,Industry
+NCT03732703,Lilly,Collaborator,Industry
+NCT03732703,"Multiple Myeloma Research Consortium",Sponsor,Other
+NCT03732703,Roche,Collaborator,Industry
+NCT03732703,Takeda,Collaborator,Industry
+NCT03734029,AstraZeneca,Collaborator,Industry
+NCT03734029,"Daiichi Sankyo",Sponsor,Industry
+NCT03737955,Pfizer,Collaborator,Industry
+NCT03737955,"University of Washington",Sponsor,Other
+NCT03742102,AstraZeneca,Sponsor,Industry
+NCT03748186,"Sutro Biopharma",Sponsor,Industry
+NCT03755141,"National Cancer Center, Korea",Sponsor,Other
+NCT03755804,Seagen,Collaborator,Industry
+NCT03755804,"St. Jude Children's Research Hospital",Sponsor,Other
+NCT03755804,Teva,Collaborator,Industry
+NCT03769506,"Rakuten Medical",Sponsor,Industry
+NCT03786081,"Belgian Gynaecological Oncology Group",Collaborator,Other
+NCT03786081,"European Network of Gynaecological Oncological Trial Groups (ENGOT)",Collaborator,Other
+NCT03786081,Genmab,Collaborator,Industry
+NCT03786081,"Gynecologic Oncology Group",Collaborator,Other
+NCT03786081,Merck,Collaborator,Industry
+NCT03786081,Seagen,Sponsor,Industry
+NCT03805932,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT03809013,RemeGen,Sponsor,Industry
+NCT03809624,Inhibrx,Sponsor,Industry
+NCT03816358,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT03820063,"BOOG Study Center",Collaborator,Other
+NCT03820063,"Borstkanker Onderzoek Groep",Sponsor,Other
+NCT03820063,Roche,Collaborator,Industry
+NCT03828292,GSK,Sponsor,Industry
+NCT03829540,"Huda Salman",Sponsor,Other
+NCT03829540,"iCell Gene Therapeutics",Collaborator,Industry
+NCT03832361,"Alessandro Santin",Sponsor,Other
+NCT03832361,ImmunoGen,Collaborator,Industry
+NCT03833180,VelosBio,Sponsor,Industry
+NCT03835819,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT03835819,ImmunoGen,Collaborator,Industry
+NCT03835819,Merck,Collaborator,Industry
+NCT03848845,GSK,Sponsor,Industry
+NCT03848845,Merck,Collaborator,Industry
+NCT03856216,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT03856216,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03859752,"Open Innovation Partners",Collaborator,Other
+NCT03859752,"Tanabe Research Laboratories USA",Sponsor,Industry
+NCT03869190,GSK,Collaborator,Other
+NCT03869190,Roche,Sponsor,Industry
+NCT03878524,"OHSU Knight Cancer Institute",Sponsor,Other
+NCT03878524,"Oregon Health and Science University",Collaborator,Other
+NCT03894150,"Shanghai Fudan-Zhangjiang",Sponsor,Industry
+NCT03900949,"Uma Borate",Sponsor,Other
+NCT03901339,Gilead,Sponsor,Industry
+NCT03904251,Jazz,Collaborator,Industry
+NCT03904251,Jonsson,Sponsor,Industry
+NCT03904251,Pfizer,Collaborator,Industry
+NCT03904251,"University of California, Los Angeles",Collaborator,Other
+NCT03907488,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT03913559,Pfizer,Collaborator,Industry
+NCT03913559,"St. Jude Children's Research Hospital",Sponsor,Other
+NCT03924895,Astellas,Collaborator,Industry
+NCT03924895,Merck,Sponsor,Industry
+NCT03924895,Seagen,Collaborator,Industry
+NCT03944499,"Shanghai Fosun Pharmaceutical Industrial Development",Sponsor,Industry
+NCT03944772,AstraZeneca,Sponsor,Industry
+NCT03959085,"Children's Oncology Group",Sponsor,Other
+NCT03959085,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT03962465,Pfizer,Collaborator,Industry
+NCT03962465,"University of Virginia",Sponsor,Other
+NCT03962465,"University of Wisconsin, Madison",Collaborator,Other
+NCT03962465,"Vanderbilt University",Collaborator,Other
+NCT03962465,"Virginia Commonwealth University",Collaborator,Other
+NCT03964727,Gilead,Sponsor,Industry
+NCT03971409,"Breast Cancer Research Foundation",Collaborator,Other
+NCT03971409,Gilead,Collaborator,Industry
+NCT03971409,"Hoosier Cancer Research Network",Collaborator,Other
+NCT03971409,"Hope Rugo, MD",Sponsor,Other
+NCT03971409,"Johns Hopkins University",Collaborator,Other
+NCT03971409,Pfizer,Collaborator,Industry
+NCT03971409,"Translational Breast Cancer Research Consortium",Collaborator,Other
+NCT03975647,Seagen,Sponsor,Industry
+NCT03995706,Gilead,Collaborator,Industry
+NCT03995706,"The University of Texas Health Science Center at San Antonio",Sponsor,Other
+NCT04014075,AstraZeneca,Collaborator,Industry
+NCT04014075,"Daiichi Sankyo",Sponsor,Industry
+NCT04015778,BMS,Collaborator,Industry
+NCT04015778,"Guangdong Association of Clinical Trials",Sponsor,Other
+NCT04032704,Merck,Collaborator,Industry
+NCT04032704,Seagen,Sponsor,Industry
+NCT04036461,BMS,Sponsor,Industry
+NCT04039230,"Massachusetts General Hospital",Sponsor,Other
+NCT04039230,Pfizer,Collaborator,Industry
+NCT04042701,AstraZeneca,Collaborator,Industry
+NCT04042701,"Daiichi Sankyo",Sponsor,Industry
+NCT04042701,Merck,Collaborator,Industry
+NCT04050280,Hematologics,Collaborator,Other
+NCT04050280,"University of Maryland, Baltimore",Sponsor,Other
+NCT04064359,"Oxford BioTherapeutics",Sponsor,Industry
+NCT04070768,AbbVie,Collaborator,Industry
+NCT04070768,"John Quigley",Sponsor,Other
+NCT04070768,Pfizer,Collaborator,Industry
+NCT04073602,RemeGen,Sponsor,Industry
+NCT04077723,Roche,Sponsor,Industry
+NCT04084366,"OBI Pharma",Sponsor,Industry
+NCT04086264,ImmunoGen,Sponsor,Industry
+NCT04091126,GSK,Sponsor,Industry
+NCT04126200,GSK,Sponsor,Industry
+NCT04132960,"Daiichi Sankyo",Collaborator,Industry
+NCT04132960,UNICANCER,Sponsor,Other
+NCT04145622,"Daiichi Sankyo",Sponsor,Industry
+NCT04146610,"CSPC BioPharma",Sponsor,Industry
+NCT04151329,"Bio-Thera Solutions",Sponsor,Industry
+NCT04152499,"Klus Pharma",Sponsor,Industry
+NCT04154956,Sanofi,Sponsor,Industry
+NCT04158947,"xuexin he",Sponsor,Other
+NCT04162210,GSK,Sponsor,Industry
+NCT04168502,"Gruppo Italiano Malattie EMatologiche dell'Adulto",Sponsor,Other
+NCT04175847,RemeGen,Sponsor,Industry
+NCT04182204,Roche,Sponsor,Industry
+NCT04185649,"Bio-Thera Solutions",Sponsor,Industry
+NCT04189211,"Bio-Thera Solutions",Sponsor,Industry
+NCT04189614,AbbVie,Sponsor,Industry
+NCT04189614,Pfizer,Collaborator,Industry
+NCT04197687,"Academic and Community Cancer Research United",Sponsor,Other
+NCT04197687,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04207190,Pfizer,Collaborator,Industry
+NCT04207190,"Roswell Park Cancer Institute",Sponsor,Other
+NCT04209855,"European Network of Gynaecological Oncological Trial Groups (ENGOT)",Collaborator,Other
+NCT04209855,"Gynecologic Oncology Group",Collaborator,Other
+NCT04209855,ImmunoGen,Sponsor,Industry
+NCT04223856,Astellas,Sponsor,Industry
+NCT04223856,Merck,Collaborator,Industry
+NCT04223856,Seagen,Collaborator,Industry
+NCT04225117,Astellas,Sponsor,Industry
+NCT04225117,Merck,Collaborator,Industry
+NCT04225117,Seagen,Collaborator,Industry
+NCT04230109,"Aditya Bardia",Sponsor,Other
+NCT04230109,Gilead,Collaborator,Industry
+NCT04231877,Roche,Collaborator,Industry
+NCT04231877,"University of Washington",Sponsor,Other
+NCT04240704,Novartis,Sponsor,Industry
+NCT04246047,GSK,Sponsor,Industry
+NCT04251416,"Alessandro Santin",Sponsor,Other
+NCT04251416,Gilead,Collaborator,Industry
+NCT04254107,Seagen,Sponsor,Industry
+NCT04255056,"Sun Yat-sen University",Sponsor,Other
+NCT04257110,"Bliss Biopharmaceutical",Sponsor,Industry
+NCT04261413,"RS Arastirma Egitim Danismanlik Ilac Sanayi Ticaret A.S",Sponsor,Industry
+NCT04264936,"Beijing Cancer Hospital",Sponsor,Other
+NCT04266249,"ECOG-ACRIN Cancer Research Group",Sponsor,Other
+NCT04266249,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04274426,"AGO Research",Sponsor,Industry
+NCT04280341,"Peking University",Sponsor,Other
+NCT04280341,RemeGen,Collaborator,Industry
+NCT04293562,"Children's Oncology Group",Sponsor,Other
+NCT04293562,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04294628,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT04300556,Eisai,Sponsor,Industry
+NCT04301375,"David Garcia Cinca",Sponsor,Other
+NCT04301375,"Fundacion Clinic per a la Recerca Biomédica",Collaborator,Other
+NCT04305795,"Rakuten Medical",Sponsor,Industry
+NCT04307576,"Aamu Pediatric Cancer Foundation",Collaborator,Other
+NCT04307576,"Acreditar - Associação de Pais e Amigos das Crianças com Cancro",Collaborator,Other
+NCT04307576,Amgen,Collaborator,Industry
+NCT04307576,"Assistance Publique - Hôpitaux de Paris",Collaborator,Other
+NCT04307576,"Belgium Health Care Knowledge Centre",Collaborator,Other
+NCT04307576,"Cancer Research UK",Collaborator,Other
+NCT04307576,"Clinical Trial Center North (CTC North GmbH & Co. KG)",Collaborator,Other
+NCT04307576,"Danish Cancer Society",Collaborator,Other
+NCT04307576,"Danish Child Cancer Foundation",Collaborator,Other
+NCT04307576,"Direction Générale de l'Offre de Soins",Collaborator,Other
+NCT04307576,"Fundação Rui Osório de Castro",Collaborator,Other
+NCT04307576,"German Society for Pediatric Oncology and Hematology GPOH gGmbH",Collaborator,Other
+NCT04307576,"Grupo Português De Leucemias Pediátricas",Collaborator,Other
+NCT04307576,"Karolinska Institutet",Collaborator,Other
+NCT04307576,"Mats Heyman",Sponsor,Other
+NCT04307576,NordForsk,Collaborator,Other
+NCT04307576,"Nova Laboratories",Collaborator,Industry
+NCT04307576,Pfizer,Collaborator,Industry
+NCT04307576,Servier,Collaborator,Industry
+NCT04307576,"The Novo Nordic Foundation",Collaborator,Other
+NCT04307576,"The Swedish Childhood Cancer Foundation",Collaborator,Other
+NCT04307576,"The Swedish Research Council",Collaborator,Other
+NCT04311034,RemeGen,Sponsor,Industry
+NCT04323956,"Mayo Clinic",Sponsor,Industry
+NCT04329429,RemeGen,Sponsor,Industry
+NCT04332822,Nordic,Sponsor,Industry
+NCT04332822,Roche,Collaborator,Industry
+NCT04341181,GSK,Collaborator,Industry
+NCT04341181,Pfizer,Collaborator,Industry
+NCT04341181,Roche,Collaborator,Industry
+NCT04341181,"Ulrik Lassen",Sponsor,Other
+NCT04378647,"Grupo Español de Linfomas y Transplante Autólogo de Médula Ósea",Sponsor,Other
+NCT04379596,AstraZeneca,Sponsor,Industry
+NCT04379596,"Daiichi Sankyo",Collaborator,Industry
+NCT04381832,"Arcus Biosciences",Sponsor,Industry
+NCT04381832,Gilead,Collaborator,Industry
+NCT04384484,"ADC Therapeutics",Sponsor,Industry
+NCT04385290,Novartis,Collaborator,Industry
+NCT04385290,Pfizer,Collaborator,Industry
+NCT04385290,"Technische Universität Dresden",Sponsor,Other
+NCT04389632,Seagen,Sponsor,Industry
+NCT04394624,Sanofi,Sponsor,Industry
+NCT04396340,"IQVIA Biotech",Collaborator,Industry
+NCT04396340,"Mersana Therapeutics",Sponsor,Industry
+NCT04398680,GSK,Sponsor,Industry
+NCT04398745,GSK,Sponsor,Industry
+NCT04398914,"Jiangsu Pharma",Collaborator,Industry
+NCT04398914,"Shanghai Jiao Tong University School of Medicine",Sponsor,Other
+NCT04400695,RemeGen,Sponsor,Industry
+NCT04404283,Seagen,Sponsor,Industry
+NCT04410224,"Kirilys Therapeutics",Sponsor,Industry
+NCT04419181,"University of Rochester",Sponsor,Other
+NCT04434040,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT04434040,Roche,Collaborator,Industry
+NCT04434040,"Stand Up To Cancer",Collaborator,Other
+NCT04439110,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT04446260,Atridia,Collaborator,Industry
+NCT04446260,"Jiangsu Pharma",Sponsor,Industry
+NCT04448886,"Ana C Garrido-Castro, MD",Sponsor,Other
+NCT04448886,Gilead,Collaborator,Industry
+NCT04448886,Merck,Collaborator,Industry
+NCT04450732,"GeneQuantum Healthcare (Suzhou",Sponsor,Industry
+NCT04454437,Gilead,Sponsor,Industry
+NCT04457596,"Alliance for Clinical Trials in Oncology",Sponsor,Other
+NCT04457596,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04457596,Seagen,Collaborator,Industry
+NCT04460456,"Silverback Therapeutics",Sponsor,Industry
+NCT04468061,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT04468061,Gilead,Collaborator,Industry
+NCT04468061,Merck,Collaborator,Industry
+NCT04479267,"Barbara Ann Karmanos Cancer Institute",Sponsor,Other
+NCT04479267,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04482309,AstraZeneca,Sponsor,Industry
+NCT04482309,"Daiichi Sankyo",Collaborator,Industry
+NCT04484142,AstraZeneca,Collaborator,Industry
+NCT04484142,"Daiichi Sankyo",Sponsor,Industry
+NCT04484623,GSK,Sponsor,Industry
+NCT04486352,"Alliance Foundation Trials, LLC",Sponsor,Other
+NCT04486352,"Foundation Medicine",Collaborator,Industry
+NCT04486352,Pfizer,Collaborator,Industry
+NCT04486352,Roche,Collaborator,Industry
+NCT04491370,"New York Medical College",Sponsor,Other
+NCT04492488,"Shanghai Miracogen",Sponsor,Industry
+NCT04494425,AstraZeneca,Sponsor,Industry
+NCT04494425,"Daiichi Sankyo",Collaborator,Industry
+NCT04509596,"Dizal Pharmaceuticals",Sponsor,Industry
+NCT04513223,"Jiangsu Pharma",Sponsor,Industry
+NCT04524689,Sanofi,Sponsor,Industry
+NCT04526691,AstraZeneca,Collaborator,Industry
+NCT04526691,"Daiichi Sankyo",Sponsor,Industry
+NCT04526691,Merck,Collaborator,Industry
+NCT04527991,"Everest Medicines",Collaborator,Industry
+NCT04527991,Gilead,Sponsor,Industry
+NCT04538742,AstraZeneca,Sponsor,Industry
+NCT04538742,"Daiichi Sankyo",Collaborator,Industry
+NCT04539938,Seagen,Sponsor,Industry
+NCT04549363,GSK,Sponsor,Industry
+NCT04553770,"Daiichi Sankyo",Collaborator,Industry
+NCT04553770,Jonsson,Sponsor,Industry
+NCT04553770,"Translational Research in Oncology-U.S",Collaborator,Other
+NCT04556773,AstraZeneca,Sponsor,Industry
+NCT04556773,"Daiichi Sankyo",Collaborator,Industry
+NCT04559230,"The University of Texas Health Science Center at San Antonio",Sponsor,Other
+NCT04561206,"City of Hope Medical Center",Sponsor,Other
+NCT04561206,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04561362,BicycleTx,Sponsor,Industry
+NCT04569032,Seagen,Sponsor,Industry
+NCT04578106,"Fundacio Clinic Barcelona",Sponsor,Other
+NCT04578106,Roche,Collaborator,Industry
+NCT04578106,"SOLTI Breast Cancer Research Group",Collaborator,Other
+NCT04585958,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT04587687,"Joseph Tuscano",Sponsor,Other
+NCT04587687,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04587687,Seagen,Collaborator,Industry
+NCT04589845,Roche,Sponsor,Industry
+NCT04591431,"Fondazione per la Medicina Personalizzata",Sponsor,Other
+NCT04594798,Roche,Collaborator,Industry
+NCT04594798,"University of Rochester",Sponsor,Other
+NCT04595565,"Austrian Breast & Colorectal Cancer Study Group",Collaborator,Other
+NCT04595565,"Cancer Trials Ireland",Collaborator,Other
+NCT04595565,"ETOP IBCSG Partners Foundation",Collaborator,Other
+NCT04595565,"German Breast Group",Sponsor,Other
+NCT04595565,Gilead,Collaborator,Industry
+NCT04595565,"Spanish Breast Cancer Research Group (GEICAM)",Collaborator,Other
+NCT04595565,UNICANCER,Collaborator,Other
+NCT04596150,"CytomX Therapeutics",Sponsor,Industry
+NCT04606914,"University of Alabama at Birmingham",Sponsor,Other
+NCT04609566,Merck,Collaborator,Industry
+NCT04609566,Seagen,Sponsor,Industry
+NCT04610528,"Daiichi Sankyo",Collaborator,Industry
+NCT04610528,"SOLTI Breast Cancer Research Group",Sponsor,Other
+NCT04612751,AstraZeneca,Sponsor,Industry
+NCT04612751,"Daiichi Sankyo",Collaborator,Industry
+NCT04617314,RemeGen,Sponsor,Industry
+NCT04617522,Gilead,Sponsor,Industry
+NCT04619004,"Daiichi Sankyo",Sponsor,Industry
+NCT04620187,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT04620187,Roche,Collaborator,Industry
+NCT04622319,AstraZeneca,Collaborator,Industry
+NCT04622319,"Daiichi Sankyo",Sponsor,Industry
+NCT04622319,"German Breast Group",Collaborator,Other
+NCT04622319,"NSABP Foundation",Collaborator,Other
+NCT04622319,"Spanish Breast Cancer Research Group (SOLTI)",Collaborator,Other
+NCT04622774,ImmunoGen,Sponsor,Industry
+NCT04622774,MacroGenics,Collaborator,Industry
+NCT04632992,Roche,Sponsor,Industry
+NCT04639219,AstraZeneca,Sponsor,Industry
+NCT04639219,"Daiichi Sankyo",Collaborator,Industry
+NCT04639986,Gilead,Sponsor,Industry
+NCT04643002,Sanofi,Sponsor,Industry
+NCT04644068,AstraZeneca,Sponsor,Industry
+NCT04644237,AstraZeneca,Collaborator,Industry
+NCT04644237,"Daiichi Sankyo",Sponsor,Industry
+NCT04647916,Gilead,Collaborator,Industry
+NCT04647916,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04647916,"SWOG Cancer Research Network",Sponsor,Other
+NCT04656652,AstraZeneca,Collaborator,Industry
+NCT04656652,"Daiichi Sankyo",Sponsor,Industry
+NCT04659044,"Academic and Community Cancer Research United",Sponsor,Other
+NCT04659044,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04659603,Sanofi,Sponsor,Industry
+NCT04662580,Ambrx,Sponsor,Industry
+NCT04665765,"City of Hope Medical Center",Sponsor,Other
+NCT04665765,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04665921,Seagen,Sponsor,Industry
+NCT04676360,GSK,Collaborator,Industry
+NCT04676360,"Jacob Soumerai, MD",Sponsor,Other
+NCT04676477,"Daiichi Sankyo",Sponsor,Industry
+NCT04679012,Roche,Collaborator,Industry
+NCT04679012,"Weill Medical College of Cornell University",Sponsor,Other
+NCT04680442,"Population Health Research Institute",Sponsor,Other
+NCT04680468,"Abramson Cancer Center of the University of Pennsylvania",Sponsor,Other
+NCT04680468,GSK,Collaborator,Industry
+NCT04681131,BioAtla,Sponsor,Industry
+NCT04685616,"Australasian Leukaemia and Lymphoma Group",Collaborator,Other
+NCT04685616,"Canadian Cancer Trials Group",Collaborator,Other
+NCT04685616,"European Organisation for Research and Treatment of Cancer - EORTC",Collaborator,Other
+NCT04685616,Seagen,Collaborator,Industry
+NCT04685616,Takeda,Collaborator,Industry
+NCT04685616,"University College, London",Sponsor,Other
+NCT04685616,"University of Miami",Collaborator,Other
+NCT04686305,AstraZeneca,Sponsor,Industry
+NCT04686305,"Daiichi Sankyo",Collaborator,Industry
+NCT04697628,Genmab,Collaborator,Industry
+NCT04697628,Seagen,Sponsor,Industry
+NCT04699630,"Daiichi Sankyo",Collaborator,Industry
+NCT04699630,"SCRI Development Innovations, LLC",Sponsor,Other
+NCT04700124,Astellas,Collaborator,Industry
+NCT04700124,Merck,Sponsor,Industry
+NCT04700124,Seagen,Collaborator,Industry
+NCT04704661,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT04704934,AstraZeneca,Collaborator,Industry
+NCT04704934,"Daiichi Sankyo",Sponsor,Industry
+NCT04707248,"Daiichi Sankyo",Sponsor,Industry
+NCT04714190,RemeGen,Sponsor,Industry
+NCT04721977,Merck,Sponsor,Industry
+NCT04724018,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT04724018,Gilead,Collaborator,Industry
+NCT04733118,MedSIR,Sponsor,Other
+NCT04733118,Roche,Collaborator,Industry
+NCT04739761,AstraZeneca,Sponsor,Industry
+NCT04739761,"Daiichi Sankyo",Collaborator,Industry
+NCT04739813,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT04740398,"Coherent Biopharma",Sponsor,Industry
+NCT04740918,Roche,Sponsor,Industry
+NCT04742153,"Shanghai Miracogen",Sponsor,Industry
+NCT04744831,AstraZeneca,Collaborator,Industry
+NCT04744831,"Daiichi Sankyo",Sponsor,Industry
+NCT04744831,"Syneos Health",Collaborator,Industry
+NCT04745949,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT04747912,"University of Chicago",Sponsor,Other
+NCT04754191,Astellas,Collaborator,Industry
+NCT04754191,"University of Utah",Sponsor,Other
+NCT04778579,"Institut d'Investigacions Biomèdiques August Pi i Sunyer",Collaborator,Other
+NCT04778579,"Instituto de Salud Carlos III",Collaborator,Other
+NCT04778579,"Sara V. Latorre",Sponsor,Other
+NCT04784715,AstraZeneca,Sponsor,Industry
+NCT04784715,"Daiichi Sankyo",Collaborator,Industry
+NCT04790903,Roche,Sponsor,Industry
+NCT04793919,"Associazione Italiana Ematologia Oncologia Pediatrica",Sponsor,Other
+NCT04795869,Merck,Collaborator,Industry
+NCT04795869,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04795869,"Northwestern University",Sponsor,Other
+NCT04795869,Seagen,Collaborator,Industry
+NCT04802356,GSK,Collaborator,Industry
+NCT04802356,"PETHEMA Foundation",Sponsor,Other
+NCT04805307,"Keymed Biosciences",Sponsor,Industry
+NCT04808037,GSK,Collaborator,Industry
+NCT04808037,"Hellenic Society of Hematology",Sponsor,Other
+NCT04818333,"Jiangsu Pharma",Sponsor,Industry
+NCT04822337,Amgen,Collaborator,Industry
+NCT04822337,GSK,Collaborator,Industry
+NCT04822337,"Wake Forest University Health Sciences",Sponsor,Other
+NCT04826107,"CSPC BioPharma",Sponsor,Industry
+NCT04826341,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT04828616,"CSPC BioPharma",Sponsor,Industry
+NCT04829604,Ambrx,Sponsor,Industry
+NCT04833114,"GWT-TUD GmbH",Sponsor,Other
+NCT04833114,Roche,Collaborator,Industry
+NCT04837508,"Shanghai Miracogen",Sponsor,Industry
+NCT04838548,"Shanghai Miracogen",Sponsor,Industry
+NCT04838964,"Shanghai Miracogen",Sponsor,Industry
+NCT04839510,"Shanghai Miracogen",Sponsor,Industry
+NCT04843709,"Shanghai Miracogen",Sponsor,Industry
+NCT04844866,ICON,Collaborator,Industry
+NCT04844866,"Miltenyi Biotec",Sponsor,Industry
+NCT04849910,"Vor Biopharma",Sponsor,Industry
+NCT04863885,BMS,Collaborator,Industry
+NCT04863885,Gilead,Collaborator,Industry
+NCT04863885,"H. Lee Moffitt Cancer Center and Research Institute",Sponsor,Other
+NCT04868162,"Shanghai Miracogen",Sponsor,Industry
+NCT04873362,Roche,Sponsor,Industry
+NCT04876248,GSK,Collaborator,Industry
+NCT04876248,"Roswell Park Cancer Institute",Sponsor,Other
+NCT04878029,"Emory University",Sponsor,Other
+NCT04878029,Exelixis,Collaborator,Industry
+NCT04878029,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT04879043,"Heidelberg Pharma",Sponsor,Industry
+NCT04879329,Merck,Collaborator,Industry
+NCT04879329,Seagen,Sponsor,Industry
+NCT04884035,BMS,Sponsor,Industry
+NCT04887870,"Mirati Therapeutics",Sponsor,Industry
+NCT04892264,"Mayo Clinic",Sponsor,Industry
+NCT04892342,"Shanghai Escugen Biotechnology",Sponsor,Industry
+NCT04893109,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT04893109,Roche,Collaborator,Industry
+NCT04896658,"University of Maryland, Baltimore",Sponsor,Other
+NCT04907968,"IQVIA Biotech",Collaborator,Industry
+NCT04907968,"Mersana Therapeutics",Sponsor,Industry
+NCT04907968,"PSI CRO",Collaborator,Industry
+NCT04913103,"Czech Lymphoma Study Group",Sponsor,Other
+NCT04914741,"Peter MacCallum Cancer Centre, Australia",Sponsor,Other
+NCT04914741,Roche,Collaborator,Industry
+NCT04915612,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT04918186,AstraZeneca,Collaborator,Industry
+NCT04918186,BioAtla,Collaborator,Industry
+NCT04918186,"Canadian Cancer Trials Group",Sponsor,Other
+NCT04918186,"Cancer Research Institute, New York City",Collaborator,Other
+NCT04924699,"Shanghai Miracogen",Sponsor,Industry
+NCT04925284,Exelixis,Sponsor,Industry
+NCT04928612,"Coherent Biopharma",Sponsor,Industry
+NCT04928846,AbbVie,Sponsor,Industry
+NCT04931342,"European Network of Gynaecological Oncological Trial Groups (ENGOT)",Collaborator,Other
+NCT04931342,"GOG Foundation",Collaborator,Other
+NCT04931342,Roche,Sponsor,Industry
+NCT04940325,"Daiichi Sankyo",Collaborator,Industry
+NCT04940325,"Gustave Roussy, Cancer Campus, Grand Paris",Sponsor,Other
+NCT04941339,"Shanghai Miracogen",Sponsor,Industry
+NCT04958785,Gilead,Sponsor,Industry
+NCT04960709,AstraZeneca,Sponsor,Industry
+NCT04963153,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT04965519,RemeGen,Sponsor,Industry
+NCT04965766,"Daiichi Sankyo",Collaborator,Industry
+NCT04965766,"Gustave Roussy, Cancer Campus, Grand Paris",Sponsor,Other
+NCT04970901,"ADC Therapeutics",Sponsor,Industry
+NCT04972981,"ADC Therapeutics",Sponsor,Industry
+NCT04982224,Regeneron,Sponsor,Industry
+NCT04983121,"Shengjing Hospital",Sponsor,Other
+NCT04986579,AstraZeneca,Collaborator,Industry
+NCT04986579,"Daiichi Sankyo",Collaborator,Industry
+NCT04986579,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT04986579,Eisai,Collaborator,Industry
+NCT04986579,Gilead,Collaborator,Industry
+NCT04986579,"Paxman Coolers Limited",Collaborator,Other
+NCT04989816,AstraZeneca,Sponsor,Industry
+NCT04989816,"Daiichi Sankyo",Collaborator,Industry
+NCT04995419,Astellas,Sponsor,Industry
+NCT04995419,Seagen,Collaborator,Industry
+NCT04998669,"ADC Therapeutics",Collaborator,Industry
+NCT04998669,"Juan P. Alderuccio, MD",Sponsor,Other
+NCT05001282,"Elucida Oncology",Sponsor,Industry
+NCT05001516,BMS,Sponsor,Industry
+NCT05002816,GSK,Collaborator,Industry
+NCT05002816,"Yale University",Sponsor,Other
+NCT05006664,"Czech Lymphoma Study Group",Sponsor,Other
+NCT05006794,Gilead,Sponsor,Industry
+NCT05009966,"CSPC BioPharma",Sponsor,Industry
+NCT05011188,"Fortis Therapeutics",Collaborator,Industry
+NCT05011188,"Rahul Aggarwal",Sponsor,Other
+NCT05014139,Astellas,Sponsor,Industry
+NCT05014139,Seagen,Collaborator,Industry
+NCT05016947,AbbVie,Collaborator,Industry
+NCT05016947,"Dana-Farber Cancer Institute",Sponsor,Other
+NCT05016973,"The Affiliated Nanjing Drum Tower Hospital of Nanjing University Medical School",Sponsor,Other
+NCT05018676,"Fudan University",Sponsor,Other
+NCT05018702,"Fudan University",Sponsor,Other
+NCT05029882,AbbVie,Sponsor,Industry
+NCT05034887,"Daiichi Sankyo",Collaborator,Industry
+NCT05034887,"National Cancer Center Hospital East",Sponsor,Other
+NCT05039073,"Emory University",Sponsor,Other
+NCT05039073,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05041257,ImmunoGen,Sponsor,Industry
+NCT05041842,"ARCAGY/ GINECO GROUP",Collaborator,Other
+NCT05041842,Seagen,Collaborator,Industry
+NCT05041842,UNICANCER,Sponsor,Other
+NCT05043987,"Conjupro Biotherapeutics",Sponsor,Industry
+NCT05043987,"CSPC Megalith Biopharmaceutical",Collaborator,Other
+NCT05048797,AstraZeneca,Sponsor,Industry
+NCT05048797,"Daiichi Sankyo",Collaborator,Industry
+NCT05053659,"Brian Hill",Sponsor,Other
+NCT05055063,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05060627,Adknoma,Collaborator,Industry
+NCT05060627,"PETHEMA Foundation",Sponsor,Other
+NCT05061550,AstraZeneca,Sponsor,Industry
+NCT05061550,Parexel,Collaborator,Industry
+NCT05064358,GSK,Sponsor,Industry
+NCT05065047,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05070247,Takeda,Sponsor,Industry
+NCT05071053,Sanofi,Sponsor,Industry
+NCT05089734,Gilead,Sponsor,Industry
+NCT05091372,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05097599,"Strata Oncology",Sponsor,Industry
+NCT05101096,Gilead,Sponsor,Industry
+NCT05103683,"TORL Biotherapeutics, LLC",Sponsor,Industry
+NCT05103683,"Translational Research in Oncology",Collaborator,Other
+NCT05104866,AstraZeneca,Sponsor,Industry
+NCT05104866,"Daiichi Sankyo",Collaborator,Industry
+NCT05113069,"Shanghai Hengrui",Sponsor,Industry
+NCT05113251,AstraZeneca,Sponsor,Industry
+NCT05113251,"Daiichi Sankyo",Collaborator,Industry
+NCT05113459,"Guoxin Li",Sponsor,Other
+NCT05113966,"G1 Therapeutics",Sponsor,Industry
+NCT05114759,"Suzhou Suncadia Biopharmaceuticals",Sponsor,Industry
+NCT05115500,"Second Affiliated Hospital of Soochow University",Sponsor,Other
+NCT05117008,"Medical College of Wisconsin",Sponsor,Other
+NCT05117242,BionTech,Collaborator,Industry
+NCT05117242,Genmab,Sponsor,Industry
+NCT05119907,Gilead,Sponsor,Industry
+NCT05123482,AstraZeneca,Sponsor,Industry
+NCT05126433,Jazz,Sponsor,Industry
+NCT05126719,"Shanghai Miracogen",Sponsor,Industry
+NCT05134519,"Xijing Hospital",Sponsor,Other
+NCT05135715,RemeGen,Sponsor,Industry
+NCT05139017,Merck,Sponsor,Industry
+NCT05141747,"Shanghai Miracogen",Sponsor,Industry
+NCT05141786,"Shanghai Miracogen",Sponsor,Industry
+NCT05143229,Gilead,Collaborator,Industry
+NCT05143229,Novartis,Collaborator,Industry
+NCT05143229,"University of Kansas Medical Center",Sponsor,Other
+NCT05144009,"ADC Therapeutics",Sponsor,Industry
+NCT05144841,Merck,Sponsor,Industry
+NCT05150691,DualityBio,Sponsor,Industry
+NCT05154604,"Suzhou Suncadia Biopharmaceuticals",Sponsor,Industry
+NCT05155839,"Shanghai Miracogen",Sponsor,Industry
+NCT05156866,"TORL Biotherapeutics, LLC",Sponsor,Industry
+NCT05156866,"Translational Research in Oncology",Collaborator,Other
+NCT05161390,"LaNova Medicines Zhejiang",Sponsor,Industry
+NCT05169658,Roche,Collaborator,Industry
+NCT05169658,"University of Washington",Sponsor,Other
+NCT05171647,Roche,Sponsor,Industry
+NCT05174637,"Shanghai Fudan-Zhangjiang",Sponsor,Industry
+NCT05180097,"Canadian Cancer Trials Group",Sponsor,Other
+NCT05180097,Merck,Collaborator,Industry
+NCT05180097,Seagen,Collaborator,Industry
+NCT05182866,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05182866,"Rakuten Medical",Sponsor,Industry
+NCT05182866,"Shimadzu Corporation",Collaborator,Other
+NCT05183035,AbbVie,Collaborator,Industry
+NCT05183035,EuPAL,Collaborator,Other
+NCT05183035,"LLS PedAL Initiative, LLC",Sponsor,Other
+NCT05183035,"Princess Maxima Center for Pediatric Oncology (European Sponsor)",Collaborator,Other
+NCT05183035,Roche,Collaborator,Industry
+NCT05186974,Gilead,Sponsor,Industry
+NCT05186974,Merck,Collaborator,Industry
+NCT05188209,"Shanghai Miracogen",Sponsor,Industry
+NCT05188664,"LaNova Australia Pty Limited",Sponsor,Industry
+NCT05190705,"ADC Therapeutics",Collaborator,Industry
+NCT05190705,"Shayna Sarosiek, MD",Sponsor,Other
+NCT05194072,Seagen,Sponsor,Industry
+NCT05199051,"Acute Leukemia French Association",Collaborator,Other
+NCT05199051,"Centre Antoine Lacassagne",Sponsor,Other
+NCT05200364,"Sutro Biopharma",Sponsor,Industry
+NCT05205850,RemeGen,Sponsor,Industry
+NCT05208307,"Emory University",Sponsor,Other
+NCT05208307,GSK,Collaborator,Industry
+NCT05208307,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05208762,Seagen,Sponsor,Industry
+NCT05215340,AstraZeneca,Collaborator,Industry
+NCT05215340,"Daiichi Sankyo",Sponsor,Industry
+NCT05215340,Merck,Collaborator,Industry
+NCT05216965,"Mabwell (Shanghai) Bioscience",Sponsor,Industry
+NCT05217693,"Bliss Biopharmaceutical",Sponsor,Industry
+NCT05222438,"Barbara Ann Karmanos Cancer Institute",Sponsor,Other
+NCT05226117,"High Research",Collaborator,Other
+NCT05226117,"IRCCS San Raffaele",Sponsor,Other
+NCT05229900,Seagen,Sponsor,Industry
+NCT05238831,"OHSU Knight Cancer Institute",Sponsor,Other
+NCT05238831,"Oregon Health and Science University",Collaborator,Other
+NCT05238831,Roche,Collaborator,Industry
+NCT05239624,Astellas,Collaborator,Industry
+NCT05239624,"Memorial Sloan Kettering Cancer Center",Sponsor,Other
+NCT05239624,Merck,Collaborator,Industry
+NCT05239624,Seagen,Collaborator,Industry
+NCT05241899,"The First Affiliated Hospital of Zhengzhou University",Sponsor,Other
+NCT05243693,"National Cancer Center, Korea",Sponsor,Other
+NCT05245071,Sanofi,Sponsor,Industry
+NCT05246514,AstraZeneca,Sponsor,Industry
+NCT05246514,"Daiichi Sankyo",Collaborator,Industry
+NCT05249959,"Fondazione Italiana Linfomi - ETS",Sponsor,Other
+NCT05253495,"New York Medical College",Sponsor,Other
+NCT05260957,"Lazaros Lekakis",Sponsor,Other
+NCT05260957,Roche,Collaborator,Industry
+NCT05263479,"Shanghai Hansoh Biomedical",Sponsor,Industry
+NCT05263869,"Shanghai Miracogen",Sponsor,Industry
+NCT05265013,"Rakuten Medical",Sponsor,Industry
+NCT05270057,"Medical College of Wisconsin",Sponsor,Other
+NCT05271604,BioAtla,Sponsor,Industry
+NCT05274048,"Fox Chase Cancer Center",Sponsor,Other
+NCT05274048,"National Comprehensive Cancer Network",Collaborator,Other
+NCT05274048,"Puma Biotechnology",Collaborator,Industry
+NCT05276609,"Shanghai Hansoh Biomedical",Sponsor,Industry
+NCT05279300,CStone,Sponsor,Industry
+NCT05280275,GSK,Collaborator,Industry
+NCT05280275,"Hellenic Society of Hematology",Sponsor,Other
+NCT05280470,"Daiichi Sankyo",Sponsor,Industry
+NCT05283720,AbbVie,Sponsor,Industry
+NCT05283720,Genmab,Collaborator,Industry
+NCT05288777,"University of Virginia",Sponsor,Other
+NCT05293496,MacroGenics,Sponsor,Industry
+NCT05296070,"ADC Therapeutics",Collaborator,Industry
+NCT05296070,"University of Miami",Sponsor,Other
+NCT05297552,RemeGen,Sponsor,Industry
+NCT05302284,RemeGen,Sponsor,Industry
+NCT05303792,"Alliance for Clinical Trials in Oncology",Sponsor,Other
+NCT05303792,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05308225,"Sorrento Therapeutics",Sponsor,Industry
+NCT05311397,Sichuan,Sponsor,Industry
+NCT05313243,"Tarsheen Sethi",Sponsor,Other
+NCT05313906,"Henan Cancer Hospital",Sponsor,Other
+NCT05313906,"Rongchang Biopharmaceutical",Collaborator,Other
+NCT05313906,"Zhengda Tianqing Pharmaceutical Group",Collaborator,Other
+NCT05316246,BeiGene,Collaborator,Industry
+NCT05316246,"Shanghai Zhongshan Hospital",Sponsor,Other
+NCT05316246,Takeda,Collaborator,Industry
+NCT05320588,"BiOneCure Therapeutics",Sponsor,Industry
+NCT05323045,"Byondis B.V",Sponsor,Industry
+NCT05323955,"Carey Anders, M.D",Sponsor,Other
+NCT05323955,Seagen,Collaborator,Industry
+NCT05327530,"Merck KGaA",Sponsor,Industry
+NCT05327530,"Merck KGaA, Darmstadt, Germany; Gilead Sciences; Nektar Therapeutics",Collaborator,Other
+NCT05329545,"European Network of Gynaecological Oncological Trial Groups (ENGOT)",Collaborator,Other
+NCT05329545,"GOG Foundation",Collaborator,Other
+NCT05329545,"Mersana Therapeutics",Sponsor,Industry
+NCT05331326,"Cancer Institute and Hospital, Chinese Academy of Medical Sciences",Sponsor,Other
+NCT05332561,"German Cancer Research Center",Sponsor,Other
+NCT05333809,"Shanghai Zhongshan Hospital",Sponsor,Other
+NCT05334810,"CSPC BioPharma",Sponsor,Industry
+NCT05338957,"Shanghai Miracogen",Sponsor,Industry
+NCT05338970,"Daiichi Sankyo",Sponsor,Industry
+NCT05339685,"Sichuan Baili Pharmaceutical",Sponsor,Industry
+NCT05339685,SystImmune,Collaborator,Industry
+NCT05346328,"Fudan University",Sponsor,Other
+NCT05347134,Sichuan,Sponsor,Industry
+NCT05349409,"Suzhou Suncadia Biopharmaceuticals",Sponsor,Industry
+NCT05350917,BeiGene,Collaborator,Industry
+NCT05350917,"Jiangsu Hengrui Pharmaceutical",Collaborator,Industry
+NCT05350917,RemeGen,Collaborator,Industry
+NCT05350917,"The First Affiliated Hospital of Zhengzhou University",Sponsor,Other
+NCT05351788,Sichuan,Sponsor,Industry
+NCT05353361,"Jiangsu Pharma",Sponsor,Industry
+NCT05356351,"Chongqing University Cancer Hospital",Collaborator,Other
+NCT05356351,"First Affiliated Hospital Xi'an Jiaotong University",Collaborator,Other
+NCT05356351,"Hunan Cancer Hospital",Collaborator,Other
+NCT05356351,"The Southwest Hospital of AMU",Collaborator,Other
+NCT05356351,"Tianjin Medical University Cancer Institute and Hospital",Sponsor,Other
+NCT05356351,"Tongji Hospital",Collaborator,Other
+NCT05356351,"Xiangya Hospital of Central South University",Collaborator,Other
+NCT05356351,"Xijing Hospital of Air Force Military Medical University",Collaborator,Other
+NCT05365659,"Iksuda Therapeutics",Sponsor,Industry
+NCT05367635,Sichuan,Sponsor,Industry
+NCT05372614,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT05374512,AstraZeneca,Sponsor,Industry
+NCT05374512,"Daiichi Sankyo",Collaborator,Industry
+NCT05377996,"Mersana Therapeutics",Sponsor,Industry
+NCT05378737,"Bio-Thera Solutions",Sponsor,Industry
+NCT05382286,Gilead,Sponsor,Industry
+NCT05382286,Merck,Collaborator,Industry
+NCT05382299,Gilead,Sponsor,Industry
+NCT05385692,"Sichuan Baili Pharmaceutical",Sponsor,Industry
+NCT05385692,SystImmune,Collaborator,Industry
+NCT05388149,"University Health Network, Toronto",Sponsor,Other
+NCT05388500,"Institut de cancérologie Strasbourg Europe",Sponsor,Other
+NCT05389462,"ADC Therapeutics",Sponsor,Industry
+NCT05394675,"Daiichi Sankyo",Sponsor,Industry
+NCT05394818,"Suzhou Suncadia Biopharmaceuticals",Sponsor,Industry
+NCT05395533,"Zhejiang Teruisi Pharmaceutical",Sponsor,Industry
+NCT05399654,"Tallac Therapeutics",Sponsor,Industry
+NCT05403242,"Chinese PLA General Hospital",Sponsor,Other
+NCT05404945,Merck,Collaborator,Industry
+NCT05404945,"University of Virginia",Sponsor,Other
+NCT05405621,"Bio-Thera Solutions",Sponsor,Industry
+NCT05406401,Merck,Sponsor,Industry
+NCT05408845,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05408845,"NRG Oncology",Sponsor,Industry
+NCT05410418,"Institute for Follicular Lymphoma",Collaborator,Other
+NCT05410418,Roche,Collaborator,Industry
+NCT05410418,"Washington University School of Medicine",Sponsor,Other
+NCT05414500,"Kyowa Hakko Kirin",Collaborator,Industry
+NCT05414500,Seagen,Collaborator,Industry
+NCT05414500,"University of Alabama at Birmingham",Sponsor,Other
+NCT05415215,Roche,Sponsor,Industry
+NCT05417230,"Jiangsu Cancer Institute & Hospital",Sponsor,Other
+NCT05424835,"Jiangsu Pharma",Sponsor,Industry
+NCT05426486,"Caigang Liu",Sponsor,Other
+NCT05426486,"Jiangsu Pharma",Collaborator,Industry
+NCT05429684,"First Affiliated Hospital Xi'an Jiaotong University",Sponsor,Other
+NCT05429762,Sanofi,Sponsor,Industry
+NCT05434234,"MediLink Therapeutics (Suzhou",Sponsor,Industry
+NCT05438329,DualityBio,Sponsor,Industry
+NCT05445778,"GOG Foundation",Collaborator,Other
+NCT05445778,ImmunoGen,Sponsor,Industry
+NCT05445908,Sichuan,Sponsor,Industry
+NCT05453396,"University of Washington",Sponsor,Other
+NCT05456685,ImmunoGen,Sponsor,Industry
+NCT05456698,"Institute of Hematology & Blood Diseases Hospital",Sponsor,Other
+NCT05458219,"Innovent Biologics",Sponsor,Industry
+NCT05458297,Merck,Sponsor,Industry
+NCT05458674,Criterium,Sponsor,Industry
+NCT05460273,AstraZeneca,Sponsor,Industry
+NCT05460273,"Daiichi Sankyo",Collaborator,Industry
+NCT05461768,"Sichuan Baili Pharmaceutical",Sponsor,Industry
+NCT05461768,SystImmune,Collaborator,Industry
+NCT05464030,"Merck KGaA",Sponsor,Industry
+NCT05464719,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05480384,AstraZeneca,Collaborator,Industry
+NCT05480384,"Brown University",Sponsor,Other
+NCT05482568,"Jiangsu Pharma",Sponsor,Industry
+NCT05483933,"Shattuck Labs",Sponsor,Industry
+NCT05489211,AstraZeneca,Sponsor,Industry
+NCT05489211,"Daiichi Sankyo",Collaborator,Industry
+NCT05493683,"The First Affiliated Hospital with Nanjing Medical University",Sponsor,Other
+NCT05494918,Alphamab,Sponsor,Industry
+NCT05495724,"Tianjin Medical University Second Hospital",Sponsor,Other
+NCT05498220,Roche,Collaborator,Industry
+NCT05498220,"UNC Lineberger Comprehensive Cancer Center",Sponsor,Other
+NCT05498597,"Multitude Therapeutics",Sponsor,Industry
+NCT05498597,"Tigermed Consulting",Collaborator,Industry
+NCT05502393,"Shanghai Junshi Bioscience",Sponsor,Other
+NCT05508334,RemeGen,Sponsor,Industry
+NCT05512390,AbbVie,Sponsor,Industry
+NCT05513703,AbbVie,Sponsor,Industry
+NCT05514158,RemeGen,Sponsor,Industry
+NCT05520723,Gilead,Collaborator,Industry
+NCT05520723,MedSIR,Sponsor,Other
+NCT05524545,"ALX Oncology",Sponsor,Industry
+NCT05525286,"SOTIO Biotech",Sponsor,Industry
+NCT05527184,ImmunoGen,Sponsor,Industry
+NCT05530057,"Seoul National University Hospital",Sponsor,Other
+NCT05535218,"Claudia Guerrieri",Sponsor,Other
+NCT05540483,"The First Affiliated Hospital with Nanjing Medical University",Sponsor,Other
+NCT05547321,"Oncomatryx Biopharma S.L",Sponsor,Industry
+NCT05551117,MacroGenics,Sponsor,Industry
+NCT05552001,Gilead,Collaborator,Industry
+NCT05552001,UNICANCER,Sponsor,Other
+NCT05555732,AstraZeneca,Collaborator,Industry
+NCT05555732,"Daiichi Sankyo",Sponsor,Industry
+NCT05555732,Merck,Collaborator,Industry
+NCT05556798,"Memorial Sloan Kettering Cancer Center",Sponsor,Other
+NCT05558124,"H. Lee Moffitt Cancer Center and Research Institute",Sponsor,Other
+NCT05558124,Jazz,Collaborator,Industry
+NCT05560308,"Tianjin Medical University Cancer Institute and Hospital",Sponsor,Other
+NCT05562830,Merck,Sponsor,Industry
+NCT05564858,"Shanghai Fudan-Zhangjiang",Sponsor,Industry
+NCT05565807,"Zhejiang ACEA Pharmaceutical",Sponsor,Industry
+NCT05569811,"Daiichi Sankyo",Collaborator,Industry
+NCT05569811,"SOLTI Breast Cancer Research Group",Sponsor,Other
+NCT05573802,GSK,Collaborator,Industry
+NCT05573802,"Hellenic Society of Hematology",Sponsor,Other
+NCT05575804,"Fudan University",Sponsor,Other
+NCT05575804,"GeneQuantum Healthcare (Suzhou",Collaborator,Industry
+NCT05577715,BMS,Sponsor,Industry
+NCT05577715,Eisai,Collaborator,Industry
+NCT05578287,"Sun Yat-sen University",Sponsor,Other
+NCT05579366,"ProfoundBio US",Sponsor,Industry
+NCT05581589,Gilead,Collaborator,Industry
+NCT05581589,"University of Washington",Sponsor,Other
+NCT05581875,GSK,Collaborator,Industry
+NCT05581875,"Hellenic Society of Hematology",Sponsor,Other
+NCT05582499,"Fudan University",Sponsor,Other
+NCT05584709,"Sorrento Therapeutics",Sponsor,Industry
+NCT05586061,"Qilu Hospital of Shandong University",Sponsor,Other
+NCT05593094,"Suzhou Zanrong Pharma Limited",Sponsor,Industry
+NCT05594095,"Affiliated Hospital of Nantong University",Collaborator,Other
+NCT05594095,"Chongqing University Cancer Hospital",Collaborator,Other
+NCT05594095,"First Affiliated Hospital Xi'an Jiaotong University",Collaborator,Other
+NCT05594095,"First Hospital of China Medical University",Collaborator,Other
+NCT05594095,"Fudan University",Sponsor,Other
+NCT05594095,"Fujian Medical University Union Hospital",Collaborator,Other
+NCT05594095,"Ningbo Medical Center Lihuili Hospital",Collaborator,Other
+NCT05594095,"Northern Jiangsu Province People's Hospital",Collaborator,Other
+NCT05594095,"Peking University Cancer Hospital & Institute",Collaborator,Other
+NCT05594095,"Shanghai 6th People's Hospital",Collaborator,Other
+NCT05594095,"Shanghai First Maternity and Infant Hospital",Collaborator,Other
+NCT05594095,"Sun Yat-sen University",Collaborator,Other
+NCT05594875,Atridia,Sponsor,Industry
+NCT05595447,"Hospital Regional de Alta Especialidad del Bajio",Sponsor,Other
+NCT05595447,"Universidad de Guanajuato",Collaborator,Other
+NCT05599360,"Shaare Zedek Medical Center",Sponsor,Other
+NCT05600686,"ADC Therapeutics",Collaborator,Industry
+NCT05600686,"Joseph Tuscano",Sponsor,Other
+NCT05600686,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05601401,"Peking Union Medical College Hospital",Sponsor,Other
+NCT05609968,Gilead,Collaborator,Industry
+NCT05609968,Merck,Sponsor,Industry
+NCT05611853,"BioNova Pharmaceuticals (Shanghai",Sponsor,Industry
+NCT05613088,BMS,Sponsor,Industry
+NCT05613088,Eisai,Collaborator,Industry
+NCT05615636,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05620017,"Bio-Thera Solutions",Sponsor,Industry
+NCT05620914,"Daiichi Sankyo",Collaborator,Industry
+NCT05620914,"Mustafa Khasraw, MBChB, MD, FRCP, FRACP",Sponsor,Other
+NCT05622591,"Elucida Oncology",Sponsor,Industry
+NCT05622591,"Therapeutic Advances in Childhood Leukemia and Lymphoma (TACL)",Collaborator,Other
+NCT05622890,"Hangzhou Zhongmei Huadong Pharmaceutical",Sponsor,Industry
+NCT05627414,"Tianjin Medical University Cancer Institute and Hospital",Sponsor,Other
+NCT05627960,"A&G Pharmaceutical",Sponsor,Industry
+NCT05627960,"University of Maryland Greenebaum Cancer Center",Collaborator,Other
+NCT05628857,RemeGen,Sponsor,Industry
+NCT05629585,AstraZeneca,Sponsor,Industry
+NCT05629585,"Daiichi Sankyo",Collaborator,Industry
+NCT05629585,"SWOG Clinical Trials Partnerships",Collaborator,Other
+NCT05631262,Sichuan,Sponsor,Industry
+NCT05631964,"Sichuan Baili Pharmaceutical",Sponsor,Industry
+NCT05631964,SystImmune,Collaborator,Industry
+NCT05633615,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05633615,Roche,Collaborator,Industry
+NCT05633615,"SWOG Cancer Research Network",Sponsor,Other
+NCT05633654,"Alliance Foundation Trials, LLC",Collaborator,Other
+NCT05633654,Gilead,Sponsor,Industry
+NCT05633667,"Arcus Biosciences",Collaborator,Industry
+NCT05633667,Gilead,Sponsor,Industry
+NCT05633979,"Daiichi Sankyo",Collaborator,Industry
+NCT05633979,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05635487,"Jiangsu Pharma",Collaborator,Industry
+NCT05635487,"Shengjing Hospital",Sponsor,Other
+NCT05636215,"Innovent Biologics",Sponsor,Industry
+NCT05642780,"Klus Pharma",Sponsor,Industry
+NCT05645718,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05647512,"LaNova Medicines Limited",Sponsor,Industry
+NCT05650879,"Enliven Therapeutics",Sponsor,Industry
+NCT05652855,"Minghui Pharmaceutical",Sponsor,Industry
+NCT05652868,"Mythic Therapeutics",Sponsor,Industry
+NCT05653752,"MediLink Therapeutics (Suzhou",Sponsor,Industry
+NCT05656235,Astellas,Collaborator,Industry
+NCT05656235,Merck,Collaborator,Industry
+NCT05656235,Seagen,Collaborator,Industry
+NCT05656235,"Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",Sponsor,Other
+NCT05657418,"Shanghai Junshi Bioscience",Sponsor,Other
+NCT05658562,"Mitsubishi Tanabe Pharma Corporation",Sponsor,Industry
+NCT05660395,"ADC Therapeutics",Sponsor,Industry
+NCT05662904,"German Cancer Research Center",Sponsor,Other
+NCT05662904,"University Hospital Dresden",Collaborator,Other
+NCT05662904,"University Hospital Heidelberg",Collaborator,Other
+NCT05671822,"Suzhou Suncadia Biopharmaceuticals",Sponsor,Industry
+NCT05672251,"City of Hope Medical Center",Sponsor,Other
+NCT05672251,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05673785,Takeda,Sponsor,Industry
+NCT05673928,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05673928,Roche,Collaborator,Industry
+NCT05673928,Seagen,Collaborator,Industry
+NCT05675410,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT05675579,Gilead,Collaborator,Industry
+NCT05675579,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05678205,"Artiva Biotherapeutics",Sponsor,Industry
+NCT05680662,"Ministry of Health, Saudi Arabia",Sponsor,Other
+NCT05687266,AstraZeneca,Sponsor,Industry
+NCT05688605,"Shanghai Miracogen",Sponsor,Industry
+NCT05703555,"Erasmus Medical Center",Sponsor,Other
+NCT05703555,Sanofi,Collaborator,Industry
+NCT05704829,AstraZeneca,Collaborator,Industry
+NCT05704829,"West German Study Group",Sponsor,Other
+NCT05710666,"Cancer Trials Ireland",Sponsor,Other
+NCT05714839,GSK,Sponsor,Industry
+NCT05716009,"Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins",Sponsor,Other
+NCT05716009,StemlineTherapeutics,Collaborator,Other
+NCT05718895,"Antengene Biologics Limited",Sponsor,Industry
+NCT05720117,"Pyxis Oncology",Sponsor,Industry
+NCT05720533,"Tianjin Medical University Cancer Institute and Hospital",Sponsor,Other
+NCT05721222,"ProfoundBio US",Sponsor,Industry
+NCT05726175,"West China Hospital",Sponsor,Other
+NCT05735496,"Chia Tai Tianqing Pharmaceutical Group Nanjing Shunxin Pharmaceutical",Sponsor,Industry
+NCT05744375,AstraZeneca,Collaborator,Industry
+NCT05744375,"Spanish Breast Cancer Research Group",Sponsor,Other
+NCT05744427,"Jiangsu Alphamab",Sponsor,Industry
+NCT05745740,RemeGen,Sponsor,Industry
+NCT05748171,Pfizer,Sponsor,Industry
+NCT05751512,"Shanghai Miracogen",Sponsor,Industry
+NCT05754853,"Shanghai Miracogen",Sponsor,Industry
+NCT05755048,"Shanghai Fosun Pharmaceutical Industrial Development",Sponsor,Industry
+NCT05756569,Astellas,Collaborator,Industry
+NCT05756569,"Emory University",Sponsor,Other
+NCT05756569,Merck,Collaborator,Industry
+NCT05756569,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05756569,Seagen,Collaborator,Industry
+NCT05765032,"Suzhou Suncadia Biopharmaceuticals",Sponsor,Industry
+NCT05765851,AstraZeneca,Collaborator,Industry
+NCT05765851,"Daiichi Sankyo",Sponsor,Industry
+NCT05769010,"Henan Cancer Hospital",Sponsor,Other
+NCT05770531,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05770531,"Vanderbilt-Ingram Cancer Center",Sponsor,Other
+NCT05773937,"Mabwell (Shanghai) Bioscience",Sponsor,Industry
+NCT05775471,Jonsson,Sponsor,Industry
+NCT05775471,Merck,Collaborator,Industry
+NCT05775471,Seagen,Collaborator,Industry
+NCT05785325,"Second Affiliated Hospital, School of Medicine, Zhejiang University",Sponsor,Other
+NCT05785728,DualityBio,Sponsor,Industry
+NCT05785741,DualityBio,Sponsor,Industry
+NCT05789303,Amgen,Collaborator,Industry
+NCT05789303,GSK,Collaborator,Industry
+NCT05789303,"University of Chicago",Sponsor,Other
+NCT05792410,"Jiangsu Pharma",Sponsor,Industry
+NCT05795101,AstraZeneca,Collaborator,Industry
+NCT05795101,"Daiichi Sankyo",Collaborator,Industry
+NCT05795101,"Filipa Lynce, MD",Sponsor,Other
+NCT05797168,AstraZeneca,Sponsor,Industry
+NCT05798156,"Arbeitsgemeinschaft medikamentoese Tumortherapie",Collaborator,Other
+NCT05798156,"Charite University, Berlin, Germany",Collaborator,Other
+NCT05798156,"Institut für Klinische Krebsforschung IKF GmbH at Krankenhaus Nordwest",Sponsor,Other
+NCT05798156,Roche,Collaborator,Industry
+NCT05798156,"University of Salzburg",Collaborator,Other
+NCT05798156,"Zentrum für Klinische Studien Leipzig",Collaborator,Other
+NCT05800366,"Philippe Armand, MD, PhD",Sponsor,Other
+NCT05800366,Roche,Collaborator,Industry
+NCT05804526,RemeGen,Sponsor,Industry
+NCT05805371,"City of Hope Medical Center",Sponsor,Other
+NCT05805371,"National Cancer Institute (NCI)",Collaborator,NIH
+NCT05810103,"CSPC BioPharma",Sponsor,Industry
+NCT05814354,"Jiangsu Pharma",Sponsor,Industry
+NCT05816252,"Klus Pharma",Sponsor,Industry
+NCT05816252,"Sichuan Kelun-Biotech Biopharmaceutical",Collaborator,Industry
+NCT05821933,RemeGen,Sponsor,Industry
+NCT05824325,"Fudan University",Sponsor,Other
+NCT05830097,"Coherent Biopharma",Sponsor,Industry
+NCT05830123,"Hansoh BioMedical R&D Company",Sponsor,Industry
+NCT05833867,Gilead,Collaborator,Industry
+NCT05833867,"Omar Mian",Sponsor,Other
+NCT05833867,Varian,Collaborator,Other
+NCT05834764,"Jiangsu Pharma",Collaborator,Industry
+NCT05834764,"The First Affiliated Hospital with Nanjing Medical University",Sponsor,Other
+NCT05836948,"Shanghai Hengrui",Sponsor,Industry
+NCT05838521,"Alessandro Santin",Sponsor,Other
+NCT05838521,Gilead,Collaborator,Industry
+NCT05840211,Gilead,Sponsor,Industry
+NCT05845138,"Suzhou Suncadia Biopharmaceuticals",Sponsor,Industry
+NCT05845450,"Gruppo Oncologico del Nord-Ovest",Sponsor,Other
+NCT05845814,Merck,Sponsor,Industry
+NCT05847569,"Mayo Clinic",Sponsor,Industry
+NCT05847764,"Sun Yat-sen University",Sponsor,Other
+NCT05848466,"Bio-Thera Solutions",Sponsor,Industry
+NCT05849246,"Innovent Biologics",Sponsor,Industry
+NCT05853965,"Universitätsklinikum Hamburg-Eppendorf",Sponsor,Other
+NCT05865990,"Daiichi Sankyo",Collaborator,Industry
+NCT05865990,MedSIR,Sponsor,Other
+NCT05866354,"Zai Lab",Sponsor,Industry
+NCT05866432,"Daiichi Sankyo",Collaborator,Industry
+NCT05866432,"Medical University of Vienna",Sponsor,Other
+NCT05868226,"QuantumLeap Healthcare Collaborative",Sponsor,Other
+NCT05868265,Astellas,Collaborator,Industry
+NCT05868265,"Memorial Sloan Kettering Cancer Center",Sponsor,Other
+NCT05868395,"Medical University of Vienna",Sponsor,Other
+NCT05870319,Sichuan,Sponsor,Industry
+NCT05870319,"Sichuan Kelun-Biotech Biopharmaceutical",Collaborator,Industry
+NCT05870748,"Gynecologic Oncology Group",Collaborator,Other
+NCT05870748,"Sutro Biopharma",Sponsor,Industry
+NCT05872295,"Iksuda Therapeutics",Sponsor,Industry
+NCT05873712,"Adam Kittai",Sponsor,Other
+NCT05874193,"Cristiana Costa Chase, DO",Sponsor,Other
+NCT05875168,"Daiichi Sankyo",Sponsor,Industry
+NCT05879627,"Bio-Thera Solutions",Sponsor,Industry
+NCT05879627,"Zhejiang Tumor Hospital",Collaborator,Other
+NCT05879653,Astellas,Collaborator,Industry
+NCT05879653,"Kobe City Medical Center General Hospital",Collaborator,Other
+NCT05879653,"Kyoto University Hospital",Sponsor,Other
+NCT05879653,Merck,Collaborator,Industry
+NCT05879653,"Osaka Metropolitan University",Collaborator,Other
+NCT05879653,"University of Tsukuba",Collaborator,Other
+NCT05884320,Gilead,Collaborator,Industry
+NCT05884320,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05887609,ImmunoGen,Collaborator,Industry
+NCT05887609,"University of Colorado, Denver",Sponsor,Other
+NCT05894824,"Yonsei University",Sponsor,Other
+NCT05896020,"Jiangsu Pharma",Sponsor,Industry
+NCT05898373,"Peking Union Medical College",Sponsor,Other
+NCT05900206,"Karolinska University Hospital",Sponsor,Other
+NCT05901935,"CSPC BioPharma",Sponsor,Industry
+NCT05904106,AbbVie,Collaborator,Industry
+NCT05904106,"Technische Universität Dresden",Sponsor,Other
+NCT05904106,"University Hospital Heidelberg",Collaborator,Other
+NCT05904964,"Sun Yat-Sen Memorial Hospital of Sun Yat-Sen University",Sponsor,Other
+NCT05911295,Merck,Collaborator,Industry
+NCT05911295,RemeGen,Collaborator,Industry
+NCT05911295,Seagen,Sponsor,Industry
+NCT05911958,"Henan Cancer Hospital",Sponsor,Other
+NCT05912205,"Wuhan Union Hospital, China",Sponsor,Other
+NCT05912816,"RenJi Hospital",Sponsor,Other
+NCT05914116,DualityBio,Sponsor,Industry
+NCT05914545,"Shanghai Fudan-Zhangjiang",Sponsor,Industry
+NCT05915351,"University of Kansas Medical Center",Sponsor,Other
+NCT05919212,"Fondazione Policlinico Universitario Agostino Gemelli IRCCS",Sponsor,Other
+NCT05922501,GSK,Collaborator,Industry
+NCT05922501,"Massachusetts General Hospital",Sponsor,Other
+NCT05922501,Sanofi,Collaborator,Industry
+NCT05922904,"M.D. Anderson Cancer Center",Sponsor,Other
+NCT05922904,Merck,Collaborator,Industry
+NCT05922904,Seagen,Collaborator,Industry
+NCT05923008,"Innovent Biologics",Sponsor,Industry
+NCT05923190,"Fox Chase Cancer Center",Sponsor,Other
+NCT05924256,"Fudan University",Sponsor,Other
+NCT05924750,"Sichuan Baili Pharmaceutical",Sponsor,Industry
+NCT05928897,"Xiangya Hospital of Central South University",Sponsor,Other
+NCT05930951,"Groupe Oncologie Radiotherapie Tete et Cou",Sponsor,Other
+NCT05934331,"LaNova Medicines Zhejiang",Sponsor,Industry
+NCT05940051,"Peng Liu",Sponsor,Other
+NCT05940064,"Peng Liu",Sponsor,Other
+NCT05940896,RemeGen,Sponsor,Industry
+NCT05940961,"Affiliated Hospital of Nantong University",Collaborator,Other
+NCT05940961,"First Affiliated Hospital Bengbu Medical College",Collaborator,Other
+NCT05940961,"Jining Medical University",Collaborator,Other
+NCT05940961,"Northern Jiangsu Province People's Hospital",Collaborator,Other
+NCT05940961,"Sheng-Li Xue, MD",Sponsor,Other
+NCT05940961,"Suzhou Hospital of Traditional Chinese Medicine",Collaborator,Other
+NCT05940961,"The Second People's Hospital of Huai'an",Collaborator,Other
+NCT05941507,"AntibodyChem Biosciences",Collaborator,Other
+NCT05941507,"LegoChem Biosciences",Sponsor,Industry
+NCT05943379,RemeGen,Sponsor,Industry
+NCT05947344,"Zhejiang ACEA Pharmaceutical",Sponsor,Industry
+NCT05948865,"Conjupro Biotherapeutics",Sponsor,Industry
+NCT05949619,"Sichuan Baili Pharmaceutical",Sponsor,Industry
+NCT05950945,AstraZeneca,Collaborator,Industry
+NCT05950945,"Daiichi Sankyo",Sponsor,Industry
+NCT05953168,"Fudan University",Sponsor,Other
+NCT05954143,"Bolt Biotherapeutics",Sponsor,Industry
+NCT05954143,Roche,Collaborator,Industry
+NCT05955209,"Peking University Cancer Hospital & Institute",Sponsor,Other
+NCT05955261,AbbVie,Collaborator,Industry
+NCT05955261,"St. Jude Children's Research Hospital",Sponsor,Other
+NCT05957471,"Biocity Biopharmaceutics",Sponsor,Industry
+NCT05957757,BeiGene,Collaborator,Industry
+NCT05957757,RemeGen,Collaborator,Industry
+NCT05957757,"RenJi Hospital",Sponsor,Other
+NCT05966233,"Fondazione Italiana Linfomi - ETS",Sponsor,Other
+NCT05966233,Roche,Collaborator,Industry
+NCT05971251,"ADC Therapeutics",Collaborator,Industry
+NCT05971251,"Mayur Narkhede",Sponsor,Other
+NCT05979740,"RenJi Hospital",Sponsor,Other
+NCT05980416,"Elevation Oncology",Sponsor,Industry
+NCT05980481,RemeGen,Sponsor,Industry
+NCT05982678,AstraZeneca,Collaborator,Industry
+NCT05982678,"Daiichi Sankyo",Collaborator,Industry
+NCT05982678,"The Netherlands Cancer Institute",Sponsor,Other
+NCT05982834,"Fudan University",Sponsor,Other
+NCT05990452,"Mabwell (Shanghai) Bioscience",Sponsor,Industry
+NCT05991349,"Innovent Biologics",Sponsor,Industry
+NCT05991388,"ADC Therapeutics",Collaborator,Other
+NCT05991388,"Cancer Research UK",Collaborator,Other
+NCT05991388,"Fight Kids Cancer",Collaborator,Other
+NCT05991388,Regeneron,Collaborator,Industry
+NCT05991388,"University of Birmingham",Sponsor,Other
+NCT05994001,"Shanghai Zhongshan Hospital",Sponsor,Other
+NCT05996952,RemeGen,Collaborator,Industry
+NCT05996952,"West China Hospital",Sponsor,Other
+NCT06000033,"Qilu Hospital of Shandong University",Sponsor,Other
+NCT06001255,"Hansoh BioMedical R&D Company",Sponsor,Industry
+NCT06003231,Seagen,Sponsor,Industry
+NCT06005740,"TORL Biotherapeutics, LLC",Sponsor,Industry
+NCT06005740,"Translational Research in Oncology",Collaborator,Other
+NCT06007729,"Hansoh BioMedical R&D Company",Sponsor,Industry
+NCT06008054,"Sichuan Baili Pharmaceutical",Sponsor,Industry
+NCT06008366,"Mabwell (Shanghai) Bioscience",Sponsor,Industry
+NCT06012435,Seagen,Sponsor,Industry
+NCT06014190,"Hansoh BioMedical R&D Company",Sponsor,Industry
+NCT06014658,"MBrace Therapeutics",Sponsor,Industry
+NCT06015048,"Jiangsu Pharma",Sponsor,Industry
+NCT06015880,"National Cancer Institute (NCI)",Sponsor,NIH
+NCT06018337,DualityBio,Sponsor,Industry
+PACTR202201721209443,Roche,Sponsor,Industry
+PER-067-21,AstraZeneca,Sponsor,Industry
+PER-070-21,Roche,Sponsor,Industry
+PER-082-14,Roche,Sponsor,Industry

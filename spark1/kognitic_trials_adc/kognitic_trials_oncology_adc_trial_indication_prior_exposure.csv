@@ -1,0 +1,566 @@
+nct_id,indication,prior_exposure
+ACTRN12620000490976,"Multiple Myeloma","PI Naive"
+NCT02343042,"Multiple Myeloma","anti-CD38 Naive"
+NCT02343042,"Multiple Myeloma","anti-CD38 Refractory"
+NCT02343042,"Multiple Myeloma","IMiD Exposed"
+NCT02343042,"Multiple Myeloma","IMiD Refractory"
+NCT02343042,"Multiple Myeloma","Lenalidomide Exposed"
+NCT02343042,"Multiple Myeloma","Lenalidomide Refractory"
+NCT02343042,"Multiple Myeloma","PI Exposed"
+NCT02343042,"Multiple Myeloma","PI Refractory"
+NCT03126630,Mesothelioma,"PD-1 naive"
+NCT03126630,Mesothelioma,"PD-L1 naive"
+NCT03260491,"Lung Cancer",IO-exposed
+NCT03260491,"Non-small Cell Lung Cancer",IO-exposed
+NCT03288545,"Bladder Cancer","PD-1 naive"
+NCT03319628,"Non-small Cell Lung Cancer",IO-exposed
+NCT03319628,"Non-small Cell Lung Cancer",Platinum-refractory
+NCT03319628,"Ovarian Cancer",Platinum-refractory
+NCT03334617,"Lung Cancer",IO-exposed
+NCT03334617,"Lung Cancer","PD-1 refractory"
+NCT03334617,"Lung Cancer","PD-L1 refractory"
+NCT03334617,"Non-small Cell Lung Cancer",IO-exposed
+NCT03334617,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT03334617,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT03401385,"Bladder Cancer",Platinum-refractory
+NCT03401385,"Breast Cancer",Platinum-refractory
+NCT03401385,"Cervical Cancer",Platinum-refractory
+NCT03401385,"Colorectal Cancer",Platinum-refractory
+NCT03401385,"Endometrial Cancer",Platinum-refractory
+NCT03401385,"Esophageal Cancer",Platinum-refractory
+NCT03401385,"Gastroesophageal Junction",Platinum-refractory
+NCT03401385,"Head and Neck Cancer",Platinum-refractory
+NCT03401385,"Non-small Cell Lung Cancer",Platinum-refractory
+NCT03401385,"Ovarian Cancer",Platinum-refractory
+NCT03401385,"Pancreatic Cancer",Platinum-refractory
+NCT03401385,"Prostate Cancer",Platinum-refractory
+NCT03401385,"Small Cell Lung Cancer",Platinum-refractory
+NCT03401385,"Triple-Negative Breast Cancer",Platinum-refractory
+NCT03474107,"Bladder Cancer",IO-exposed
+NCT03485209,"Head and Neck Cancer",IO-exposed
+NCT03485209,"Lung Cancer",IO-exposed
+NCT03485209,"Non-small Cell Lung Cancer",IO-exposed
+NCT03525678,"Multiple Myeloma","anti-CD38 Exposed"
+NCT03525678,"Multiple Myeloma","anti-CD38 Refractory"
+NCT03525678,"Multiple Myeloma","BCMA Naive"
+NCT03525678,"Multiple Myeloma","IMiD Exposed"
+NCT03525678,"Multiple Myeloma","IMiD Refractory"
+NCT03525678,"Multiple Myeloma","Lenalidomide Exposed"
+NCT03525678,"Multiple Myeloma","Lenalidomide Refractory"
+NCT03525678,"Multiple Myeloma","PI Exposed"
+NCT03525678,"Multiple Myeloma","PI Refractory"
+NCT03525678,"Multiple Myeloma","Triple-class Refractory"
+NCT03547973,"Bladder Cancer",IO-exposed
+NCT03547973,"Bladder Cancer","PD-1 refractory"
+NCT03547973,"Bladder Cancer","PD-L1 refractory"
+NCT03547973,"Bladder Cancer",Platinum-refractory
+NCT03552471,"Endometrial Cancer",Platinum-refractory
+NCT03552471,"Fallopian tube Cancer",Platinum-refractory
+NCT03552471,"Ovarian Cancer",Platinum-refractory
+NCT03552471,"Peritoneal Cancer",Platinum-refractory
+NCT03587311,"Fallopian tube Cancer",Platinum-refractory
+NCT03587311,"Ovarian Cancer",Platinum-refractory
+NCT03587311,"Peritoneal Cancer",Platinum-refractory
+NCT03595059,"Non-small Cell Lung Cancer",IO-exposed
+NCT03595059,"Small Cell Lung Cancer",IO-exposed
+NCT03595059,"Small Cell Lung Cancer",IO-naive
+NCT03715478,"Multiple Myeloma","IMiD Exposed"
+NCT03715478,"Multiple Myeloma","IMiD Refractory"
+NCT03715478,"Multiple Myeloma","Lenalidomide Exposed"
+NCT03715478,"Multiple Myeloma","Lenalidomide Refractory"
+NCT03715478,"Multiple Myeloma","PI Exposed"
+NCT03715478,"Multiple Myeloma","PI Refractory"
+NCT03732703,"Multiple Myeloma","IMiD Exposed"
+NCT03732703,"Multiple Myeloma","PI Exposed"
+NCT03809624,"Bladder Cancer",IO-exposed
+NCT03809624,"Bladder Cancer","PD-1 naive"
+NCT03809624,"Bladder Cancer","PD-1 refractory"
+NCT03809624,"Bladder Cancer","PD-L1 refractory"
+NCT03809624,"Esophageal Cancer",IO-exposed
+NCT03809624,"Esophageal Cancer","PD-1 refractory"
+NCT03809624,"Esophageal Cancer","PD-L1 refractory"
+NCT03809624,"Gastric Cancer",IO-exposed
+NCT03809624,"Gastric Cancer","PD-1 refractory"
+NCT03809624,"Gastric Cancer","PD-L1 refractory"
+NCT03809624,"Gastroesophageal Junction",IO-exposed
+NCT03809624,"Gastroesophageal Junction","PD-1 refractory"
+NCT03809624,"Gastroesophageal Junction","PD-L1 refractory"
+NCT03809624,"Genitourinary Cancer",IO-exposed
+NCT03809624,"Genitourinary Cancer","PD-1 refractory"
+NCT03809624,"Genitourinary Cancer","PD-L1 refractory"
+NCT03809624,"Head and Neck Cancer",IO-exposed
+NCT03809624,"Head and Neck Cancer","PD-1 refractory"
+NCT03809624,"Head and Neck Cancer","PD-L1 refractory"
+NCT03809624,"Lung Cancer",IO-exposed
+NCT03809624,"Lung Cancer","PD-1 refractory"
+NCT03809624,"Lung Cancer","PD-L1 refractory"
+NCT03809624,Melanoma,IO-exposed
+NCT03809624,Melanoma,"PD-1 refractory"
+NCT03809624,Melanoma,"PD-L1 refractory"
+NCT03809624,"Non-small Cell Lung Cancer",IO-exposed
+NCT03809624,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT03809624,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT03809624,"Renal Cell Carcinoma",IO-exposed
+NCT03809624,"Renal Cell Carcinoma","PD-1 refractory"
+NCT03809624,"Renal Cell Carcinoma","PD-L1 refractory"
+NCT03809624,"Solid Tumors",IO-exposed
+NCT03809624,"Solid Tumors","PD-1 refractory"
+NCT03809624,"Solid Tumors","PD-L1 refractory"
+NCT03816358,"Pancreatic Cancer",IO-exposed
+NCT03828292,"Multiple Myeloma","IMiD Exposed"
+NCT03828292,"Multiple Myeloma","PI Exposed"
+NCT03848845,"Multiple Myeloma","anti-CD38 Exposed"
+NCT03848845,"Multiple Myeloma","IMiD Exposed"
+NCT03848845,"Multiple Myeloma","Lenalidomide Exposed"
+NCT03848845,"Multiple Myeloma","PI Exposed"
+NCT03848845,"Multiple Myeloma","Triple-class Exposed"
+NCT03869190,"Bladder Cancer",Platinum-refractory
+NCT03964727,"Head and Neck Cancer",IO-exposed
+NCT03964727,"Head and Neck Cancer","PD-1 refractory"
+NCT03964727,"Head and Neck Cancer","PD-L1 refractory"
+NCT03964727,"Non-small Cell Lung Cancer",IO-exposed
+NCT03964727,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT03964727,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT04032704,"Esophageal Cancer",Platinum-refractory
+NCT04032704,"Gastric Cancer","PD-L1 refractory"
+NCT04032704,"Gastric Cancer",Platinum-refractory
+NCT04032704,"Gastroesophageal Junction","PD-L1 refractory"
+NCT04032704,"Gastroesophageal Junction",Platinum-refractory
+NCT04032704,"Head and Neck Cancer","PD-L1 refractory"
+NCT04032704,Melanoma,"PD-L1 refractory"
+NCT04032704,"Non-small Cell Lung Cancer",IO-exposed
+NCT04032704,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT04032704,"Non-small Cell Lung Cancer",Platinum-refractory
+NCT04032704,"Small Cell Lung Cancer",IO-exposed
+NCT04032704,"Small Cell Lung Cancer","PD-L1 refractory"
+NCT04032704,"Small Cell Lung Cancer",Platinum-refractory
+NCT04042701,"Breast Cancer",IO-naive
+NCT04042701,"Breast Cancer","PD-1 naive"
+NCT04042701,"Breast Cancer","PD-1 refractory"
+NCT04042701,"Breast Cancer","PD-L1 naive"
+NCT04042701,"Breast Cancer","PD-L1 refractory"
+NCT04042701,"Lung Cancer",IO-naive
+NCT04042701,"Lung Cancer","PD-1 naive"
+NCT04042701,"Lung Cancer","PD-1 refractory"
+NCT04042701,"Lung Cancer","PD-L1 naive"
+NCT04042701,"Lung Cancer","PD-L1 refractory"
+NCT04042701,"Non-small Cell Lung Cancer",IO-naive
+NCT04042701,"Non-small Cell Lung Cancer","PD-1 naive"
+NCT04042701,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT04042701,"Non-small Cell Lung Cancer","PD-L1 naive"
+NCT04042701,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT04126200,"Multiple Myeloma","anti-CD38 Exposed"
+NCT04126200,"Multiple Myeloma","IMiD Exposed"
+NCT04126200,"Multiple Myeloma","PI Exposed"
+NCT04126200,"Multiple Myeloma","Triple-class Exposed"
+NCT04152499,"Endometrial Cancer","PD-1 naive"
+NCT04152499,"Endometrial Cancer","PD-1 refractory"
+NCT04152499,"Gastric Cancer","PD-1 naive"
+NCT04152499,"Small Cell Lung Cancer","PD-1 refractory"
+NCT04154956,"Lung Cancer","PD-1 refractory"
+NCT04154956,"Lung Cancer","PD-L1 refractory"
+NCT04154956,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT04154956,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT04162210,"Multiple Myeloma","BCMA Naive"
+NCT04162210,"Multiple Myeloma","IMiD Exposed"
+NCT04162210,"Multiple Myeloma","IMiD Refractory"
+NCT04162210,"Multiple Myeloma","Lenalidomide Exposed"
+NCT04162210,"Multiple Myeloma","Lenalidomide Refractory"
+NCT04162210,"Multiple Myeloma","PI Exposed"
+NCT04162210,"Multiple Myeloma","PI Refractory"
+NCT04209855,"Fallopian tube Cancer",Platinum-refractory
+NCT04209855,"Ovarian Cancer",Platinum-refractory
+NCT04209855,"Peritoneal Cancer",Platinum-refractory
+NCT04246047,"Multiple Myeloma","BCMA Naive"
+NCT04251416,"Endometrial Cancer",Platinum-refractory
+NCT04254107,"Gastric Cancer",IO-exposed
+NCT04254107,"Non-small Cell Lung Cancer",IO-exposed
+NCT04254107,"Solid Tumors",IO-exposed
+NCT04398680,"Multiple Myeloma","IMiD Exposed"
+NCT04398680,"Multiple Myeloma","IMiD Refractory"
+NCT04398680,"Multiple Myeloma","Lenalidomide Exposed"
+NCT04398680,"Multiple Myeloma","Lenalidomide Refractory"
+NCT04398680,"Multiple Myeloma","PI Exposed"
+NCT04398680,"Multiple Myeloma","PI Refractory"
+NCT04398745,"Multiple Myeloma","anti-CD38 Refractory"
+NCT04398745,"Multiple Myeloma","IMiD Exposed"
+NCT04398745,"Multiple Myeloma","IMiD Refractory"
+NCT04398745,"Multiple Myeloma","Lenalidomide Exposed"
+NCT04398745,"Multiple Myeloma","Lenalidomide Refractory"
+NCT04398745,"Multiple Myeloma","PI Exposed"
+NCT04398745,"Multiple Myeloma","PI Refractory"
+NCT04398745,"Multiple Myeloma","Triple-class Refractory"
+NCT04434040,"Breast Cancer",IO-exposed
+NCT04434040,"Triple-Negative Breast Cancer",IO-exposed
+NCT04448886,"Breast Cancer",IO-naive
+NCT04468061,"Breast Cancer",IO-naive
+NCT04468061,"Breast Cancer","PD-1 naive"
+NCT04468061,"Breast Cancer","PD-L1 naive"
+NCT04468061,"Triple-Negative Breast Cancer",IO-naive
+NCT04468061,"Triple-Negative Breast Cancer","PD-1 naive"
+NCT04468061,"Triple-Negative Breast Cancer","PD-L1 naive"
+NCT04484623,"Multiple Myeloma","IMiD Exposed"
+NCT04484623,"Multiple Myeloma","Lenalidomide Exposed"
+NCT04526691,"Lung Cancer",IO-exposed
+NCT04526691,"Lung Cancer",IO-naive
+NCT04526691,"Non-small Cell Lung Cancer",IO-exposed
+NCT04526691,"Non-small Cell Lung Cancer",IO-naive
+NCT04609566,"Head and Neck Cancer","PD-1 naive"
+NCT04609566,"Head and Neck Cancer","PD-1 refractory"
+NCT04609566,"Head and Neck Cancer","PD-L1 naive"
+NCT04609566,Melanoma,"PD-1 naive"
+NCT04609566,Melanoma,"PD-1 refractory"
+NCT04609566,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT04609566,"Solid Tumors","PD-1 naive"
+NCT04609566,"Solid Tumors","PD-1 refractory"
+NCT04609566,"Squamous Cell Carcinoma","PD-1 naive"
+NCT04609566,"Squamous Cell Carcinoma","PD-1 refractory"
+NCT04609566,"Squamous Cell Carcinoma","PD-L1 naive"
+NCT04612751,"Lung Cancer",IO-exposed
+NCT04612751,"Non-small Cell Lung Cancer",IO-exposed
+NCT04619004,"Non-small Cell Lung Cancer",Platinum-refractory
+NCT04619004,"Non-small Cell Lung Cancer",TKI-progressed
+NCT04643002,"Multiple Myeloma","anti-CD38 Exposed"
+NCT04643002,"Multiple Myeloma","anti-CD38 Naive"
+NCT04643002,"Multiple Myeloma","IMiD Exposed"
+NCT04643002,"Multiple Myeloma","PI Exposed"
+NCT04643002,"Multiple Myeloma","Triple-class Exposed"
+NCT04681131,"Non-small Cell Lung Cancer","PD-1 naive"
+NCT04681131,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT04681131,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT04724018,"Bladder Cancer","PD-1 refractory"
+NCT04724018,"Bladder Cancer","PD-L1 refractory"
+NCT04868162,"Head and Neck Cancer",IO-exposed
+NCT04868162,"Head and Neck Cancer","PD-1 refractory"
+NCT04868162,"Head and Neck Cancer","PD-L1 refractory"
+NCT04868162,"Head and Neck Cancer",Platinum-refractory
+NCT04878029,"Bladder Cancer",IO-exposed
+NCT04879043,"Multiple Myeloma","anti-CD38 Exposed"
+NCT04879043,"Multiple Myeloma","anti-CD38 Refractory"
+NCT04879043,"Multiple Myeloma","BCMA Naive"
+NCT04879043,"Multiple Myeloma","IMiD Exposed"
+NCT04879043,"Multiple Myeloma","IMiD Refractory"
+NCT04879043,"Multiple Myeloma","PI Exposed"
+NCT04879043,"Multiple Myeloma","PI Refractory"
+NCT04879043,"Multiple Myeloma","Triple-class Exposed"
+NCT04879043,"Multiple Myeloma","Triple-class Refractory"
+NCT04879329,"Bladder Cancer",IO-naive
+NCT04879329,"Bladder Cancer",Platinum-refractory
+NCT04892264,"Multiple Myeloma","IMiD Exposed"
+NCT04892264,"Multiple Myeloma","IMiD Refractory"
+NCT04892264,"Multiple Myeloma","Lenalidomide Exposed"
+NCT04892264,"Multiple Myeloma","Lenalidomide Refractory"
+NCT04892264,"Multiple Myeloma","PI Exposed"
+NCT04892264,"Multiple Myeloma","PI Refractory"
+NCT04896658,"Multiple Myeloma","anti-CD38 Exposed"
+NCT04896658,"Multiple Myeloma","anti-CD38 Refractory"
+NCT04896658,"Multiple Myeloma","IMiD Exposed"
+NCT04896658,"Multiple Myeloma","IMiD Refractory"
+NCT04896658,"Multiple Myeloma","Lenalidomide Exposed"
+NCT04896658,"Multiple Myeloma","PI Exposed"
+NCT04896658,"Multiple Myeloma","PI Refractory"
+NCT04896658,"Multiple Myeloma","Triple-class Exposed"
+NCT04896658,"Multiple Myeloma","Triple-class Refractory"
+NCT04918186,"Ovarian Cancer",Platinum-refractory
+NCT04925284,"Fallopian tube Cancer",Platinum-refractory
+NCT04925284,"Ovarian Cancer",Platinum-refractory
+NCT04925284,"Peritoneal Cancer",Platinum-refractory
+NCT04928612,"Renal Cell Carcinoma","PD-1 naive"
+NCT04958785,"Triple-Negative Breast Cancer","PD-L1 refractory"
+NCT04960709,"Bladder Cancer",IO-naive
+NCT04960709,"Bladder Cancer","PD-1 naive"
+NCT04960709,"Bladder Cancer","PD-L1 naive"
+NCT04963153,"Bladder Cancer",IO-exposed
+NCT04963153,"Bladder Cancer",IO-naive
+NCT04963153,"Bladder Cancer","PD-1 naive"
+NCT04963153,"Bladder Cancer","PD-1 refractory"
+NCT04963153,"Bladder Cancer","PD-L1 naive"
+NCT04963153,"Bladder Cancer","PD-L1 refractory"
+NCT04963153,"Bladder Cancer",Platinum-refractory
+NCT04963153,"Urethral Cancer",IO-exposed
+NCT04963153,"Urethral Cancer",IO-naive
+NCT04963153,"Urethral Cancer","PD-1 naive"
+NCT04963153,"Urethral Cancer","PD-1 refractory"
+NCT04963153,"Urethral Cancer","PD-L1 naive"
+NCT04963153,"Urethral Cancer","PD-L1 refractory"
+NCT04963153,"Urethral Cancer",Platinum-refractory
+NCT04965766,"Breast Cancer",TKI-naive
+NCT04995419,"Bladder Cancer",IO-exposed
+NCT04995419,"Bladder Cancer","PD-1 naive"
+NCT04995419,"Bladder Cancer","PD-1 refractory"
+NCT04995419,"Bladder Cancer","PD-L1 naive"
+NCT04995419,"Bladder Cancer","PD-L1 refractory"
+NCT04995419,"Bladder Cancer",Platinum-refractory
+NCT05002816,"Multiple Myeloma","anti-CD38 Exposed"
+NCT05002816,"Multiple Myeloma","anti-CD38 Naive"
+NCT05002816,"Multiple Myeloma","anti-CD38 Refractory"
+NCT05002816,"Multiple Myeloma","IMiD Exposed"
+NCT05002816,"Multiple Myeloma","IMiD Refractory"
+NCT05002816,"Multiple Myeloma","PI Exposed"
+NCT05002816,"Multiple Myeloma","PI Refractory"
+NCT05002816,"Multiple Myeloma","Triple-class Refractory"
+NCT05006794,"Non-small Cell Lung Cancer",IO-exposed
+NCT05006794,"Non-small Cell Lung Cancer",Platinum-refractory
+NCT05014139,"Bladder Cancer",BCG-Unresponsive
+NCT05041257,"Fallopian tube Cancer",Platinum-refractory
+NCT05041257,"Ovarian Cancer",Platinum-refractory
+NCT05041257,"Ovarian Cancer",Platinum-sensitive
+NCT05041257,"Peritoneal Cancer",Platinum-refractory
+NCT05041842,"Breast Cancer",TKI-naive
+NCT05048797,"Non-small Cell Lung Cancer",IO-naive
+NCT05060627,"Multiple Myeloma","BCMA Naive"
+NCT05060627,"Multiple Myeloma","IMiD Exposed"
+NCT05060627,"Multiple Myeloma","IMiD Refractory"
+NCT05060627,"Multiple Myeloma","Lenalidomide Exposed"
+NCT05060627,"Multiple Myeloma","Lenalidomide Refractory"
+NCT05060627,"Multiple Myeloma","PI Exposed"
+NCT05061550,"Lung Cancer",IO-naive
+NCT05061550,"Lung Cancer","PD-1 naive"
+NCT05061550,"Lung Cancer","PD-L1 naive"
+NCT05061550,"Non-small Cell Lung Cancer",IO-naive
+NCT05061550,"Non-small Cell Lung Cancer","PD-1 naive"
+NCT05061550,"Non-small Cell Lung Cancer","PD-L1 naive"
+NCT05064358,"Multiple Myeloma","anti-CD38 Exposed"
+NCT05064358,"Multiple Myeloma","anti-CD38 Refractory"
+NCT05064358,"Multiple Myeloma","BCMA Naive"
+NCT05064358,"Multiple Myeloma","IMiD Refractory"
+NCT05064358,"Multiple Myeloma","Lenalidomide Refractory"
+NCT05064358,"Multiple Myeloma","PI Refractory"
+NCT05064358,"Multiple Myeloma","Triple-class Refractory"
+NCT05065047,"Multiple Myeloma","anti-CD38 Exposed"
+NCT05065047,"Multiple Myeloma","anti-CD38 Refractory"
+NCT05065047,"Multiple Myeloma","IMiD Exposed"
+NCT05065047,"Multiple Myeloma","IMiD Refractory"
+NCT05065047,"Multiple Myeloma","PI Exposed"
+NCT05065047,"Multiple Myeloma","PI Refractory"
+NCT05065047,"Multiple Myeloma","Triple-class Refractory"
+NCT05070247,"Esophageal Cancer",IO-exposed
+NCT05070247,"Esophageal Cancer","PD-1 refractory"
+NCT05070247,"Esophageal Cancer","PD-L1 refractory"
+NCT05070247,"Gastric Cancer",IO-exposed
+NCT05070247,"Gastric Cancer","PD-1 refractory"
+NCT05070247,"Gastric Cancer","PD-L1 refractory"
+NCT05070247,"Gastroesophageal Junction",IO-exposed
+NCT05070247,"Gastroesophageal Junction","PD-1 refractory"
+NCT05070247,"Gastroesophageal Junction","PD-L1 refractory"
+NCT05070247,"Head and Neck Cancer",IO-exposed
+NCT05070247,"Head and Neck Cancer","PD-1 refractory"
+NCT05070247,"Head and Neck Cancer","PD-L1 refractory"
+NCT05070247,"Hepatocellular Carcinoma",IO-exposed
+NCT05070247,"Hepatocellular Carcinoma","PD-1 refractory"
+NCT05070247,"Hepatocellular Carcinoma","PD-L1 refractory"
+NCT05070247,Mesothelioma,IO-exposed
+NCT05070247,Mesothelioma,"PD-1 refractory"
+NCT05070247,Mesothelioma,"PD-L1 refractory"
+NCT05070247,"Non-small Cell Lung Cancer",IO-exposed
+NCT05070247,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT05070247,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT05070247,"Pancreatic Cancer",IO-exposed
+NCT05070247,"Pancreatic Cancer","PD-1 refractory"
+NCT05070247,"Pancreatic Cancer","PD-L1 refractory"
+NCT05070247,"Solid Tumors",IO-exposed
+NCT05070247,"Solid Tumors","PD-1 refractory"
+NCT05070247,"Solid Tumors","PD-L1 refractory"
+NCT05070247,"Squamous Cell Carcinoma",IO-exposed
+NCT05070247,"Squamous Cell Carcinoma","PD-1 refractory"
+NCT05070247,"Squamous Cell Carcinoma","PD-L1 refractory"
+NCT05070247,"Triple-Negative Breast Cancer",IO-exposed
+NCT05070247,"Triple-Negative Breast Cancer","PD-1 refractory"
+NCT05070247,"Triple-Negative Breast Cancer","PD-L1 refractory"
+NCT05089734,"Non-small Cell Lung Cancer",IO-exposed
+NCT05089734,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT05089734,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT05089734,"Non-small Cell Lung Cancer",Platinum-refractory
+NCT05089734,"Non-small Cell Lung Cancer",TKI-naive
+NCT05089734,"Non-small Cell Lung Cancer",TKI-progressed
+NCT05089734,"Squamous Cell Carcinoma",IO-exposed
+NCT05089734,"Squamous Cell Carcinoma","PD-1 refractory"
+NCT05089734,"Squamous Cell Carcinoma","PD-L1 refractory"
+NCT05089734,"Squamous Cell Carcinoma",Platinum-refractory
+NCT05089734,"Squamous Cell Carcinoma",TKI-naive
+NCT05089734,"Squamous Cell Carcinoma",TKI-progressed
+NCT05117008,"Multiple Myeloma","anti-CD38 Exposed"
+NCT05117008,"Multiple Myeloma","IMiD Exposed"
+NCT05117008,"Multiple Myeloma","PI Exposed"
+NCT05117008,"Multiple Myeloma","Triple-class Exposed"
+NCT05119907,"Cervical Cancer",Platinum-refractory
+NCT05119907,"Esophageal Cancer",Platinum-refractory
+NCT05119907,"Gastric Cancer",Platinum-refractory
+NCT05119907,"Solid Tumors",Platinum-refractory
+NCT05126433,"Biliary Tract Cancer",Platinum-refractory
+NCT05126433,"Bladder Cancer",Platinum-refractory
+NCT05126433,"Breast Cancer",Platinum-refractory
+NCT05126433,"Endometrial Cancer",Platinum-refractory
+NCT05126433,"Esophageal Cancer",Platinum-refractory
+NCT05126433,"Gastric Cancer",Platinum-refractory
+NCT05126433,"Neuroendocrine Tumor",Platinum-refractory
+NCT05126433,"Pancreatic Cancer",Platinum-refractory
+NCT05126433,"Solid Tumors",Platinum-refractory
+NCT05126433,"Triple-Negative Breast Cancer",Platinum-refractory
+NCT05126719,"Nasopharyngeal Carcinoma",IO-exposed
+NCT05126719,"Nasopharyngeal Carcinoma",Platinum-refractory
+NCT05141747,"Gastric Cancer",Platinum-refractory
+NCT05141747,"Gastroesophageal Junction",Platinum-refractory
+NCT05143229,"Breast Cancer",IO-exposed
+NCT05143229,"Triple-Negative Breast Cancer",IO-exposed
+NCT05215340,"Non-small Cell Lung Cancer",IO-naive
+NCT05229900,"Ovarian Cancer",Platinum-refractory
+NCT05245071,"Non-small Cell Lung Cancer",IO-exposed
+NCT05245071,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT05245071,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT05245071,"Non-small Cell Lung Cancer",Platinum-refractory
+NCT05265013,"Bone Cancer","PD-1 naive"
+NCT05265013,"Bone Cancer",Platinum-refractory
+NCT05265013,"Head and Neck Cancer","PD-1 naive"
+NCT05265013,"Head and Neck Cancer",Platinum-refractory
+NCT05271604,"Head and Neck Cancer",IO-exposed
+NCT05271604,"Head and Neck Cancer","PD-1 refractory"
+NCT05271604,"Head and Neck Cancer","PD-L1 refractory"
+NCT05271604,"Head and Neck Cancer",Platinum-refractory
+NCT05308225,"Multiple Myeloma","anti-CD38 Exposed"
+NCT05308225,"Multiple Myeloma","anti-CD38 Refractory"
+NCT05308225,"Multiple Myeloma","IMiD Exposed"
+NCT05308225,"Multiple Myeloma","IMiD Refractory"
+NCT05308225,"Multiple Myeloma","PI Exposed"
+NCT05308225,"Multiple Myeloma","PI Refractory"
+NCT05308225,"Multiple Myeloma","Triple-class Refractory"
+NCT05327530,"Bladder Cancer",IO-naive
+NCT05327530,"Bladder Cancer","PD-1 naive"
+NCT05327530,"Bladder Cancer","PD-L1 naive"
+NCT05329545,"Fallopian tube Cancer",Platinum-sensitive
+NCT05329545,"Ovarian Cancer",Platinum-sensitive
+NCT05329545,"Peritoneal Cancer",Platinum-sensitive
+NCT05338957,"Solid Tumors",IO-naive
+NCT05338970,"Non-small Cell Lung Cancer",TKI-progressed
+NCT05339685,"Breast Cancer",IO-naive
+NCT05339685,"Gastrointestinal Cancer",IO-naive
+NCT05339685,"Solid Tumors",IO-naive
+NCT05339685,"Triple-Negative Breast Cancer",IO-naive
+NCT05351788,"Non-small Cell Lung Cancer",TKI-progressed
+NCT05374512,"Breast Cancer","PD-1 refractory"
+NCT05374512,"Breast Cancer","PD-L1 refractory"
+NCT05374512,"Triple-Negative Breast Cancer","PD-1 naive"
+NCT05374512,"Triple-Negative Breast Cancer","PD-1 refractory"
+NCT05374512,"Triple-Negative Breast Cancer","PD-L1 naive"
+NCT05374512,"Triple-Negative Breast Cancer","PD-L1 refractory"
+NCT05382286,"Breast Cancer",IO-naive
+NCT05382286,"Triple-Negative Breast Cancer",IO-naive
+NCT05456685,"Fallopian tube Cancer",Platinum-sensitive
+NCT05456685,"Ovarian Cancer",Platinum-sensitive
+NCT05456685,"Peritoneal Cancer",Platinum-sensitive
+NCT05460273,"Bladder Cancer",IO-exposed
+NCT05460273,"Breast Cancer",IO-exposed
+NCT05460273,"Gastric Cancer",IO-exposed
+NCT05460273,"Gastroesophageal Junction",IO-exposed
+NCT05460273,"Non-small Cell Lung Cancer",IO-exposed
+NCT05460273,"Solid Tumors",IO-exposed
+NCT05460273,"Triple-Negative Breast Cancer",IO-exposed
+NCT05461768,"Breast Cancer",IO-naive
+NCT05461768,"Solid Tumors",IO-naive
+NCT05464030,"Colorectal Cancer",IO-exposed
+NCT05464030,"Solid Tumors",IO-exposed
+NCT05483933,"Fallopian tube Cancer",Platinum-refractory
+NCT05483933,"Ovarian Cancer",Platinum-refractory
+NCT05483933,"Peritoneal Cancer",Platinum-refractory
+NCT05527184,"Endometrial Cancer",Platinum-refractory
+NCT05527184,"Fallopian tube Cancer",Platinum-refractory
+NCT05527184,"Ovarian Cancer",Platinum-refractory
+NCT05527184,"Peritoneal Cancer",Platinum-refractory
+NCT05556798,"Multiple Myeloma","BCMA Exposed"
+NCT05562830,"Bladder Cancer","PD-1 refractory"
+NCT05562830,"Bladder Cancer","PD-L1 refractory"
+NCT05565807,"Multiple Myeloma","anti-CD38 Exposed"
+NCT05565807,"Multiple Myeloma","anti-CD38 Refractory"
+NCT05565807,"Multiple Myeloma","IMiD Exposed"
+NCT05565807,"Multiple Myeloma","IMiD Refractory"
+NCT05565807,"Multiple Myeloma","PI Exposed"
+NCT05565807,"Multiple Myeloma","PI Refractory"
+NCT05565807,"Multiple Myeloma","Triple-class Exposed"
+NCT05577715,"Lung Cancer",IO-exposed
+NCT05577715,"Non-small Cell Lung Cancer",IO-exposed
+NCT05581875,"Multiple Myeloma","IMiD Exposed"
+NCT05581875,"Multiple Myeloma","Lenalidomide Exposed"
+NCT05581875,"Multiple Myeloma","Lenalidomide Refractory"
+NCT05609968,"Non-small Cell Lung Cancer",IO-naive
+NCT05609968,"Non-small Cell Lung Cancer","PD-1 naive"
+NCT05609968,"Non-small Cell Lung Cancer","PD-L1 naive"
+NCT05613088,"Fallopian tube Cancer",Platinum-refractory
+NCT05613088,"Ovarian Cancer",Platinum-refractory
+NCT05613088,"Peritoneal Cancer",Platinum-refractory
+NCT05622890,"Fallopian tube Cancer",Platinum-refractory
+NCT05622890,"Ovarian Cancer",Platinum-refractory
+NCT05622890,"Peritoneal Cancer",Platinum-refractory
+NCT05633667,"Lung Cancer",IO-exposed
+NCT05633667,"Lung Cancer","PD-1 refractory"
+NCT05633667,"Lung Cancer","PD-L1 refractory"
+NCT05633667,"Lung Cancer",Platinum-refractory
+NCT05633667,"Non-small Cell Lung Cancer",IO-exposed
+NCT05633667,"Non-small Cell Lung Cancer","PD-1 refractory"
+NCT05633667,"Non-small Cell Lung Cancer","PD-L1 refractory"
+NCT05633667,"Non-small Cell Lung Cancer",Platinum-refractory
+NCT05714839,"Multiple Myeloma","anti-CD38 Exposed"
+NCT05714839,"Multiple Myeloma","IMiD Exposed"
+NCT05714839,"Multiple Myeloma","PI Exposed"
+NCT05714839,"Multiple Myeloma","Triple-class Exposed"
+NCT05745740,"Non-small Cell Lung Cancer",IO-exposed
+NCT05751512,"Head and Neck Cancer",IO-exposed
+NCT05751512,"Head and Neck Cancer","PD-1 refractory"
+NCT05751512,"Head and Neck Cancer","PD-L1 refractory"
+NCT05754853,"Bladder Cancer",IO-exposed
+NCT05773937,"Bladder Cancer",IO-exposed
+NCT05773937,"Solid Tumors",IO-exposed
+NCT05775471,"Bladder Cancer",IO-naive
+NCT05789303,"Multiple Myeloma","anti-CD38 Exposed"
+NCT05789303,"Multiple Myeloma","BCMA Exposed (CAR-T)"
+NCT05789303,"Multiple Myeloma","IMiD Exposed"
+NCT05789303,"Multiple Myeloma","Lenalidomide Exposed"
+NCT05789303,"Multiple Myeloma","PI Exposed"
+NCT05821933,"Non-small Cell Lung Cancer","PD-1 naive"
+NCT05821933,"Non-small Cell Lung Cancer","PD-L1 naive"
+NCT05821933,"Non-small Cell Lung Cancer",TKI-progressed
+NCT05845814,"Bladder Cancer",IO-exposed
+NCT05847569,"Multiple Myeloma","BCMA Exposed"
+NCT05847569,"Multiple Myeloma","BCMA Naive"
+NCT05847569,"Multiple Myeloma","IMiD Exposed"
+NCT05847569,"Multiple Myeloma","Lenalidomide Exposed"
+NCT05847569,"Multiple Myeloma","PI Exposed"
+NCT05853965,"Multiple Myeloma","anti-CD38 Exposed"
+NCT05853965,"Multiple Myeloma","BCMA Naive"
+NCT05853965,"Multiple Myeloma","IMiD Exposed"
+NCT05853965,"Multiple Myeloma","PI Exposed"
+NCT05866432,"Triple-Negative Breast Cancer",IO-exposed
+NCT05870748,"Fallopian tube Cancer",Platinum-refractory
+NCT05870748,"Ovarian Cancer",Platinum-refractory
+NCT05870748,"Peritoneal Cancer",Platinum-refractory
+NCT05874193,"Multiple Myeloma","anti-CD38 Refractory"
+NCT05874193,"Multiple Myeloma","BCMA Exposed"
+NCT05874193,"Multiple Myeloma","IMiD Refractory"
+NCT05874193,"Multiple Myeloma","PI Refractory"
+NCT05879653,"Bladder Cancer",IO-naive
+NCT05879653,"Bladder Cancer","PD-1 naive"
+NCT05879653,"Bladder Cancer","PD-L1 naive"
+NCT05914116,"Non-small Cell Lung Cancer",IO-exposed
+NCT05922501,"Multiple Myeloma","anti-CD38 Exposed"
+NCT05922501,"Multiple Myeloma","anti-CD38 Naive"
+NCT05922501,"Multiple Myeloma","BCMA Naive"
+NCT05922501,"Multiple Myeloma","IMiD Naive"
+NCT05922501,"Multiple Myeloma","Lenalidomide Exposed"
+NCT05922501,"Multiple Myeloma","PI Exposed"
+NCT05943379,"Bladder Cancer",BCG-naive
+NCT05943379,"Bladder Cancer",BCG-Unresponsive
+NCT05957757,"Bladder Cancer","BCG Induction Failure"
+NCT05957757,"Bladder Cancer",IO-naive
+NCT05957757,"Bladder Cancer","PD-1 naive"
+NCT05957757,"Bladder Cancer","PD-L1 naive"
+NCT06008054,"Colorectal Cancer",IO-naive
+NCT06008054,"Colorectal Cancer",TKI-naive
+NCT06008054,"Esophageal Cancer",IO-naive
+NCT06008054,"Esophageal Cancer",TKI-naive
+NCT06008054,"Gastric Cancer",IO-naive
+NCT06008054,"Gastric Cancer",TKI-naive
+NCT06008054,"Gastrointestinal Cancer",IO-naive
+NCT06008054,"Gastrointestinal Cancer",TKI-naive
+NCT06008366,"Solid Tumors",IO-naive
+NCT06014190,"Fallopian tube Cancer",Platinum-refractory
+NCT06014190,"Ovarian Cancer",Platinum-refractory
+NCT06014190,"Peritoneal Cancer",Platinum-refractory

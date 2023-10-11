@@ -1,0 +1,3330 @@
+nct_id,indication,line_of_therapy
+ACTRN12619000581167,"Classical Hodgkin Lymphoma",1L
+ACTRN12619000581167,"Classical Hodgkin Lymphoma",2L
+ACTRN12619001265167,"Lung Cancer",1L
+ACTRN12619001265167,"Lung Cancer",2L
+ACTRN12619001265167,"Non-small Cell Lung Cancer",1L
+ACTRN12619001265167,"Non-small Cell Lung Cancer",2L
+ACTRN12619001265167,"Solid Tumors",1L
+ACTRN12619001265167,"Solid Tumors",2L
+ACTRN12620000490976,"Multiple Myeloma",1-3PL
+ChiCTR2000039157,"Lung Cancer",3L
+ChiCTR2000039157,"Non-small Cell Lung Cancer",3L
+ChiCTR2000039157,"Solid Tumors",3L
+ChiCTR2100048560,"Breast Cancer",Neoadjuvant
+ChiCTR2200060250,"Breast Cancer",Neoadjuvant
+ChiCTR2200062770,"Colorectal Cancer",3L
+ChiCTR2200063838,"Biliary Tract Cancer",2L
+ChiCTR2200063838,"Bladder Cancer",2L
+ChiCTR2200063838,"Gallbladder Cancer",2L
+ChiCTR2200063838,"Genitourinary Cancer",2L
+ChiCTR2200065807,"Biliary Tract Cancer",3L
+ChiCTR2200066256,"Bladder Cancer",2L
+ChiCTR2200066256,"Genitourinary Cancer",2L
+ChiCTR2200066256,"Liver Cancer",2L
+ChiCTR2200066256,"Solid Tumors",2L
+ChiCTR2300067600,"Breast Cancer",2L
+ChiCTR2300068946,"Brain Cancer",1L
+ChiCTR2300068946,"Brain Cancer",2L
+ChiCTR2300068946,"Breast Cancer",1L
+ChiCTR2300068946,"Breast Cancer",2L
+ChiCTR2300069410,"Bladder Cancer",1L
+ChiCTR2300069410,"Genitourinary Cancer",1L
+CTRI/2019/08/020544,"Breast Cancer",2L
+CTRI/2021/10/037317,"B-cell Leukemia",2L
+CTRI/2021/10/037317,"B-cell Lymphoma",2L
+CTRI/2021/10/037317,"Central Nervous System Lymphoma",2L
+CTRI/2021/10/037317,"Diffuse Large B-cell Lymphoma",2L
+CTRI/2021/10/037317,"Non-Hodgkin Lymphoma",2L
+CTRI/2022/02/040116,"Lung Cancer",1L
+CTRI/2022/02/040116,"Non-small Cell Lung Cancer",1L
+CTRI/2023/05/052218,"Liver Cancer",1L
+CTRI/2023/05/052218,"Lung Cancer",1L
+CTRI/2023/05/052218,"Non-small Cell Lung Cancer",1L
+EUCTR2005-001588-78-GB,"Acute Myeloid Leukemia",1L
+EUCTR2005-001588-78-GB,"Myelodysplastic Syndrome",1L
+EUCTR2007-003798-16-DK,"Acute Myeloid Leukemia",1L
+EUCTR2007-003798-16-DK,"Myelodysplastic Syndrome",1L
+EUCTR2010-018980-41-BE,"Acute Myeloid Leukemia",1L
+EUCTR2010-018980-41-BE,"Hematological Malignancies",1L
+EUCTR2013-003252-20-BE,"Bladder Cancer",2L
+EUCTR2013-003252-20-BE,"Bladder Cancer",3L
+EUCTR2013-003252-20-BE,"Bladder Cancer",4L
+EUCTR2013-003252-20-BE,"Breast Cancer",2L
+EUCTR2013-003252-20-BE,"Breast Cancer",3L
+EUCTR2013-003252-20-BE,"Breast Cancer",4L
+EUCTR2013-003252-20-BE,"Genitourinary Cancer",2L
+EUCTR2013-003252-20-BE,"Genitourinary Cancer",3L
+EUCTR2013-003252-20-BE,"Genitourinary Cancer",4L
+EUCTR2013-003252-20-BE,"Triple-Negative Breast Cancer",2L
+EUCTR2013-003252-20-BE,"Triple-Negative Breast Cancer",3L
+EUCTR2013-003252-20-BE,"Triple-Negative Breast Cancer",4L
+EUCTR2014-000793-19-ES,"Breast Cancer",1L
+EUCTR2014-000808-10-SE,"Breast Cancer",Neoadjuvant
+EUCTR2014-002195-90-DK,"Acute Myeloid Leukemia",2L
+EUCTR2014-002195-90-DK,"Myelodysplastic Syndrome",2L
+EUCTR2014-005341-44-AT,"Solid Tumors",2L
+EUCTR2016-000227-71-FI,"Acute Lymphocytic Leukemia",2L
+EUCTR2016-000227-71-FI,"B-cell Leukemia",2L
+EUCTR2016-000227-71-FI,"B-cell Lymphoma",2L
+EUCTR2016-000227-71-FI,"Central Nervous System Lymphoma",2L
+EUCTR2016-000227-71-FI,"Diffuse Large B-cell Lymphoma",2L
+EUCTR2016-000227-71-FI,"Gastric Cancer",2L
+EUCTR2016-000227-71-FI,"Gastrointestinal Cancer",2L
+EUCTR2016-000227-71-FI,"Non-Hodgkin Lymphoma",2L
+EUCTR2016-000227-71-FI,"Primary Mediastinal B-cell Lymphoma",2L
+EUCTR2019-002181-12-IT,"Breast Cancer",2L
+EUCTR2019-002181-12-IT,"Solid Tumors",2L
+EUCTR2019-003084-21-IT,"Classical Hodgkin Lymphoma",2L
+EUCTR2020-000273-24-GB,"Acute Myeloid Leukemia",1L
+EUCTR2020-004181-20-IT,"Classical Hodgkin Lymphoma",2L
+EUCTR2021-003526-80-CZ,"Anaplastic Large Cell Lymphoma",1L
+EUCTR2021-003526-80-CZ,"Peripheral T-cell Lymphoma",1L
+EUCTR2021-003526-80-CZ,"T-cell lymphoma",1L
+JPRN-jRCT2011210017,"Head and Neck Cancer",1L
+JPRN-jRCT2031200186,"Head and Neck Cancer",2L
+JPRN-jRCT2031200186,"Lung Cancer",2L
+JPRN-jRCT2031200186,"Non-small Cell Lung Cancer",2L
+JPRN-jRCT2031220404,"Colorectal Cancer",1L
+JPRN-jRCT2031220404,"Endometrial Cancer",1L
+JPRN-jRCT2031220404,"Fallopian tube Cancer",1L
+JPRN-jRCT2031220404,"Gastric Cancer",1L
+JPRN-jRCT2031220404,"Gastrointestinal Cancer",1L
+JPRN-jRCT2031220404,"Ovarian Cancer",1L
+JPRN-jRCT2031220404,"Peritoneal Cancer",1L
+JPRN-jRCT2031220404,"Prostate Cancer",1L
+JPRN-jRCT2031220404,"Solid Tumors",1L
+JPRN-jRCT2031220414,"Solid Tumors",2L
+JPRN-jRCT2051220070,"Solid Tumors",1L
+JPRN-jRCT2061220066,"Lung Cancer",1L
+JPRN-jRCT2061220066,"Non-small Cell Lung Cancer",1L
+JPRN-jRCTs031210410,"Brain Cancer",2L
+JPRN-jRCTs031210410,"Breast Cancer",2L
+JPRN-jRCTs041200063,"Acute Myeloid Leukemia",1L
+NCT00006721,"Follicular Lymphoma",1L
+NCT00006721,"Non-Hodgkin Lymphoma",1L
+NCT00135200,"Multiple Myeloma",1-3PL
+NCT00135200,"Multiple Myeloma","Newly Diagnosed"
+NCT00658814,"Acute Myeloid Leukemia",1L
+NCT00658814,"Acute Myeloid Leukemia",2L
+NCT00781612,"Solid Tumors",2L
+NCT00801489,"Acute Myeloid Leukemia",1L
+NCT00801489,"Myelodysplastic Syndrome",1L
+NCT01352520,"Anaplastic Large Cell Lymphoma",2L
+NCT01352520,"Cutaneous T-cell Lymphoma",2L
+NCT01352520,"T-cell lymphoma",2L
+NCT01371630,"Acute Lymphocytic Leukemia",1L
+NCT01371630,"Acute Lymphocytic Leukemia",2L
+NCT01371630,"B-cell Lymphoma",1L
+NCT01371630,"B-cell Lymphoma",2L
+NCT01371630,"Burkitt Lymphoma",1L
+NCT01371630,"Burkitt Lymphoma",2L
+NCT01409161,"Acute Promyelocytic Leukemia",1L
+NCT01476410,"Classical Hodgkin Lymphoma",1L
+NCT01476410,"Hodgkin Lymphoma",1L
+NCT01494662,"Breast Cancer",2L
+NCT01494662,"Breast Cancer",3L
+NCT01494662,"Breast Cancer",4L
+NCT01508312,"Classical Hodgkin Lymphoma",2L
+NCT01508312,"Hodgkin Lymphoma",1L
+NCT01508312,"Hodgkin Lymphoma",2L
+NCT01565200,"Breast Cancer",2L
+NCT01703949,"Hodgkin Lymphoma",2L
+NCT01703949,"Hodgkin Lymphoma",3L
+NCT01703949,"Non-Hodgkin Lymphoma",2L
+NCT01703949,"Non-Hodgkin Lymphoma",3L
+NCT01712490,"Classical Hodgkin Lymphoma",1L
+NCT01712490,"Hodgkin Lymphoma",1L
+NCT01716806,"Classical Hodgkin Lymphoma",1L
+NCT01716806,"Hodgkin Lymphoma",1L
+NCT01716806,"Peripheral T-cell Lymphoma",1L
+NCT01771107,"Hodgkin Lymphoma",1L
+NCT01772472,"Breast Cancer",Adjuvant
+NCT01853748,"Breast Cancer",1L
+NCT01868451,"Classical Hodgkin Lymphoma",1L
+NCT01868451,"Hodgkin Lymphoma",1L
+NCT01920932,"Classical Hodgkin Lymphoma",1L
+NCT01920932,"Hodgkin Lymphoma",1L
+NCT01979536,"Anaplastic Large Cell Lymphoma",1L
+NCT02099058,"Non-small Cell Lung Cancer",2L
+NCT02099058,"Non-small Cell Lung Cancer",3L
+NCT02099058,"Solid Tumors",2L
+NCT02099058,"Solid Tumors",3L
+NCT02117297,"Acute Myeloid Leukemia",2L
+NCT02117297,"Myelodysplastic Syndrome",2L
+NCT02152995,"Thyroid Cancer",2L
+NCT02166463,"Classical Hodgkin Lymphoma",1L
+NCT02166463,"Hodgkin Lymphoma",1L
+NCT02187848,"Biliary Tract Cancer",1L
+NCT02187848,"Bladder Cancer",1L
+NCT02187848,"Colorectal Cancer",1L
+NCT02187848,"Endometrial Cancer",1L
+NCT02187848,"Gastric Cancer",1L
+NCT02187848,"Non-small Cell Lung Cancer",1L
+NCT02187848,"Ovarian Cancer",1L
+NCT02187848,"Pancreatic Cancer",1L
+NCT02187848,"Small Cell Lung Cancer",1L
+NCT02187848,"Solid Tumors",1L
+NCT02191930,"Classical Hodgkin Lymphoma",1L
+NCT02191930,"Hodgkin Lymphoma",1L
+NCT02226276,"Breast Cancer",1L
+NCT02227199,"Hodgkin Lymphoma",1L
+NCT02272478,"Acute Myeloid Leukemia",2L
+NCT02272478,"Myelodysplastic Syndrome",2L
+NCT02298257,"Hodgkin Lymphoma",1L
+NCT02314481,"Non-small Cell Lung Cancer",2L
+NCT02343042,"Multiple Myeloma",1-3PL
+NCT02343042,"Multiple Myeloma",">= 1PL"
+NCT02343042,"Multiple Myeloma",">= 2PL"
+NCT02343042,"Multiple Myeloma",">= 3PL"
+NCT02343042,"Multiple Myeloma","Newly Diagnosed"
+NCT02390427,"Breast Cancer",2L
+NCT02390427,"Breast Cancer",3L
+NCT02390427,"Breast Cancer",4L
+NCT02393690,"Thyroid Cancer",1L
+NCT02398240,"Hodgkin Lymphoma",1L
+NCT02448420,"Breast Cancer",2L
+NCT02453594,"Classical Hodgkin Lymphoma",2L
+NCT02453594,"Hodgkin Lymphoma",2L
+NCT02465060,"Biliary Tract Cancer",1L
+NCT02465060,"Bladder Cancer",1L
+NCT02465060,"Breast Cancer",1L
+NCT02465060,"Cervical Cancer",1L
+NCT02465060,"Colorectal Cancer",1L
+NCT02465060,"Endometrial Cancer",1L
+NCT02465060,"Esophageal Cancer",1L
+NCT02465060,"Gastric Cancer",1L
+NCT02465060,Glioma,1L
+NCT02465060,"Head and Neck Cancer",2L
+NCT02465060,"Hepatocellular Carcinoma",1L
+NCT02465060,"Lung Cancer",1L
+NCT02465060,Melanoma,1L
+NCT02465060,"Ovarian Cancer",1L
+NCT02465060,"Pancreatic Cancer",1L
+NCT02465060,"Prostate Cancer",1L
+NCT02465060,"Renal Cell Carcinoma",1L
+NCT02465060,"Skin Cancer",1L
+NCT02465060,"Solid Tumors",1L
+NCT02465060,"Uterine Cancer",1L
+NCT02473146,"Acute Myeloid Leukemia",1L
+NCT02564900,"Breast Cancer",1L
+NCT02564900,"Breast Cancer",2L
+NCT02564900,"Gastric Cancer",1L
+NCT02564900,"Gastric Cancer",2L
+NCT02564900,"Gastroesophageal Junction",1L
+NCT02564900,"Gastroesophageal Junction",2L
+NCT02564900,"Solid Tumors",1L
+NCT02564900,"Solid Tumors",2L
+NCT02564900,"Solid Tumors",3L
+NCT02564900,"Solid Tumors",4L
+NCT02568839,"Breast Cancer",Neoadjuvant
+NCT02588651,"Adult T-cell Leukemia-Lymphoma",2L
+NCT02588651,"Enteropathy-Associated T-cell Lymphoma",2L
+NCT02588651,"Peripheral T-cell Lymphoma",2L
+NCT02588651,"T-cell lymphoma",2L
+NCT02616965,"Anaplastic Large Cell Lymphoma",1L
+NCT02616965,"Cutaneous T-cell Lymphoma",1L
+NCT02616965,"Hematological Malignancies",1L
+NCT02661503,"Classical Hodgkin Lymphoma",1L
+NCT02661503,"Hodgkin Lymphoma",1L
+NCT02665065,"Acute Myeloid Leukemia",2L
+NCT02675829,"Bladder Cancer",1L
+NCT02675829,"Bladder Cancer",2L
+NCT02675829,"Bladder Cancer",3L
+NCT02675829,"Bladder Cancer",4L
+NCT02675829,"Colorectal Cancer",1L
+NCT02675829,"Endometrial Cancer",1L
+NCT02675829,"Gynecologic Cancer",1L
+NCT02675829,"Lung Cancer",1L
+NCT02675829,"Solid Tumors",1L
+NCT02684292,"Classical Hodgkin Lymphoma",2L
+NCT02684292,"Hodgkin Lymphoma",2L
+NCT02724163,"Acute Myeloid Leukemia",1L
+NCT02724163,"Myelodysplastic Syndrome",1L
+NCT02734771,"Diffuse Large B-cell Lymphoma",1L
+NCT02744612,"Hodgkin Lymphoma",2L
+NCT02758717,"Classical Hodgkin Lymphoma",1L
+NCT02758717,"Hodgkin Lymphoma",1L
+NCT02877303,"Acute Lymphocytic Leukemia",1L
+NCT02877303,"Lymphoblastic Lymphoma",1L
+NCT02927769,"Classical Hodgkin Lymphoma",2L
+NCT02927769,"Hodgkin Lymphoma",2L
+NCT02980341,"Breast Cancer",1L
+NCT02980341,"Breast Cancer",2L
+NCT02980341,"Breast Cancer",3L
+NCT02980341,"Breast Cancer",4L
+NCT02980341,"Triple-Negative Breast Cancer",1L
+NCT02980341,"Triple-Negative Breast Cancer",2L
+NCT02980341,"Triple-Negative Breast Cancer",3L
+NCT02980341,"Triple-Negative Breast Cancer",4L
+NCT02981628,"Acute Lymphocytic Leukemia",3L
+NCT02981628,"B-cell Acute Lymphocytic Leukemia",3L
+NCT02981628,"Lymphoblastic Lymphoma",3L
+NCT02996825,"Breast Cancer",2L
+NCT02996825,"Endometrial Cancer",2L
+NCT02996825,"Fallopian tube Cancer",2L
+NCT02996825,"Ovarian Cancer",2L
+NCT02996825,"Peritoneal Cancer",2L
+NCT02996825,"Triple-Negative Breast Cancer",2L
+NCT03007030,Mesothelioma,2L
+NCT03013933,"Hodgkin Lymphoma",2L
+NCT03032107,"Breast Cancer",1L
+NCT03032107,"Breast Cancer",2L
+NCT03052634,"Breast Cancer",1L
+NCT03052634,"Breast Cancer",2L
+NCT03052634,"Breast Cancer",3L
+NCT03057795,"Classical Hodgkin Lymphoma",1L
+NCT03057795,"Classical Hodgkin Lymphoma",2L
+NCT03057795,"Hodgkin Lymphoma",1L
+NCT03057795,"Hodgkin Lymphoma",2L
+NCT03104491,"Acute Lymphocytic Leukemia",2L
+NCT03104491,"Non-Hodgkin Lymphoma",2L
+NCT03113500,"Adult T-cell Leukemia-Lymphoma",1L
+NCT03113500,"Anaplastic Large Cell Lymphoma",1L
+NCT03113500,"Enteropathy-Associated T-cell Lymphoma",1L
+NCT03113500,"Non-Hodgkin Lymphoma",1L
+NCT03113500,"Peripheral T-cell Lymphoma",1L
+NCT03113500,"T-cell lymphoma",1L
+NCT03126630,Mesothelioma,2L
+NCT03126630,Mesothelioma,3L
+NCT03126916,Neuroblastoma,1L
+NCT03187210,"Hodgkin Lymphoma",1L
+NCT03187210,"Peripheral T-cell Lymphoma",1L
+NCT03217643,"Enteropathy-Associated T-cell Lymphoma",1L
+NCT03219333,"Bladder Cancer",1L
+NCT03219333,"Bladder Cancer",2L
+NCT03219333,"Genitourinary Cancer",2L
+NCT03219333,"Urethral Cancer",2L
+NCT03233347,"Classical Hodgkin Lymphoma",1L
+NCT03233347,"Hodgkin Lymphoma",1L
+NCT03246750,"T-cell lymphoma",1L
+NCT03248492,"Breast Cancer",2L
+NCT03248492,"Breast Cancer",3L
+NCT03249870,"Acute Lymphocytic Leukemia",1L
+NCT03255070,"Breast Cancer",2L
+NCT03255070,"Gastric Cancer",2L
+NCT03255070,"Solid Tumors",2L
+NCT03260491,"Lung Cancer",2L
+NCT03260491,"Lung Cancer",3L
+NCT03260491,"Lung Cancer",4L
+NCT03260491,"Non-small Cell Lung Cancer",2L
+NCT03260491,"Non-small Cell Lung Cancer",3L
+NCT03260491,"Non-small Cell Lung Cancer",4L
+NCT03264131,"Adult T-cell Leukemia-Lymphoma",1L
+NCT03264131,"Adult T-cell Leukemia-Lymphoma",2L
+NCT03264131,"Peripheral T-cell Lymphoma",1L
+NCT03264131,"Peripheral T-cell Lymphoma",2L
+NCT03264547,"Breast Cancer",2L
+NCT03274492,"Anaplastic Large Cell Lymphoma",1L
+NCT03274492,"B-cell Lymphoma",1L
+NCT03274492,"B-cell Lymphoma","Newly Diagnosed"
+NCT03274492,"Diffuse Large B-cell Lymphoma",1L
+NCT03274492,"Diffuse Large B-cell Lymphoma","Newly Diagnosed"
+NCT03288545,"Bladder Cancer",1L
+NCT03288545,"Bladder Cancer",2L
+NCT03288545,"Genitourinary Cancer",1L
+NCT03288545,"Urethral Cancer",1L
+NCT03310957,"Breast Cancer",1L
+NCT03310957,"Triple-Negative Breast Cancer",1L
+NCT03319628,"Non-small Cell Lung Cancer",2L
+NCT03319628,"Non-small Cell Lung Cancer",3L
+NCT03319628,"Ovarian Cancer",2L
+NCT03319628,"Ovarian Cancer",3L
+NCT03319628,"Solid Tumors",2L
+NCT03319628,"Solid Tumors",3L
+NCT03334617,"Lung Cancer",2L
+NCT03334617,"Lung Cancer",3L
+NCT03334617,"Lung Cancer",4L
+NCT03334617,"Non-small Cell Lung Cancer",2L
+NCT03334617,"Non-small Cell Lung Cancer",3L
+NCT03334617,"Non-small Cell Lung Cancer",4L
+NCT03337698,"Non-small Cell Lung Cancer",1L
+NCT03337698,"Non-small Cell Lung Cancer",2L
+NCT03356054,"Diffuse Large B-cell Lymphoma",2L
+NCT03356054,"Non-Hodgkin Lymphoma",2L
+NCT03356054,"Primary Mediastinal B-cell Lymphoma",2L
+NCT03374332,"Acute Myeloid Leukemia",2L
+NCT03379428,"Breast Cancer",2L
+NCT03379428,"Breast Cancer",3L
+NCT03379428,"Breast Cancer",4L
+NCT03383692,"Solid Tumors",1L
+NCT03383692,"Solid Tumors",2L
+NCT03383692,"Solid Tumors",3L
+NCT03383692,"Solid Tumors",4L
+NCT03386513,"Acute Lymphocytic Leukemia",1L
+NCT03386513,"Acute Myeloid Leukemia",1L
+NCT03386513,"Blastic Plasmacytoid Dendritic Cell Neoplasm",1L
+NCT03386513,"Chronic Myeloid Leukemia",1L
+NCT03386513,"Chronic Myelomonocytic Leukemia",1L
+NCT03386513,"Hematological Malignancies",1L
+NCT03386513,"Myelodysplastic Syndrome",1L
+NCT03386513,"Myeloproliferative Neoplasm",1L
+NCT03401385,"Bladder Cancer",1L
+NCT03401385,"Breast Cancer",1L
+NCT03401385,"Breast Cancer",2L
+NCT03401385,"Cervical Cancer",1L
+NCT03401385,"Colorectal Cancer",1L
+NCT03401385,"Endometrial Cancer",1L
+NCT03401385,"Esophageal Cancer",1L
+NCT03401385,"Gastric Cancer",1L
+NCT03401385,"Gastroesophageal Junction",1L
+NCT03401385,"Head and Neck Cancer",1L
+NCT03401385,"Non-small Cell Lung Cancer",1L
+NCT03401385,"Non-small Cell Lung Cancer",2L
+NCT03401385,"Ovarian Cancer",1L
+NCT03401385,"Pancreatic Cancer",1L
+NCT03401385,"Prostate Cancer",1L
+NCT03401385,"Small Cell Lung Cancer",1L
+NCT03401385,"Solid Tumors",1L
+NCT03401385,"Triple-Negative Breast Cancer",1L
+NCT03401385,"Triple-Negative Breast Cancer",2L
+NCT03409432,"Anaplastic Large Cell Lymphoma",2L
+NCT03409432,"Cutaneous T-cell Lymphoma",2L
+NCT03409432,"Non-Hodgkin Lymphoma",2L
+NCT03409432,"T-cell lymphoma",2L
+NCT03424005,"Breast Cancer",1L
+NCT03424005,"Breast Cancer",2L
+NCT03424005,"Triple-Negative Breast Cancer",1L
+NCT03424005,"Triple-Negative Breast Cancer",2L
+NCT03424603,"B-cell Lymphoma",2L
+NCT03424603,"B-cell Lymphoma",3L
+NCT03424603,"Diffuse Large B-cell Lymphoma",2L
+NCT03424603,"Diffuse Large B-cell Lymphoma",3L
+NCT03424603,"Follicular Lymphoma",2L
+NCT03424603,"Follicular Lymphoma",3L
+NCT03424603,"Mantle Cell Lymphoma",2L
+NCT03424603,"Mantle Cell Lymphoma",3L
+NCT03424603,"Multiple Myeloma",">= 1PL"
+NCT03424603,"Non-Hodgkin Lymphoma",2L
+NCT03424603,"Non-Hodgkin Lymphoma",3L
+NCT03425279,"Ewing Sarcoma",1L
+NCT03425279,Leiomyosarcoma,1L
+NCT03425279,Liposarcoma,1L
+NCT03425279,Melanoma,1L
+NCT03425279,Melanoma,2L
+NCT03425279,"Non-small Cell Lung Cancer",1L
+NCT03425279,Osteosarcoma,1L
+NCT03425279,"Soft Tissue Sarcoma",1L
+NCT03425279,"Solid Tumors",1L
+NCT03425279,"Synovial Sarcoma",1L
+NCT03441061,"Acute Lymphocytic Leukemia",2L
+NCT03460522,"Acute Lymphocytic Leukemia",Maintenance
+NCT03467373,"B-cell Lymphoma",1L
+NCT03467373,"Diffuse Large B-cell Lymphoma",1L
+NCT03467373,"Non-Hodgkin Lymphoma",1L
+NCT03474107,"Bladder Cancer",2L
+NCT03474107,"Bladder Cancer",3L
+NCT03474133,"Hepatocellular Carcinoma",1L
+NCT03474133,"Hepatocellular Carcinoma",2L
+NCT03474133,"Hodgkin Lymphoma",1L
+NCT03474133,"Hodgkin Lymphoma",2L
+NCT03474133,"Solid Tumors",1L
+NCT03474133,"Solid Tumors",2L
+NCT03485209,"Colorectal Cancer",2L
+NCT03485209,"Colorectal Cancer",3L
+NCT03485209,"Colorectal Cancer",4L
+NCT03485209,"Head and Neck Cancer",2L
+NCT03485209,"Head and Neck Cancer",3L
+NCT03485209,"Head and Neck Cancer",4L
+NCT03485209,"Lung Cancer",2L
+NCT03485209,"Lung Cancer",3L
+NCT03485209,"Lung Cancer",4L
+NCT03485209,"Non-small Cell Lung Cancer",2L
+NCT03485209,"Non-small Cell Lung Cancer",3L
+NCT03485209,"Non-small Cell Lung Cancer",4L
+NCT03485209,"Pancreatic Cancer",2L
+NCT03485209,"Solid Tumors",2L
+NCT03485209,"Solid Tumors",3L
+NCT03485209,"Squamous Cell Carcinoma",2L
+NCT03485209,"Squamous Cell Carcinoma",3L
+NCT03500380,"Breast Cancer",3L
+NCT03504488,"Breast Cancer",1L
+NCT03504488,"Breast Cancer",2L
+NCT03504488,"Breast Cancer",3L
+NCT03504488,"Breast Cancer",4L
+NCT03504488,"Head and Neck Cancer",1L
+NCT03504488,"Head and Neck Cancer",2L
+NCT03504488,"Lung Cancer",1L
+NCT03504488,"Lung Cancer",2L
+NCT03504488,"Lung Cancer",3L
+NCT03504488,"Lung Cancer",4L
+NCT03504488,Melanoma,1L
+NCT03504488,Melanoma,2L
+NCT03504488,"Non-small Cell Lung Cancer",1L
+NCT03504488,"Non-small Cell Lung Cancer",2L
+NCT03504488,"Non-small Cell Lung Cancer",3L
+NCT03504488,"Non-small Cell Lung Cancer",4L
+NCT03504488,"Soft Tissue Sarcoma",1L
+NCT03504488,"Soft Tissue Sarcoma",2L
+NCT03504488,"Soft Tissue Sarcoma",3L
+NCT03504488,"Soft Tissue Sarcoma",4L
+NCT03504488,"Solid Tumors",1L
+NCT03504488,"Solid Tumors",2L
+NCT03504488,"Solid Tumors",3L
+NCT03504488,"Solid Tumors",4L
+NCT03504488,"Triple-Negative Breast Cancer",1L
+NCT03504488,"Triple-Negative Breast Cancer",2L
+NCT03504488,"Triple-Negative Breast Cancer",3L
+NCT03504488,"Triple-Negative Breast Cancer",4L
+NCT03505710,"Non-small Cell Lung Cancer",1L
+NCT03505710,"Non-small Cell Lung Cancer",2L
+NCT03505710,"Non-small Cell Lung Cancer",3L
+NCT03505710,"Non-small Cell Lung Cancer",4L
+NCT03517137,"Classical Hodgkin Lymphoma",1L
+NCT03517137,"Hodgkin Lymphoma",1L
+NCT03523572,"Bladder Cancer",2L
+NCT03523572,"Bladder Cancer",3L
+NCT03523572,"Bladder Cancer",4L
+NCT03523572,"Breast Cancer",2L
+NCT03523572,"Breast Cancer",3L
+NCT03523572,"Breast Cancer",4L
+NCT03523585,"Breast Cancer",2L
+NCT03525678,"Multiple Myeloma",">= 3PL"
+NCT03527628,"Classical Hodgkin Lymphoma",1L
+NCT03527628,"Hodgkin Lymphoma",1L
+NCT03529110,"Breast Cancer",2L
+NCT03533283,"B-cell Lymphoma",2L
+NCT03533283,"B-cell Lymphoma",3L
+NCT03533283,"B-cell Lymphoma",4L
+NCT03533283,"Diffuse Large B-cell Lymphoma",2L
+NCT03533283,"Diffuse Large B-cell Lymphoma",3L
+NCT03533283,"Diffuse Large B-cell Lymphoma",4L
+NCT03533283,"Follicular Lymphoma",2L
+NCT03533283,"Follicular Lymphoma",3L
+NCT03533283,"Follicular Lymphoma",4L
+NCT03533283,"Non-Hodgkin Lymphoma",2L
+NCT03533283,"Non-Hodgkin Lymphoma",3L
+NCT03533283,"Non-Hodgkin Lymphoma",4L
+NCT03539536,"Non-small Cell Lung Cancer",2L
+NCT03539536,"Non-small Cell Lung Cancer",3L
+NCT03540849,"Classical Hodgkin Lymphoma",Maintenance
+NCT03540849,"Hodgkin Lymphoma",Maintenance
+NCT03543813,"Diffuse Large B-cell Lymphoma",2L
+NCT03543813,"Esophageal Cancer",2L
+NCT03543813,"Head and Neck Cancer",2L
+NCT03543813,"Non-small Cell Lung Cancer",2L
+NCT03543813,"Solid Tumors",2L
+NCT03544281,"Multiple Myeloma",">= 1PL"
+NCT03547973,"Bladder Cancer",2L
+NCT03547973,"Bladder Cancer",3L
+NCT03552471,"Endometrial Cancer",2L
+NCT03552471,"Fallopian tube Cancer",2L
+NCT03552471,"Ovarian Cancer",2L
+NCT03552471,"Peritoneal Cancer",2L
+NCT03552471,"Solid Tumors",2L
+NCT03568994,"Acute Myeloid Leukemia",1L
+NCT03568994,"Acute Myeloid Leukemia",2L
+NCT03568994,"Myelodysplastic Syndrome",1L
+NCT03568994,"Myelodysplastic Syndrome",2L
+NCT03576378,"Classical Hodgkin Lymphoma",1L
+NCT03576378,"Hodgkin Lymphoma",1L
+NCT03587311,"Fallopian tube Cancer",2L
+NCT03587311,"Fallopian tube Cancer",3L
+NCT03587311,"Ovarian Cancer",2L
+NCT03587311,"Ovarian Cancer",3L
+NCT03587311,"Peritoneal Cancer",2L
+NCT03587311,"Peritoneal Cancer",3L
+NCT03587740,"Breast Cancer",Adjuvant
+NCT03589729,"Acute Myeloid Leukemia",1L
+NCT03589729,"Acute Myeloid Leukemia",2L
+NCT03589729,"Chronic Myeloid Leukemia",1L
+NCT03589729,"Chronic Myeloid Leukemia",2L
+NCT03589729,"Hematological Malignancies",1L
+NCT03589729,"Hematological Malignancies",2L
+NCT03589729,"Myelodysplastic Syndrome",1L
+NCT03589729,"Myelodysplastic Syndrome",2L
+NCT03589729,"Myeloproliferative Neoplasm",1L
+NCT03589729,"Myeloproliferative Neoplasm",2L
+NCT03595059,"Breast Cancer",2L
+NCT03595059,"Lung Cancer",2L
+NCT03595059,"Non-small Cell Lung Cancer",2L
+NCT03595059,"Small Cell Lung Cancer",2L
+NCT03595059,"Small Cell Lung Cancer",3L
+NCT03639194,"Lung Cancer",1L
+NCT03639194,"Lung Cancer",2L
+NCT03639194,"Lung Cancer",3L
+NCT03639194,"Small Cell Lung Cancer",1L
+NCT03639194,"Small Cell Lung Cancer",2L
+NCT03639194,"Small Cell Lung Cancer",3L
+NCT03639194,"Solid Tumors",1L
+NCT03639194,"Solid Tumors",2L
+NCT03639194,"Solid Tumors",3L
+NCT03646123,"Classical Hodgkin Lymphoma",1L
+NCT03646123,"Hodgkin Lymphoma",1L
+NCT03671018,"Diffuse Large B-cell Lymphoma",3L
+NCT03671018,"Diffuse Large B-cell Lymphoma",4L
+NCT03671018,"Follicular Lymphoma",3L
+NCT03671018,"Follicular Lymphoma",4L
+NCT03671018,"Mantle Cell Lymphoma",3L
+NCT03671018,"Mantle Cell Lymphoma",4L
+NCT03671018,"Mantle Cell Lymphoma",5L
+NCT03671018,"Non-Hodgkin Lymphoma",3L
+NCT03671018,"Non-Hodgkin Lymphoma",4L
+NCT03672539,"Acute Myeloid Leukemia",2L
+NCT03672539,"Chronic Myelomonocytic Leukemia",2L
+NCT03672539,"Myelodysplastic Syndrome",2L
+NCT03677141,"Diffuse Large B-cell Lymphoma",1L
+NCT03677141,"Non-Hodgkin Lymphoma",1L
+NCT03677154,"Diffuse Large B-cell Lymphoma",1L
+NCT03677154,"Diffuse Large B-cell Lymphoma",2L
+NCT03698552,"Acute Lymphocytic Leukemia",2L
+NCT03698552,"B-cell Acute Lymphocytic Leukemia",2L
+NCT03703050,"Anaplastic Large Cell Lymphoma",2L
+NCT03709082,"Breast Cancer",2L
+NCT03712202,"Classical Hodgkin Lymphoma",1L
+NCT03712202,"Hodgkin Lymphoma",1L
+NCT03715478,"Multiple Myeloma",">= 2PL"
+NCT03719105,"Enteropathy-Associated T-cell Lymphoma",1L
+NCT03719105,"NK-cell lymphoma",1L
+NCT03719105,"Peripheral T-cell Lymphoma",1L
+NCT03719105,"T-cell lymphoma",1L
+NCT03725761,"Prostate Cancer",2L
+NCT03726879,"Breast Cancer",Adjuvant
+NCT03726879,"Breast Cancer",Neoadjuvant
+NCT03732703,"Multiple Myeloma",1-3PL
+NCT03734029,"Breast Cancer",2L
+NCT03734029,"Breast Cancer",3L
+NCT03737955,"Acute Myeloid Leukemia",2L
+NCT03737955,"Myelodysplastic Syndrome",1L
+NCT03737955,"Myelodysplastic Syndrome",2L
+NCT03742102,"Breast Cancer",1L
+NCT03742102,"Triple-Negative Breast Cancer",1L
+NCT03748186,"Endometrial Cancer",2L
+NCT03748186,"Endometrial Cancer",3L
+NCT03748186,"Endometrial Cancer",4L
+NCT03748186,"Fallopian tube Cancer",2L
+NCT03748186,"Fallopian tube Cancer",3L
+NCT03748186,"Fallopian tube Cancer",4L
+NCT03748186,"Ovarian Cancer",2L
+NCT03748186,"Ovarian Cancer",3L
+NCT03748186,"Ovarian Cancer",4L
+NCT03748186,"Peritoneal Cancer",2L
+NCT03748186,"Peritoneal Cancer",3L
+NCT03748186,"Peritoneal Cancer",4L
+NCT03755141,"Breast Cancer",2L
+NCT03755804,"Classical Hodgkin Lymphoma",1L
+NCT03755804,"Hodgkin Lymphoma",1L
+NCT03769506,"Head and Neck Cancer",2L
+NCT03786081,"Cervical Cancer",2L
+NCT03805932,"Hairy Cell Leukemia",2L
+NCT03809013,"Bladder Cancer",2L
+NCT03809624,"Bladder Cancer",1L
+NCT03809624,"Bladder Cancer",2L
+NCT03809624,"Esophageal Cancer",1L
+NCT03809624,"Esophageal Cancer",2L
+NCT03809624,"Gastric Cancer",1L
+NCT03809624,"Gastric Cancer",2L
+NCT03809624,"Gastroesophageal Junction",1L
+NCT03809624,"Gastroesophageal Junction",2L
+NCT03809624,"Genitourinary Cancer",1L
+NCT03809624,"Genitourinary Cancer",2L
+NCT03809624,"Head and Neck Cancer",1L
+NCT03809624,"Head and Neck Cancer",2L
+NCT03809624,"Lung Cancer",1L
+NCT03809624,"Lung Cancer",2L
+NCT03809624,Melanoma,1L
+NCT03809624,Melanoma,2L
+NCT03809624,"Nasopharyngeal Carcinoma",1L
+NCT03809624,"Nasopharyngeal Carcinoma",2L
+NCT03809624,"Non-small Cell Lung Cancer",1L
+NCT03809624,"Non-small Cell Lung Cancer",2L
+NCT03809624,"Renal Cell Carcinoma",1L
+NCT03809624,"Renal Cell Carcinoma",2L
+NCT03809624,"Solid Tumors",1L
+NCT03809624,"Solid Tumors",2L
+NCT03816358,"Pancreatic Cancer",2L
+NCT03816358,"Pancreatic Cancer",3L
+NCT03820063,"Breast Cancer",Neoadjuvant
+NCT03828292,"Multiple Myeloma",">= 2PL"
+NCT03829540,"Acute Lymphocytic Leukemia",2L
+NCT03829540,"Blastic Plasmacytoid Dendritic Cell Neoplasm",2L
+NCT03829540,"Cutaneous T-cell Lymphoma",2L
+NCT03829540,"Hematological Malignancies",2L
+NCT03829540,"Peripheral T-cell Lymphoma",2L
+NCT03829540,"T-cell Acute Lymphocytic Leukemia",2L
+NCT03829540,"T-cell lymphoma",2L
+NCT03829540,"T-cell Prolymphocytic Leukemia",2L
+NCT03832361,"Endometrial Cancer",2L
+NCT03833180,"Acute Lymphocytic Leukemia",2L
+NCT03833180,"Acute Myeloid Leukemia",2L
+NCT03833180,"Burkitt Lymphoma",2L
+NCT03833180,"Chronic Lymphocytic Leukemia",2L
+NCT03833180,"Diffuse Large B-cell Lymphoma",2L
+NCT03833180,"Follicular Lymphoma",2L
+NCT03833180,"Hematological Malignancies",2L
+NCT03833180,"Mantle Cell Lymphoma",2L
+NCT03833180,"Marginal Zone Lymphoma",2L
+NCT03833180,"Non-Hodgkin Lymphoma",2L
+NCT03833180,"Small Lymphocytic Lymphoma",2L
+NCT03833180,"Waldenstrom Macroglobulinemia",2L
+NCT03835819,"Endometrial Cancer",2L
+NCT03835819,"Endometrial Cancer",3L
+NCT03848845,"Multiple Myeloma",">= 3PL"
+NCT03856216,"Acute Lymphocytic Leukemia",1L
+NCT03856216,"B-cell Acute Lymphocytic Leukemia",1L
+NCT03859752,"Solid Tumors",2L
+NCT03869190,"Bladder Cancer",2L
+NCT03878524,"Acute Lymphocytic Leukemia",2L
+NCT03878524,"Acute Lymphocytic Leukemia",3L
+NCT03878524,"Acute Lymphocytic Leukemia",4L
+NCT03878524,"Acute Lymphocytic Leukemia",5L
+NCT03878524,"Acute Myeloid Leukemia",2L
+NCT03878524,"Acute Myeloid Leukemia",3L
+NCT03878524,"Acute Myeloid Leukemia",4L
+NCT03878524,"Acute Myeloid Leukemia",5L
+NCT03878524,"Breast Cancer",1L
+NCT03878524,"Breast Cancer",2L
+NCT03878524,"Breast Cancer",3L
+NCT03878524,"Breast Cancer",4L
+NCT03878524,"Breast Cancer",5L
+NCT03878524,"Chronic Lymphocytic Leukemia",2L
+NCT03878524,"Chronic Lymphocytic Leukemia",3L
+NCT03878524,"Chronic Lymphocytic Leukemia",4L
+NCT03878524,"Chronic Lymphocytic Leukemia",5L
+NCT03878524,"Chronic Myeloid Leukemia",2L
+NCT03878524,"Chronic Myeloid Leukemia",3L
+NCT03878524,"Chronic Myeloid Leukemia",4L
+NCT03878524,"Chronic Myeloid Leukemia",5L
+NCT03878524,"Chronic Myelomonocytic Leukemia",2L
+NCT03878524,"Chronic Myelomonocytic Leukemia",3L
+NCT03878524,"Chronic Myelomonocytic Leukemia",4L
+NCT03878524,"Chronic Myelomonocytic Leukemia",5L
+NCT03878524,"Hematological Malignancies",1L
+NCT03878524,"Hematological Malignancies",2L
+NCT03878524,"Hematological Malignancies",3L
+NCT03878524,"Hematological Malignancies",4L
+NCT03878524,"Hematological Malignancies",5L
+NCT03878524,"Hodgkin Lymphoma",1L
+NCT03878524,"Hodgkin Lymphoma",2L
+NCT03878524,"Hodgkin Lymphoma",3L
+NCT03878524,"Hodgkin Lymphoma",4L
+NCT03878524,"Hodgkin Lymphoma",5L
+NCT03878524,"Multiple Myeloma",">= 1PL"
+NCT03878524,"Multiple Myeloma",">= 3PL"
+NCT03878524,"Multiple Myeloma",">= 4PL"
+NCT03878524,"Multiple Myeloma","Newly Diagnosed"
+NCT03878524,"Myelodysplastic Syndrome",2L
+NCT03878524,"Myelodysplastic Syndrome",3L
+NCT03878524,"Myelodysplastic Syndrome",4L
+NCT03878524,"Myelodysplastic Syndrome",5L
+NCT03878524,Myelofibrosis,2L
+NCT03878524,Myelofibrosis,3L
+NCT03878524,Myelofibrosis,4L
+NCT03878524,Myelofibrosis,5L
+NCT03878524,"Myeloproliferative Neoplasm",1L
+NCT03878524,"Myeloproliferative Neoplasm",2L
+NCT03878524,"Myeloproliferative Neoplasm",3L
+NCT03878524,"Myeloproliferative Neoplasm",4L
+NCT03878524,"Myeloproliferative Neoplasm",5L
+NCT03878524,"Non-Hodgkin Lymphoma",2L
+NCT03878524,"Non-Hodgkin Lymphoma",3L
+NCT03878524,"Non-Hodgkin Lymphoma",4L
+NCT03878524,"Non-Hodgkin Lymphoma",5L
+NCT03878524,"Pancreatic Cancer",1L
+NCT03878524,"Pancreatic Cancer",2L
+NCT03878524,"Pancreatic Cancer",3L
+NCT03878524,"Pancreatic Cancer",4L
+NCT03878524,"Pancreatic Cancer",5L
+NCT03878524,"Prostate Cancer",2L
+NCT03878524,"Small Lymphocytic Lymphoma",1L
+NCT03878524,"Small Lymphocytic Lymphoma",2L
+NCT03878524,"Small Lymphocytic Lymphoma",3L
+NCT03878524,"Small Lymphocytic Lymphoma",4L
+NCT03878524,"Small Lymphocytic Lymphoma",5L
+NCT03878524,"Solid Tumors",1L
+NCT03878524,"Solid Tumors",2L
+NCT03878524,"Solid Tumors",3L
+NCT03878524,"Solid Tumors",4L
+NCT03878524,"Solid Tumors",5L
+NCT03894150,"Anaplastic Large Cell Lymphoma",2L
+NCT03894150,"Hematological Malignancies",2L
+NCT03900949,"Acute Myeloid Leukemia",1L
+NCT03901339,"Breast Cancer",3L
+NCT03901339,"Breast Cancer",4L
+NCT03907488,"Classical Hodgkin Lymphoma",1L
+NCT03907488,"Hodgkin Lymphoma",1L
+NCT03913559,"Acute Lymphocytic Leukemia",2L
+NCT03913559,"Acute Lymphocytic Leukemia",3L
+NCT03913559,"B-cell Acute Lymphocytic Leukemia",2L
+NCT03913559,"B-cell Acute Lymphocytic Leukemia",3L
+NCT03924895,"Bladder Cancer",2L
+NCT03924895,"Bladder Cancer",Adjuvant
+NCT03924895,"Bladder Cancer",Neoadjuvant
+NCT03944499,"Breast Cancer",1L
+NCT03944499,"Breast Cancer",2L
+NCT03944499,"Breast Cancer",3L
+NCT03944499,"Breast Cancer",4L
+NCT03944499,"Solid Tumors",1L
+NCT03944499,"Solid Tumors",2L
+NCT03944499,"Solid Tumors",3L
+NCT03944499,"Solid Tumors",4L
+NCT03944772,"Non-small Cell Lung Cancer",2L
+NCT03944772,"Small Cell Lung Cancer",2L
+NCT03959085,"Acute Lymphocytic Leukemia",1L
+NCT03959085,"Acute Lymphocytic Leukemia",2L
+NCT03959085,"B-cell Acute Lymphocytic Leukemia",1L
+NCT03959085,"B-cell Acute Lymphocytic Leukemia",2L
+NCT03959085,"Central Nervous System Lymphoma",1L
+NCT03959085,"Central Nervous System Lymphoma",2L
+NCT03959085,"Lymphoblastic Lymphoma",1L
+NCT03959085,"Lymphoblastic Lymphoma",2L
+NCT03962465,"Acute Lymphocytic Leukemia",1L
+NCT03962465,"B-cell Acute Lymphocytic Leukemia",1L
+NCT03962465,"Lymphoblastic Lymphoma",1L
+NCT03964727,"Endometrial Cancer",2L
+NCT03964727,"Head and Neck Cancer",2L
+NCT03964727,"Head and Neck Cancer",3L
+NCT03964727,"Non-small Cell Lung Cancer",2L
+NCT03964727,"Non-small Cell Lung Cancer",3L
+NCT03964727,"Small Cell Lung Cancer",1L
+NCT03964727,"Small Cell Lung Cancer",2L
+NCT03964727,"Solid Tumors",3L
+NCT03971409,"Breast Cancer",2L
+NCT03971409,"Breast Cancer",3L
+NCT03971409,"Triple-Negative Breast Cancer",2L
+NCT03971409,"Triple-Negative Breast Cancer",3L
+NCT03975647,"Breast Cancer",1L
+NCT03975647,"Breast Cancer",2L
+NCT03975647,"Breast Cancer",3L
+NCT03995706,"Breast Cancer",2L
+NCT03995706,Glioblastoma,2L
+NCT04014075,"Gastric Cancer",2L
+NCT04014075,"Gastric Cancer",3L
+NCT04014075,"Gastric Cancer",4L
+NCT04014075,"Gastroesophageal Junction",2L
+NCT04014075,"Gastroesophageal Junction",3L
+NCT04014075,"Gastroesophageal Junction",4L
+NCT04015778,"Lung Cancer",1L
+NCT04015778,"Non-small Cell Lung Cancer",Adjuvant
+NCT04015778,"Non-small Cell Lung Cancer",Neoadjuvant
+NCT04032704,"Esophageal Cancer",2L
+NCT04032704,"Gastric Cancer",1L
+NCT04032704,"Gastroesophageal Junction",1L
+NCT04032704,"Head and Neck Cancer",2L
+NCT04032704,Melanoma,1L
+NCT04032704,"Non-small Cell Lung Cancer",2L
+NCT04032704,"Prostate Cancer",1L
+NCT04032704,"Prostate Cancer",2L
+NCT04032704,"Small Cell Lung Cancer",2L
+NCT04032704,"Solid Tumors",1L
+NCT04036461,"Multiple Myeloma",">= 1PL"
+NCT04039230,"Breast Cancer",1L
+NCT04039230,"Breast Cancer",2L
+NCT04042701,"Breast Cancer",2L
+NCT04042701,"Breast Cancer",3L
+NCT04042701,"Lung Cancer",2L
+NCT04042701,"Lung Cancer",3L
+NCT04042701,"Non-small Cell Lung Cancer",2L
+NCT04042701,"Non-small Cell Lung Cancer",3L
+NCT04050280,"Acute Myeloid Leukemia",2L
+NCT04064359,"Solid Tumors",2L
+NCT04070768,"Acute Myeloid Leukemia",2L
+NCT04073602,"Bladder Cancer",1L
+NCT04073602,"Bladder Cancer",2L
+NCT04077723,"B-cell Lymphoma",3L
+NCT04077723,"B-cell Lymphoma",4L
+NCT04077723,"B-cell Lymphoma",5L
+NCT04077723,"Diffuse Large B-cell Lymphoma",3L
+NCT04077723,"Diffuse Large B-cell Lymphoma",4L
+NCT04077723,"Diffuse Large B-cell Lymphoma",5L
+NCT04077723,"Follicular Lymphoma",3L
+NCT04077723,"Follicular Lymphoma",4L
+NCT04077723,"Follicular Lymphoma",5L
+NCT04077723,"Hematological Malignancies",3L
+NCT04077723,"Hematological Malignancies",4L
+NCT04077723,"Hematological Malignancies",5L
+NCT04077723,"Mantle Cell Lymphoma",3L
+NCT04077723,"Mantle Cell Lymphoma",4L
+NCT04077723,"Mantle Cell Lymphoma",5L
+NCT04077723,"Non-Hodgkin Lymphoma",3L
+NCT04077723,"Non-Hodgkin Lymphoma",4L
+NCT04077723,"Non-Hodgkin Lymphoma",5L
+NCT04084366,"Colorectal Cancer",1L
+NCT04084366,"Colorectal Cancer",2L
+NCT04084366,"Esophageal Cancer",1L
+NCT04084366,"Esophageal Cancer",2L
+NCT04084366,"Gastric Cancer",1L
+NCT04084366,"Gastric Cancer",2L
+NCT04084366,"Pancreatic Cancer",1L
+NCT04084366,"Pancreatic Cancer",2L
+NCT04084366,"Solid Tumors",1L
+NCT04084366,"Solid Tumors",2L
+NCT04086264,"Acute Myeloid Leukemia",1L
+NCT04086264,"Acute Myeloid Leukemia",3L
+NCT04091126,"Multiple Myeloma","NDMM – Transplant Ineligible (TIE)"
+NCT04091126,"Multiple Myeloma","NDMM – Transplant Not Intended (TNI)"
+NCT04091126,"Multiple Myeloma","Newly Diagnosed"
+NCT04126200,"Multiple Myeloma",">= 3PL"
+NCT04132960,"Breast Cancer",2L
+NCT04145622,"Bladder Cancer",1L
+NCT04145622,"Bladder Cancer",2L
+NCT04145622,"Breast Cancer",1L
+NCT04145622,"Breast Cancer",2L
+NCT04145622,"Esophageal Cancer",1L
+NCT04145622,"Esophageal Cancer",2L
+NCT04145622,Melanoma,1L
+NCT04145622,Melanoma,2L
+NCT04145622,"Non-small Cell Lung Cancer",1L
+NCT04145622,"Non-small Cell Lung Cancer",2L
+NCT04145622,"Prostate Cancer",1L
+NCT04145622,"Prostate Cancer",2L
+NCT04145622,"Small Cell Lung Cancer",1L
+NCT04145622,"Small Cell Lung Cancer",2L
+NCT04145622,"Solid Tumors",1L
+NCT04145622,"Solid Tumors",2L
+NCT04146610,"Solid Tumors",1L
+NCT04146610,"Solid Tumors",2L
+NCT04151329,"Solid Tumors",1L
+NCT04151329,"Solid Tumors",2L
+NCT04152499,"Bladder Cancer",2L
+NCT04152499,"Bladder Cancer",3L
+NCT04152499,"Bladder Cancer",4L
+NCT04152499,"Breast Cancer",2L
+NCT04152499,"Endometrial Cancer",2L
+NCT04152499,"Gastric Cancer",2L
+NCT04152499,"Gastric Cancer",3L
+NCT04152499,"Gastric Cancer",4L
+NCT04152499,"Head and Neck Cancer",2L
+NCT04152499,"Non-small Cell Lung Cancer",2L
+NCT04152499,"Ovarian Cancer",2L
+NCT04152499,"Ovarian Cancer",3L
+NCT04152499,"Ovarian Cancer",4L
+NCT04152499,"Pancreatic Cancer",2L
+NCT04152499,"Pancreatic Cancer",3L
+NCT04152499,"Pancreatic Cancer",4L
+NCT04152499,"Small Cell Lung Cancer",2L
+NCT04152499,"Solid Tumors",2L
+NCT04152499,"Solid Tumors",3L
+NCT04152499,"Solid Tumors",4L
+NCT04152499,"Triple-Negative Breast Cancer",2L
+NCT04152499,"Triple-Negative Breast Cancer",3L
+NCT04152499,"Triple-Negative Breast Cancer",4L
+NCT04154956,"Lung Cancer",2L
+NCT04154956,"Lung Cancer",3L
+NCT04154956,"Non-small Cell Lung Cancer",2L
+NCT04154956,"Non-small Cell Lung Cancer",3L
+NCT04158947,"Breast Cancer",2L
+NCT04162210,"Multiple Myeloma",">= 2PL"
+NCT04168502,"Acute Myeloid Leukemia",Maintenance
+NCT04168502,"Acute Promyelocytic Leukemia",Maintenance
+NCT04168502,"Myelodysplastic Syndrome",Maintenance
+NCT04175847,"Gastric Cancer",1L
+NCT04175847,"Gastric Cancer",2L
+NCT04175847,Mesothelioma,1L
+NCT04175847,Mesothelioma,2L
+NCT04175847,"Non-small Cell Lung Cancer",1L
+NCT04175847,"Non-small Cell Lung Cancer",2L
+NCT04175847,"Ovarian Cancer",1L
+NCT04175847,"Ovarian Cancer",2L
+NCT04175847,"Pancreatic Cancer",1L
+NCT04175847,"Pancreatic Cancer",2L
+NCT04175847,"Solid Tumors",1L
+NCT04175847,"Solid Tumors",2L
+NCT04175847,"Triple-Negative Breast Cancer",1L
+NCT04175847,"Triple-Negative Breast Cancer",2L
+NCT04182204,"Diffuse Large B-cell Lymphoma",2L
+NCT04182204,"Non-Hodgkin Lymphoma",2L
+NCT04182204,"Non-Hodgkin Lymphoma",3L
+NCT04182204,"Non-Hodgkin Lymphoma",4L
+NCT04185649,"Breast Cancer",1L
+NCT04185649,"Breast Cancer",2L
+NCT04189211,"Breast Cancer",1L
+NCT04189211,"Breast Cancer",2L
+NCT04189211,"Gastric Cancer",1L
+NCT04189211,"Gastric Cancer",2L
+NCT04189211,"Solid Tumors",1L
+NCT04189211,"Solid Tumors",2L
+NCT04189614,"Lung Cancer",2L
+NCT04189614,"Lung Cancer",3L
+NCT04189614,"Lung Cancer",4L
+NCT04189614,"Non-small Cell Lung Cancer",2L
+NCT04189614,"Non-small Cell Lung Cancer",3L
+NCT04189614,"Non-small Cell Lung Cancer",4L
+NCT04189614,"Solid Tumors",2L
+NCT04189614,"Solid Tumors",3L
+NCT04189614,"Solid Tumors",4L
+NCT04207190,"Acute Myeloid Leukemia",2L
+NCT04209855,"Fallopian tube Cancer",2L
+NCT04209855,"Fallopian tube Cancer",3L
+NCT04209855,"Fallopian tube Cancer",4L
+NCT04209855,"Ovarian Cancer",2L
+NCT04209855,"Ovarian Cancer",3L
+NCT04209855,"Ovarian Cancer",4L
+NCT04209855,"Peritoneal Cancer",2L
+NCT04209855,"Peritoneal Cancer",3L
+NCT04209855,"Peritoneal Cancer",4L
+NCT04223856,"Bladder Cancer",1L
+NCT04225117,"Breast Cancer",1L
+NCT04225117,"Breast Cancer",2L
+NCT04225117,"Breast Cancer",3L
+NCT04225117,"Esophageal Cancer",1L
+NCT04225117,"Esophageal Cancer",2L
+NCT04225117,"Esophageal Cancer",3L
+NCT04225117,"Gastric Cancer",1L
+NCT04225117,"Gastric Cancer",2L
+NCT04225117,"Gastric Cancer",3L
+NCT04225117,"Gastroesophageal Junction",1L
+NCT04225117,"Gastroesophageal Junction",2L
+NCT04225117,"Gastroesophageal Junction",3L
+NCT04225117,"Head and Neck Cancer",1L
+NCT04225117,"Head and Neck Cancer",2L
+NCT04225117,"Head and Neck Cancer",3L
+NCT04225117,"Non-small Cell Lung Cancer",1L
+NCT04225117,"Non-small Cell Lung Cancer",2L
+NCT04225117,"Non-small Cell Lung Cancer",3L
+NCT04225117,"Solid Tumors",1L
+NCT04225117,"Solid Tumors",2L
+NCT04225117,"Solid Tumors",3L
+NCT04225117,"Triple-Negative Breast Cancer",1L
+NCT04225117,"Triple-Negative Breast Cancer",2L
+NCT04225117,"Triple-Negative Breast Cancer",3L
+NCT04231877,"B-cell Lymphoma",1L
+NCT04231877,"Classical Hodgkin Lymphoma",1L
+NCT04231877,"Diffuse Large B-cell Lymphoma",1L
+NCT04231877,"Hodgkin Lymphoma",1L
+NCT04231877,"Non-Hodgkin Lymphoma",1L
+NCT04231877,"Primary Mediastinal B-cell Lymphoma",1L
+NCT04246047,"Multiple Myeloma",">= 1PL"
+NCT04251416,"Endometrial Cancer",2L
+NCT04251416,"Endometrial Cancer",3L
+NCT04254107,"B-cell Lymphoma",3L
+NCT04254107,"B-cell Lymphoma",4L
+NCT04254107,"Bladder Cancer",3L
+NCT04254107,"Cervical Cancer",3L
+NCT04254107,"Classical Hodgkin Lymphoma",4L
+NCT04254107,"Diffuse Large B-cell Lymphoma",3L
+NCT04254107,"Gastric Cancer",2L
+NCT04254107,"Gastroesophageal Junction",3L
+NCT04254107,"Head and Neck Cancer",3L
+NCT04254107,Melanoma,3L
+NCT04254107,"Non-small Cell Lung Cancer",2L
+NCT04254107,"Ovarian Cancer",3L
+NCT04254107,"Peripheral T-cell Lymphoma",2L
+NCT04254107,"Peripheral T-cell Lymphoma",3L
+NCT04254107,"Peripheral T-cell Lymphoma",4L
+NCT04254107,"Solid Tumors",2L
+NCT04254107,"Solid Tumors",3L
+NCT04254107,"Solid Tumors",4L
+NCT04254107,"Triple-Negative Breast Cancer",3L
+NCT04255056,"Breast Cancer",Neoadjuvant
+NCT04257110,"Breast Cancer",2L
+NCT04257110,"Breast Cancer",3L
+NCT04257110,"Gastric Cancer",2L
+NCT04257110,"Gastric Cancer",3L
+NCT04257110,"Gastroesophageal Junction",2L
+NCT04257110,"Gastroesophageal Junction",3L
+NCT04257110,"Solid Tumors",2L
+NCT04257110,"Solid Tumors",3L
+NCT04261413,"Lung Cancer",2L
+NCT04261413,"Non-small Cell Lung Cancer",2L
+NCT04264936,"Bladder Cancer",2L
+NCT04274426,"Ovarian Cancer",2L
+NCT04274426,"Ovarian Cancer",3L
+NCT04274426,"Ovarian Cancer",4L
+NCT04274426,"Peritoneal Cancer",2L
+NCT04274426,"Peritoneal Cancer",3L
+NCT04274426,"Peritoneal Cancer",4L
+NCT04280341,"Solid Tumors",1L
+NCT04280341,"Solid Tumors",2L
+NCT04293562,"Acute Myeloid Leukemia",1L
+NCT04294628,"Breast Cancer",1L
+NCT04294628,"Breast Cancer",2L
+NCT04294628,"Gastric Cancer",1L
+NCT04294628,"Gastric Cancer",2L
+NCT04294628,"Solid Tumors",1L
+NCT04294628,"Solid Tumors",2L
+NCT04300556,"Breast Cancer",2L
+NCT04300556,"Breast Cancer",3L
+NCT04300556,"Endometrial Cancer",2L
+NCT04300556,"Endometrial Cancer",3L
+NCT04300556,"Fallopian tube Cancer",2L
+NCT04300556,"Fallopian tube Cancer",3L
+NCT04300556,"Non-small Cell Lung Cancer",1L
+NCT04300556,"Non-small Cell Lung Cancer",2L
+NCT04300556,"Ovarian Cancer",2L
+NCT04300556,"Ovarian Cancer",3L
+NCT04300556,"Peritoneal Cancer",2L
+NCT04300556,"Peritoneal Cancer",3L
+NCT04300556,"Solid Tumors",2L
+NCT04300556,"Solid Tumors",3L
+NCT04300556,"Triple-Negative Breast Cancer",2L
+NCT04300556,"Triple-Negative Breast Cancer",3L
+NCT04301375,"Breast Cancer",Neoadjuvant
+NCT04305795,"Cutaneous Squamous Cell Carcinoma",1L
+NCT04305795,"Head and Neck Cancer",1L
+NCT04305795,"Solid Tumors",1L
+NCT04305795,"Squamous Cell Carcinoma",1L
+NCT04307576,"T-cell Acute Lymphocytic Leukemia",1L
+NCT04311034,"Non-small Cell Lung Cancer",2L
+NCT04311034,"Non-small Cell Lung Cancer",3L
+NCT04311034,"Non-small Cell Lung Cancer",4L
+NCT04323956,"B-cell Lymphoma",1L
+NCT04323956,"Diffuse Large B-cell Lymphoma",1L
+NCT04323956,"Follicular Lymphoma",1L
+NCT04323956,"Marginal Zone Lymphoma",1L
+NCT04323956,"Non-Hodgkin Lymphoma",1L
+NCT04329429,"Biliary Tract Cancer",2L
+NCT04329429,"Gallbladder Cancer",2L
+NCT04329429,"Hepatocellular Carcinoma",2L
+NCT04332822,"B-cell Lymphoma",1L
+NCT04332822,"Diffuse Large B-cell Lymphoma",1L
+NCT04332822,"Follicular Lymphoma",1L
+NCT04341181,"B-cell Lymphoma",1L
+NCT04341181,"Multiple Myeloma",">= 1PL"
+NCT04341181,"Non-Hodgkin Lymphoma",1L
+NCT04341181,"Non-Hodgkin Lymphoma",2L
+NCT04341181,"Ovarian Cancer",1L
+NCT04341181,"Prostate Cancer",1L
+NCT04341181,"Solid Tumors",1L
+NCT04378647,"Hodgkin Lymphoma",2L
+NCT04379596,"Esophageal Cancer",1L
+NCT04379596,"Esophageal Cancer",2L
+NCT04379596,"Gastric Cancer",1L
+NCT04379596,"Gastric Cancer",2L
+NCT04379596,"Gastroesophageal Junction",1L
+NCT04379596,"Gastroesophageal Junction",2L
+NCT04379596,"Gastrointestinal Cancer",1L
+NCT04379596,"Gastrointestinal Cancer",2L
+NCT04379596,"Solid Tumors",1L
+NCT04379596,"Solid Tumors",2L
+NCT04381832,"Prostate Cancer",2L
+NCT04381832,"Prostate Cancer",3L
+NCT04384484,"B-cell Lymphoma",1L
+NCT04384484,"B-cell Lymphoma",2L
+NCT04384484,"Diffuse Large B-cell Lymphoma",1L
+NCT04384484,"Diffuse Large B-cell Lymphoma",2L
+NCT04385290,"Acute Myeloid Leukemia",1L
+NCT04385290,"Acute Myeloid Leukemia","Newly Diagnosed"
+NCT04389632,"Bladder Cancer",1L
+NCT04389632,"Bladder Cancer",2L
+NCT04389632,"Breast Cancer",1L
+NCT04389632,"Breast Cancer",2L
+NCT04389632,"Cervical Cancer",1L
+NCT04389632,"Cervical Cancer",2L
+NCT04389632,"Cutaneous Squamous Cell Carcinoma",1L
+NCT04389632,"Cutaneous Squamous Cell Carcinoma",2L
+NCT04389632,"Esophageal Cancer",1L
+NCT04389632,"Esophageal Cancer",2L
+NCT04389632,"Gastric Cancer",1L
+NCT04389632,"Gastric Cancer",2L
+NCT04389632,"Gastroesophageal Junction",1L
+NCT04389632,"Head and Neck Cancer",1L
+NCT04389632,"Head and Neck Cancer",2L
+NCT04389632,"Lung Cancer",1L
+NCT04389632,"Lung Cancer",2L
+NCT04389632,"Non-small Cell Lung Cancer",1L
+NCT04389632,"Non-small Cell Lung Cancer",2L
+NCT04389632,"Ovarian Cancer",1L
+NCT04389632,"Ovarian Cancer",2L
+NCT04389632,"Pancreatic Cancer",1L
+NCT04389632,"Pancreatic Cancer",2L
+NCT04389632,"Solid Tumors",1L
+NCT04389632,"Solid Tumors",2L
+NCT04389632,"Uterine Cancer",1L
+NCT04394624,"Non-small Cell Lung Cancer",2L
+NCT04394624,"Non-small Cell Lung Cancer",3L
+NCT04394624,"Small Cell Lung Cancer",2L
+NCT04396340,"Lung Cancer",1L
+NCT04396340,"Lung Cancer",2L
+NCT04396340,"Non-small Cell Lung Cancer",1L
+NCT04396340,"Non-small Cell Lung Cancer",2L
+NCT04396340,"Ovarian Cancer",1L
+NCT04396340,"Ovarian Cancer",2L
+NCT04396340,"Peritoneal Cancer",1L
+NCT04396340,"Peritoneal Cancer",2L
+NCT04396340,"Solid Tumors",1L
+NCT04396340,"Solid Tumors",2L
+NCT04398680,"Multiple Myeloma",">= 2PL"
+NCT04398745,"Multiple Myeloma",">= 2PL"
+NCT04398914,"Breast Cancer",Neoadjuvant
+NCT04400695,"Breast Cancer",2L
+NCT04400695,"Breast Cancer",3L
+NCT04404283,"B-cell Lymphoma",3L
+NCT04404283,"B-cell Lymphoma",4L
+NCT04404283,"B-cell Lymphoma",5L
+NCT04404283,"Diffuse Large B-cell Lymphoma",3L
+NCT04404283,"Diffuse Large B-cell Lymphoma",4L
+NCT04404283,"Diffuse Large B-cell Lymphoma",5L
+NCT04410224,"Breast Cancer",1L
+NCT04410224,"Breast Cancer",2L
+NCT04410224,"Colorectal Cancer",1L
+NCT04410224,"Colorectal Cancer",2L
+NCT04410224,"Lung Cancer",1L
+NCT04410224,"Non-small Cell Lung Cancer",1L
+NCT04410224,"Non-small Cell Lung Cancer",2L
+NCT04410224,"Ovarian Cancer",1L
+NCT04410224,"Ovarian Cancer",2L
+NCT04410224,"Renal Cell Carcinoma",1L
+NCT04410224,"Solid Tumors",1L
+NCT04410224,"Solid Tumors",2L
+NCT04419181,"Breast Cancer",2L
+NCT04434040,"Breast Cancer",Adjuvant
+NCT04434040,"Triple-Negative Breast Cancer",Adjuvant
+NCT04439110,"Multiple Myeloma",">= 4PL"
+NCT04446260,"Solid Tumors",1L
+NCT04446260,"Solid Tumors",2L
+NCT04448886,"Breast Cancer",2L
+NCT04448886,"Breast Cancer",3L
+NCT04448886,"Breast Cancer",4L
+NCT04450732,"Biliary Tract Cancer",2L
+NCT04450732,"Breast Cancer",2L
+NCT04450732,"Head and Neck Cancer",2L
+NCT04450732,"Small Cell Lung Cancer",2L
+NCT04450732,"Solid Tumors",2L
+NCT04454437,"Breast Cancer",3L
+NCT04454437,"Breast Cancer",4L
+NCT04454437,"Triple-Negative Breast Cancer",3L
+NCT04454437,"Triple-Negative Breast Cancer",4L
+NCT04457596,"Breast Cancer",Adjuvant
+NCT04460456,"Biliary Tract Cancer",1L
+NCT04460456,"Biliary Tract Cancer",2L
+NCT04460456,"Biliary Tract Cancer",3L
+NCT04460456,"Bladder Cancer",1L
+NCT04460456,"Bladder Cancer",2L
+NCT04460456,"Bladder Cancer",3L
+NCT04460456,"Breast Cancer",1L
+NCT04460456,"Breast Cancer",2L
+NCT04460456,"Breast Cancer",3L
+NCT04460456,"Colorectal Cancer",1L
+NCT04460456,"Colorectal Cancer",2L
+NCT04460456,"Colorectal Cancer",3L
+NCT04460456,"Endometrial Cancer",1L
+NCT04460456,"Endometrial Cancer",2L
+NCT04460456,"Endometrial Cancer",3L
+NCT04460456,"Gastric Cancer",1L
+NCT04460456,"Gastric Cancer",2L
+NCT04460456,"Gastric Cancer",3L
+NCT04460456,"Gastroesophageal Junction",1L
+NCT04460456,"Gastroesophageal Junction",2L
+NCT04460456,"Gastroesophageal Junction",3L
+NCT04460456,"Gastrointestinal Cancer",1L
+NCT04460456,"Gastrointestinal Cancer",2L
+NCT04460456,"Gastrointestinal Cancer",3L
+NCT04460456,"Head and Neck Cancer",1L
+NCT04460456,"Head and Neck Cancer",2L
+NCT04460456,"Head and Neck Cancer",3L
+NCT04460456,"Non-small Cell Lung Cancer",1L
+NCT04460456,"Non-small Cell Lung Cancer",2L
+NCT04460456,"Non-small Cell Lung Cancer",3L
+NCT04460456,"Solid Tumors",1L
+NCT04460456,"Solid Tumors",2L
+NCT04460456,"Solid Tumors",3L
+NCT04460456,"Triple-Negative Breast Cancer",1L
+NCT04460456,"Triple-Negative Breast Cancer",2L
+NCT04460456,"Triple-Negative Breast Cancer",3L
+NCT04468061,"Breast Cancer",1L
+NCT04468061,"Breast Cancer",2L
+NCT04468061,"Triple-Negative Breast Cancer",1L
+NCT04468061,"Triple-Negative Breast Cancer",2L
+NCT04479267,"B-cell Lymphoma",1L
+NCT04479267,"Diffuse Large B-cell Lymphoma",1L
+NCT04479267,"Hematological Malignancies",1L
+NCT04482309,"Biliary Tract Cancer",1L
+NCT04482309,"Biliary Tract Cancer",2L
+NCT04482309,"Bladder Cancer",1L
+NCT04482309,"Bladder Cancer",2L
+NCT04482309,"Cervical Cancer",1L
+NCT04482309,"Cervical Cancer",2L
+NCT04482309,"Endometrial Cancer",1L
+NCT04482309,"Endometrial Cancer",2L
+NCT04482309,"Ovarian Cancer",1L
+NCT04482309,"Ovarian Cancer",2L
+NCT04482309,"Pancreatic Cancer",1L
+NCT04482309,"Pancreatic Cancer",2L
+NCT04482309,"Solid Tumors",1L
+NCT04482309,"Solid Tumors",2L
+NCT04484142,"Lung Cancer",2L
+NCT04484142,"Lung Cancer",3L
+NCT04484142,"Lung Cancer",4L
+NCT04484142,"Non-small Cell Lung Cancer",2L
+NCT04484142,"Non-small Cell Lung Cancer",3L
+NCT04484142,"Non-small Cell Lung Cancer",4L
+NCT04484623,"Multiple Myeloma",">= 1PL"
+NCT04486352,"Endometrial Cancer",2L
+NCT04486352,"Endometrial Cancer",3L
+NCT04491370,"B-cell Lymphoma",2L
+NCT04491370,"Burkitt Lymphoma",2L
+NCT04491370,"Diffuse Large B-cell Lymphoma",2L
+NCT04491370,"Follicular Lymphoma",2L
+NCT04491370,"Hodgkin Lymphoma",2L
+NCT04491370,"Mantle Cell Lymphoma",2L
+NCT04491370,"Marginal Zone Lymphoma",2L
+NCT04491370,"Non-Hodgkin Lymphoma",2L
+NCT04492488,"Gastric Cancer",2L
+NCT04492488,"Gastric Cancer",3L
+NCT04492488,"Gastroesophageal Junction",2L
+NCT04492488,"Gastroesophageal Junction",3L
+NCT04492488,"Solid Tumors",2L
+NCT04492488,"Solid Tumors",3L
+NCT04494425,"Breast Cancer",2L
+NCT04494425,"Breast Cancer",3L
+NCT04494425,"Breast Cancer",4L
+NCT04509596,"Breast Cancer",2L
+NCT04509596,"Breast Cancer",3L
+NCT04513223,"Colorectal Cancer",1L
+NCT04513223,"Colorectal Cancer",2L
+NCT04513223,"Gastric Cancer",1L
+NCT04513223,"Gastric Cancer",2L
+NCT04524689,"Non-small Cell Lung Cancer",1L
+NCT04526691,"Lung Cancer",2L
+NCT04526691,"Non-small Cell Lung Cancer",1L
+NCT04526691,"Non-small Cell Lung Cancer",2L
+NCT04526691,"Non-small Cell Lung Cancer",3L
+NCT04527991,"Bladder Cancer",2L
+NCT04538742,"Breast Cancer",1L
+NCT04538742,"Breast Cancer",2L
+NCT04539938,"Breast Cancer",2L
+NCT04539938,"Breast Cancer",3L
+NCT04549363,"Multiple Myeloma",">= 1PL"
+NCT04553770,"Breast Cancer",Neoadjuvant
+NCT04556773,"Breast Cancer",1L
+NCT04556773,"Breast Cancer",2L
+NCT04556773,"Triple-Negative Breast Cancer",1L
+NCT04556773,"Triple-Negative Breast Cancer",2L
+NCT04559230,Glioblastoma,1L
+NCT04559230,Glioblastoma,2L
+NCT04561362,"Bladder Cancer",2L
+NCT04561362,"Breast Cancer",2L
+NCT04561362,"Esophageal Cancer",2L
+NCT04561362,"Gastric Cancer",2L
+NCT04561362,"Gastrointestinal Cancer",2L
+NCT04561362,"Genitourinary Cancer",2L
+NCT04561362,"Lung Cancer",2L
+NCT04561362,"Non-small Cell Lung Cancer",2L
+NCT04561362,"Ovarian Cancer",2L
+NCT04561362,"Pancreatic Cancer",2L
+NCT04561362,"Solid Tumors",2L
+NCT04561362,"Triple-Negative Breast Cancer",2L
+NCT04569032,"Adult T-cell Leukemia-Lymphoma",1L
+NCT04569032,"Enteropathy-Associated T-cell Lymphoma",1L
+NCT04569032,"Follicular Lymphoma",1L
+NCT04569032,"Peripheral T-cell Lymphoma",1L
+NCT04569032,"T-cell lymphoma",1L
+NCT04578106,"Breast Cancer",Neoadjuvant
+NCT04585958,"Endometrial Cancer",1L
+NCT04585958,"Endometrial Cancer",2L
+NCT04585958,"Solid Tumors",1L
+NCT04585958,"Solid Tumors",2L
+NCT04587687,"Follicular Lymphoma",2L
+NCT04587687,"Follicular Lymphoma",3L
+NCT04587687,"Non-Hodgkin Lymphoma",2L
+NCT04587687,"Non-Hodgkin Lymphoma",3L
+NCT04589845,Neuroblastoma,1L
+NCT04589845,Neuroblastoma,2L
+NCT04589845,"Solid Tumors",1L
+NCT04589845,"Solid Tumors",2L
+NCT04591431,"Breast Cancer",1L
+NCT04591431,"Breast Cancer",2L
+NCT04591431,"Gastrointestinal Cancer",1L
+NCT04591431,"Gastrointestinal Cancer",2L
+NCT04591431,Glioma,1L
+NCT04591431,Glioma,2L
+NCT04591431,"Lung Cancer",1L
+NCT04591431,"Lung Cancer",2L
+NCT04591431,"Non-small Cell Lung Cancer",1L
+NCT04591431,"Non-small Cell Lung Cancer",2L
+NCT04594798,"B-cell Lymphoma",1L
+NCT04594798,"Diffuse Large B-cell Lymphoma",1L
+NCT04594798,"Follicular Lymphoma",1L
+NCT04595565,"Breast Cancer",Adjuvant
+NCT04595565,"Breast Cancer",Neoadjuvant
+NCT04595565,"Triple-Negative Breast Cancer",Adjuvant
+NCT04596150,"Breast Cancer",1L
+NCT04596150,"Breast Cancer",2L
+NCT04596150,"Triple-Negative Breast Cancer",1L
+NCT04596150,"Triple-Negative Breast Cancer",2L
+NCT04609566,"Head and Neck Cancer",2L
+NCT04609566,Melanoma,2L
+NCT04609566,"Non-small Cell Lung Cancer",2L
+NCT04609566,"Solid Tumors",2L
+NCT04609566,"Squamous Cell Carcinoma",2L
+NCT04610528,"Breast Cancer",1L
+NCT04612751,"Lung Cancer",2L
+NCT04612751,"Lung Cancer",3L
+NCT04612751,"Lung Cancer",4L
+NCT04612751,"Non-small Cell Lung Cancer",1L
+NCT04612751,"Non-small Cell Lung Cancer",2L
+NCT04612751,"Non-small Cell Lung Cancer",3L
+NCT04612751,"Non-small Cell Lung Cancer",4L
+NCT04617522,"Solid Tumors",1L
+NCT04617522,"Solid Tumors",2L
+NCT04619004,"Non-small Cell Lung Cancer",2L
+NCT04619004,"Non-small Cell Lung Cancer",3L
+NCT04620187,"Head and Neck Cancer",Adjuvant
+NCT04622319,"Breast Cancer",Adjuvant
+NCT04622774,"Colorectal Cancer",2L
+NCT04622774,"Colorectal Cancer",3L
+NCT04622774,"Gastroesophageal Junction",2L
+NCT04622774,"Gastroesophageal Junction",3L
+NCT04622774,"Non-small Cell Lung Cancer",2L
+NCT04622774,"Non-small Cell Lung Cancer",3L
+NCT04622774,"Pancreatic Cancer",2L
+NCT04622774,"Pancreatic Cancer",3L
+NCT04622774,"Solid Tumors",2L
+NCT04622774,"Solid Tumors",3L
+NCT04622774,"Triple-Negative Breast Cancer",2L
+NCT04622774,"Triple-Negative Breast Cancer",3L
+NCT04632992,"Solid Tumors",2L
+NCT04639219,"Breast Cancer",2L
+NCT04639219,"Breast Cancer",3L
+NCT04639219,"Cervical Cancer",2L
+NCT04639219,"Cervical Cancer",3L
+NCT04639219,"Colorectal Cancer",2L
+NCT04639219,"Colorectal Cancer",3L
+NCT04639219,"Endometrial Cancer",2L
+NCT04639219,"Endometrial Cancer",3L
+NCT04639219,"Gastric Cancer",2L
+NCT04639219,"Gastric Cancer",3L
+NCT04639219,Melanoma,2L
+NCT04639219,Melanoma,3L
+NCT04639219,"Ovarian Cancer",2L
+NCT04639219,"Ovarian Cancer",3L
+NCT04639219,"Pancreatic Cancer",2L
+NCT04639219,"Pancreatic Cancer",3L
+NCT04639219,"Solid Tumors",2L
+NCT04639219,"Solid Tumors",3L
+NCT04639986,"Breast Cancer",2L
+NCT04639986,"Breast Cancer",3L
+NCT04643002,"Multiple Myeloma",">= 3PL"
+NCT04644068,"Biliary Tract Cancer",1L
+NCT04644068,"Biliary Tract Cancer",2L
+NCT04644068,"Bladder Cancer",1L
+NCT04644068,"Bladder Cancer",2L
+NCT04644068,"Breast Cancer",1L
+NCT04644068,"Breast Cancer",2L
+NCT04644068,"Cervical Cancer",1L
+NCT04644068,"Cervical Cancer",2L
+NCT04644068,"Colorectal Cancer",1L
+NCT04644068,"Colorectal Cancer",2L
+NCT04644068,"Endometrial Cancer",1L
+NCT04644068,"Endometrial Cancer",2L
+NCT04644068,"Gastric Cancer",1L
+NCT04644068,"Gastric Cancer",2L
+NCT04644068,"Non-small Cell Lung Cancer",1L
+NCT04644068,"Non-small Cell Lung Cancer",2L
+NCT04644068,"Ovarian Cancer",1L
+NCT04644068,"Ovarian Cancer",2L
+NCT04644068,"Pancreatic Cancer",1L
+NCT04644068,"Pancreatic Cancer",2L
+NCT04644068,"Prostate Cancer",1L
+NCT04644068,"Prostate Cancer",2L
+NCT04644068,"Small Cell Lung Cancer",1L
+NCT04644068,"Small Cell Lung Cancer",2L
+NCT04644237,"Non-small Cell Lung Cancer",2L
+NCT04644237,"Non-small Cell Lung Cancer",3L
+NCT04647916,"Breast Cancer",2L
+NCT04656652,"Non-small Cell Lung Cancer",2L
+NCT04656652,"Non-small Cell Lung Cancer",3L
+NCT04659044,"Follicular Lymphoma",2L
+NCT04659044,"Follicular Lymphoma",3L
+NCT04659044,"Follicular Lymphoma",4L
+NCT04659044,"Mantle Cell Lymphoma",2L
+NCT04659044,"Mantle Cell Lymphoma",3L
+NCT04659044,"Mantle Cell Lymphoma",4L
+NCT04659044,"Marginal Zone Lymphoma",2L
+NCT04659044,"Marginal Zone Lymphoma",3L
+NCT04659044,"Marginal Zone Lymphoma",4L
+NCT04659044,"Non-Hodgkin Lymphoma",2L
+NCT04659044,"Non-Hodgkin Lymphoma",3L
+NCT04659044,"Non-Hodgkin Lymphoma",4L
+NCT04659044,"Small Lymphocytic Lymphoma",2L
+NCT04659044,"Small Lymphocytic Lymphoma",3L
+NCT04659044,"Small Lymphocytic Lymphoma",4L
+NCT04659603,"Breast Cancer",2L
+NCT04659603,"Breast Cancer",3L
+NCT04659603,"Pancreatic Cancer",2L
+NCT04659603,"Pancreatic Cancer",3L
+NCT04659603,"Triple-Negative Breast Cancer",2L
+NCT04659603,"Triple-Negative Breast Cancer",3L
+NCT04662580,"Prostate Cancer",3L
+NCT04662580,"Solid Tumors",2L
+NCT04665765,"B-cell Lymphoma",2L
+NCT04665765,"Diffuse Large B-cell Lymphoma",2L
+NCT04665765,"Non-Hodgkin Lymphoma",2L
+NCT04665765,"Primary Mediastinal B-cell Lymphoma",2L
+NCT04665921,"Appendix Cancer",1L
+NCT04665921,"Appendix Cancer",2L
+NCT04665921,"Breast Cancer",1L
+NCT04665921,"Breast Cancer",2L
+NCT04665921,"Cervical Cancer",1L
+NCT04665921,"Cervical Cancer",2L
+NCT04665921,"Colorectal Cancer",1L
+NCT04665921,"Colorectal Cancer",2L
+NCT04665921,"Endometrial Cancer",1L
+NCT04665921,"Endometrial Cancer",2L
+NCT04665921,"Esophageal Cancer",1L
+NCT04665921,"Esophageal Cancer",2L
+NCT04665921,"Gastric Cancer",1L
+NCT04665921,"Gastric Cancer",2L
+NCT04665921,"Gastroesophageal Junction",1L
+NCT04665921,"Gastroesophageal Junction",2L
+NCT04665921,"Non-small Cell Lung Cancer",1L
+NCT04665921,"Non-small Cell Lung Cancer",2L
+NCT04665921,"Ovarian Cancer",1L
+NCT04665921,"Ovarian Cancer",2L
+NCT04665921,"Pancreatic Cancer",1L
+NCT04665921,"Pancreatic Cancer",2L
+NCT04665921,"Solid Tumors",1L
+NCT04665921,"Solid Tumors",2L
+NCT04665921,"Uterine Cancer",1L
+NCT04665921,"Uterine Cancer",2L
+NCT04676360,"B-cell Lymphoma",2L
+NCT04676477,"Non-small Cell Lung Cancer",1L
+NCT04676477,"Non-small Cell Lung Cancer",2L
+NCT04681131,"Non-small Cell Lung Cancer",2L
+NCT04685616,"Classical Hodgkin Lymphoma",1L
+NCT04685616,"Hodgkin Lymphoma",1L
+NCT04686305,"Non-small Cell Lung Cancer",1L
+NCT04686305,"Non-small Cell Lung Cancer",2L
+NCT04697628,"Cervical Cancer",2L
+NCT04697628,"Cervical Cancer",3L
+NCT04699630,"Breast Cancer",2L
+NCT04699630,"Breast Cancer",3L
+NCT04699630,"Breast Cancer",4L
+NCT04699630,"Triple-Negative Breast Cancer",2L
+NCT04699630,"Triple-Negative Breast Cancer",3L
+NCT04699630,"Triple-Negative Breast Cancer",4L
+NCT04700124,"Bladder Cancer",Adjuvant
+NCT04700124,"Bladder Cancer",Neoadjuvant
+NCT04704661,"Breast Cancer",1L
+NCT04704661,"Breast Cancer",2L
+NCT04704661,"Colorectal Cancer",1L
+NCT04704661,"Colorectal Cancer",2L
+NCT04704661,"Endometrial Cancer",1L
+NCT04704661,"Endometrial Cancer",2L
+NCT04704661,"Gastric Cancer",1L
+NCT04704661,"Gastric Cancer",2L
+NCT04704661,"Gastroesophageal Junction",1L
+NCT04704661,"Gastroesophageal Junction",2L
+NCT04704661,"Head and Neck Cancer",1L
+NCT04704661,"Head and Neck Cancer",2L
+NCT04704661,"Solid Tumors",1L
+NCT04704661,"Solid Tumors",2L
+NCT04704934,"Gastric Cancer",2L
+NCT04704934,"Gastroesophageal Junction",2L
+NCT04707248,"Ovarian Cancer",1L
+NCT04707248,"Renal Cell Carcinoma",1L
+NCT04714190,"Gastric Cancer",3L
+NCT04721977,"Breast Cancer",2L
+NCT04724018,"Bladder Cancer",2L
+NCT04733118,"Breast Cancer",Adjuvant
+NCT04733118,"Breast Cancer",Neoadjuvant
+NCT04739761,"Breast Cancer",2L
+NCT04739761,"Breast Cancer",3L
+NCT04739813,"B-cell Lymphoma",2L
+NCT04739813,"Burkitt Lymphoma",2L
+NCT04739813,"Chronic Lymphocytic Leukemia",2L
+NCT04739813,"Diffuse Large B-cell Lymphoma",2L
+NCT04739813,"Non-Hodgkin Lymphoma",2L
+NCT04739813,"Small Lymphocytic Lymphoma",2L
+NCT04740398,"Cervical Cancer",1L
+NCT04740398,"Cervical Cancer",2L
+NCT04740398,"Cervical Cancer",3L
+NCT04740398,"Colorectal Cancer",1L
+NCT04740398,"Colorectal Cancer",2L
+NCT04740398,"Colorectal Cancer",3L
+NCT04740398,"Solid Tumors",1L
+NCT04740398,"Solid Tumors",2L
+NCT04740398,"Solid Tumors",3L
+NCT04740398,"Triple-Negative Breast Cancer",1L
+NCT04740398,"Triple-Negative Breast Cancer",2L
+NCT04740398,"Triple-Negative Breast Cancer",3L
+NCT04740918,"Breast Cancer",1L
+NCT04740918,"Breast Cancer",2L
+NCT04740918,"Breast Cancer",3L
+NCT04742153,"Breast Cancer",2L
+NCT04744831,"Colorectal Cancer",3L
+NCT04745949,"B-cell Lymphoma",1L
+NCT04745949,"Primary Mediastinal B-cell Lymphoma",1L
+NCT04747912,"Acute Lymphocytic Leukemia",1L
+NCT04754191,"Prostate Cancer",1L
+NCT04754191,"Prostate Cancer",2L
+NCT04778579,"Acute Lymphocytic Leukemia",1L
+NCT04784715,"Breast Cancer",1L
+NCT04784715,"Breast Cancer",2L
+NCT04790903,"Diffuse Large B-cell Lymphoma",1L
+NCT04793919,"Acute Promyelocytic Leukemia",1L
+NCT04795869,"Anaplastic Large Cell Lymphoma",1L
+NCT04795869,"Enteropathy-Associated T-cell Lymphoma",1L
+NCT04795869,"Follicular Lymphoma",1L
+NCT04795869,"Peripheral T-cell Lymphoma",1L
+NCT04795869,"T-cell lymphoma",1L
+NCT04802356,"Multiple Myeloma",Maintenance
+NCT04802356,"Multiple Myeloma","NDMM – Transplant Eligible (TE)"
+NCT04802356,"Multiple Myeloma","NDMM – Transplant Eligible (TE) Maintenance"
+NCT04802356,"Multiple Myeloma","Newly Diagnosed"
+NCT04805307,"Gastric Cancer",2L
+NCT04805307,"Gastroesophageal Junction",2L
+NCT04805307,"Pancreatic Cancer",2L
+NCT04805307,"Solid Tumors",2L
+NCT04808037,"Multiple Myeloma","NDMM – Transplant Ineligible (TIE)"
+NCT04808037,"Multiple Myeloma","NDMM – Transplant Not Intended (TNI)"
+NCT04808037,"Multiple Myeloma","Newly Diagnosed"
+NCT04818333,"Non-small Cell Lung Cancer",2L
+NCT04822337,"Multiple Myeloma",1-3PL
+NCT04822337,"Multiple Myeloma","Newly Diagnosed"
+NCT04826107,"Gastric Cancer",2L
+NCT04826107,"Gastric Cancer",3L
+NCT04826341,"Neuroendocrine Tumor",1L
+NCT04826341,"Neuroendocrine Tumor",2L
+NCT04826341,"Small Cell Lung Cancer",1L
+NCT04826341,"Small Cell Lung Cancer",2L
+NCT04826341,"Solid Tumors",1L
+NCT04826341,"Solid Tumors",2L
+NCT04828616,"Ovarian Cancer",2L
+NCT04828616,"Peritoneal Cancer",2L
+NCT04829604,"Breast Cancer",2L
+NCT04833114,"B-cell Lymphoma",2L
+NCT04833114,"Diffuse Large B-cell Lymphoma",2L
+NCT04833114,"Non-Hodgkin Lymphoma",2L
+NCT04833114,Thrombocytopenia,2L
+NCT04837508,"Biliary Tract Cancer",2L
+NCT04837508,"Biliary Tract Cancer",3L
+NCT04838548,"Non-small Cell Lung Cancer",3L
+NCT04838964,"Biliary Tract Cancer",2L
+NCT04839510,"Bladder Cancer",2L
+NCT04839510,"Bladder Cancer",3L
+NCT04843709,"Solid Tumors",2L
+NCT04844866,"B-cell Lymphoma",2L
+NCT04844866,"Diffuse Large B-cell Lymphoma",2L
+NCT04844866,"Follicular Lymphoma",2L
+NCT04844866,"Hematological Malignancies",2L
+NCT04844866,"Marginal Zone Lymphoma",2L
+NCT04844866,"Non-Hodgkin Lymphoma",2L
+NCT04849910,"Acute Myeloid Leukemia",2L
+NCT04863885,"Bladder Cancer",1L
+NCT04868162,"Head and Neck Cancer",2L
+NCT04873362,"Breast Cancer",Adjuvant
+NCT04876248,"Multiple Myeloma","NDMM – Transplant Eligible (TE)"
+NCT04876248,"Multiple Myeloma","Newly Diagnosed"
+NCT04878029,"Bladder Cancer",2L
+NCT04878029,"Bladder Cancer",3L
+NCT04879043,"Multiple Myeloma",">= 2PL"
+NCT04879329,"Bladder Cancer",2L
+NCT04884035,"B-cell Lymphoma",1L
+NCT04884035,"B-cell Lymphoma","Newly Diagnosed"
+NCT04887870,"Solid Tumors",2L
+NCT04892264,"Multiple Myeloma",">= 1PL"
+NCT04892264,"Multiple Myeloma","Newly Diagnosed"
+NCT04892342,"Bladder Cancer",1L
+NCT04892342,"Bladder Cancer",2L
+NCT04892342,"Breast Cancer",1L
+NCT04892342,"Breast Cancer",2L
+NCT04892342,"Cervical Cancer",1L
+NCT04892342,"Cervical Cancer",2L
+NCT04892342,"Colorectal Cancer",1L
+NCT04892342,"Colorectal Cancer",2L
+NCT04892342,"Endometrial Cancer",1L
+NCT04892342,"Endometrial Cancer",2L
+NCT04892342,"Esophageal Cancer",1L
+NCT04892342,"Esophageal Cancer",2L
+NCT04892342,"Gastric Cancer",1L
+NCT04892342,"Gastric Cancer",2L
+NCT04892342,Glioblastoma,1L
+NCT04892342,Glioblastoma,2L
+NCT04892342,"Head and Neck Cancer",1L
+NCT04892342,"Head and Neck Cancer",2L
+NCT04892342,"Hepatocellular Carcinoma",1L
+NCT04892342,"Hepatocellular Carcinoma",2L
+NCT04892342,"Lung Cancer",1L
+NCT04892342,"Lung Cancer",2L
+NCT04892342,"Non-small Cell Lung Cancer",1L
+NCT04892342,"Non-small Cell Lung Cancer",2L
+NCT04892342,"Ovarian Cancer",1L
+NCT04892342,"Ovarian Cancer",2L
+NCT04892342,"Pancreatic Cancer",1L
+NCT04892342,"Pancreatic Cancer",2L
+NCT04892342,"Prostate Cancer",1L
+NCT04892342,"Prostate Cancer",2L
+NCT04892342,"Renal Cell Carcinoma",1L
+NCT04892342,"Renal Cell Carcinoma",2L
+NCT04892342,"Small Cell Lung Cancer",1L
+NCT04892342,"Small Cell Lung Cancer",2L
+NCT04892342,"Solid Tumors",1L
+NCT04892342,"Solid Tumors",2L
+NCT04892342,"Triple-Negative Breast Cancer",1L
+NCT04892342,"Triple-Negative Breast Cancer",2L
+NCT04893109,"Breast Cancer",Adjuvant
+NCT04896658,"Multiple Myeloma",">= 3PL"
+NCT04907968,"Ovarian Cancer",2L
+NCT04907968,"Peritoneal Cancer",2L
+NCT04913103,"Mantle Cell Lymphoma",2L
+NCT04914741,"B-cell Lymphoma",1L
+NCT04914741,"B-cell Lymphoma",2L
+NCT04914741,"Diffuse Large B-cell Lymphoma",1L
+NCT04914741,"Diffuse Large B-cell Lymphoma",2L
+NCT04915612,"Acute Myeloid Leukemia",1L
+NCT04915612,"Acute Myeloid Leukemia",2L
+NCT04915612,"Myelodysplastic Syndrome",1L
+NCT04915612,"Myelodysplastic Syndrome",2L
+NCT04918186,"Ovarian Cancer",2L
+NCT04918186,"Ovarian Cancer",3L
+NCT04918186,"Ovarian Cancer",4L
+NCT04918186,Thrombocytopenia,2L
+NCT04918186,Thrombocytopenia,3L
+NCT04918186,Thrombocytopenia,4L
+NCT04924699,"Breast Cancer",1L
+NCT04924699,"Breast Cancer",2L
+NCT04925284,"Bladder Cancer",2L
+NCT04925284,"Breast Cancer",1L
+NCT04925284,"Cervical Cancer",1L
+NCT04925284,"Cervical Cancer",2L
+NCT04925284,"Endometrial Cancer",1L
+NCT04925284,"Esophageal Cancer",1L
+NCT04925284,"Fallopian tube Cancer",1L
+NCT04925284,"Fallopian tube Cancer",2L
+NCT04925284,"Head and Neck Cancer",1L
+NCT04925284,"Head and Neck Cancer",2L
+NCT04925284,"Non-small Cell Lung Cancer",1L
+NCT04925284,"Non-small Cell Lung Cancer",2L
+NCT04925284,"Ovarian Cancer",1L
+NCT04925284,"Ovarian Cancer",2L
+NCT04925284,"Pancreatic Cancer",1L
+NCT04925284,"Pancreatic Cancer",2L
+NCT04925284,"Peritoneal Cancer",1L
+NCT04925284,"Peritoneal Cancer",2L
+NCT04925284,"Prostate Cancer",1L
+NCT04925284,"Solid Tumors",1L
+NCT04925284,"Solid Tumors",2L
+NCT04925284,"Triple-Negative Breast Cancer",1L
+NCT04925284,"Uterine Cancer",1L
+NCT04928612,"Lung Cancer",1L
+NCT04928612,"Prostate Cancer",1L
+NCT04928612,"Renal Cell Carcinoma",1L
+NCT04928612,"Solid Tumors",1L
+NCT04928846,"Non-small Cell Lung Cancer",2L
+NCT04931342,"Fallopian tube Cancer",2L
+NCT04931342,"Fallopian tube Cancer",3L
+NCT04931342,"Fallopian tube Cancer",4L
+NCT04931342,"Ovarian Cancer",2L
+NCT04931342,"Ovarian Cancer",3L
+NCT04931342,"Ovarian Cancer",4L
+NCT04940325,"Lung Cancer",1L
+NCT04940325,"Non-small Cell Lung Cancer",2L
+NCT04940325,"Non-small Cell Lung Cancer",3L
+NCT04940325,"Non-small Cell Lung Cancer",4L
+NCT04941339,"Solid Tumors",1L
+NCT04941339,"Solid Tumors",2L
+NCT04958785,"Breast Cancer",1L
+NCT04958785,"Breast Cancer",2L
+NCT04958785,"Breast Cancer",3L
+NCT04958785,"Triple-Negative Breast Cancer",1L
+NCT04958785,"Triple-Negative Breast Cancer",2L
+NCT04958785,"Triple-Negative Breast Cancer",3L
+NCT04960709,"Bladder Cancer",Adjuvant
+NCT04960709,"Bladder Cancer",Neoadjuvant
+NCT04963153,"Bladder Cancer",2L
+NCT04963153,"Urethral Cancer",2L
+NCT04965519,"Cervical Cancer",2L
+NCT04965519,"Endometrial Cancer",2L
+NCT04965519,"Fallopian tube Cancer",1L
+NCT04965519,"Fallopian tube Cancer",2L
+NCT04965519,"Peritoneal Cancer",1L
+NCT04965519,"Peritoneal Cancer",2L
+NCT04965519,"Vaginal Cancer",1L
+NCT04965519,"Vaginal Cancer",2L
+NCT04965519,"Vulvar Cancer",1L
+NCT04965519,"Vulvar Cancer",2L
+NCT04965766,"Breast Cancer",2L
+NCT04965766,"Breast Cancer",3L
+NCT04970901,"B-cell Lymphoma",2L
+NCT04970901,"Burkitt Lymphoma",2L
+NCT04970901,"Diffuse Large B-cell Lymphoma",2L
+NCT04970901,"Follicular Lymphoma",2L
+NCT04970901,"Mantle Cell Lymphoma",2L
+NCT04970901,"Marginal Zone Lymphoma",2L
+NCT04970901,"Non-Hodgkin Lymphoma",2L
+NCT04972981,"Biliary Tract Cancer",2L
+NCT04972981,"Fallopian tube Cancer",2L
+NCT04972981,"Ovarian Cancer",2L
+NCT04972981,"Prostate Cancer",2L
+NCT04972981,"Renal Cell Carcinoma",2L
+NCT04972981,"Solid Tumors",2L
+NCT04972981,"Triple-Negative Breast Cancer",2L
+NCT04982224,"Non-small Cell Lung Cancer",1L
+NCT04983121,"Breast Cancer",Neoadjuvant
+NCT04986579,"Breast Cancer",2L
+NCT04989816,"Gastric Cancer",3L
+NCT04989816,"Gastric Cancer",4L
+NCT04989816,"Gastroesophageal Junction",3L
+NCT04989816,"Gastroesophageal Junction",4L
+NCT04995419,"Bladder Cancer",2L
+NCT04998669,"Follicular Lymphoma",2L
+NCT04998669,"Follicular Lymphoma",3L
+NCT04998669,"Follicular Lymphoma",4L
+NCT05001282,"Biliary Tract Cancer",2L
+NCT05001282,"Biliary Tract Cancer",3L
+NCT05001282,"Biliary Tract Cancer",4L
+NCT05001282,"Breast Cancer",2L
+NCT05001282,"Breast Cancer",3L
+NCT05001282,"Breast Cancer",4L
+NCT05001282,"Colorectal Cancer",2L
+NCT05001282,"Colorectal Cancer",3L
+NCT05001282,"Colorectal Cancer",4L
+NCT05001282,"Endometrial Cancer",2L
+NCT05001282,"Endometrial Cancer",3L
+NCT05001282,"Endometrial Cancer",4L
+NCT05001282,"Esophageal Cancer",2L
+NCT05001282,"Esophageal Cancer",3L
+NCT05001282,"Esophageal Cancer",4L
+NCT05001282,"Fallopian tube Cancer",2L
+NCT05001282,"Fallopian tube Cancer",3L
+NCT05001282,"Fallopian tube Cancer",4L
+NCT05001282,"Gastric Cancer",2L
+NCT05001282,"Gastric Cancer",3L
+NCT05001282,"Gastric Cancer",4L
+NCT05001282,"Gastroesophageal Junction",2L
+NCT05001282,"Gastroesophageal Junction",3L
+NCT05001282,"Gastroesophageal Junction",4L
+NCT05001282,"Non-small Cell Lung Cancer",2L
+NCT05001282,"Non-small Cell Lung Cancer",3L
+NCT05001282,"Non-small Cell Lung Cancer",4L
+NCT05001282,"Ovarian Cancer",2L
+NCT05001282,"Ovarian Cancer",3L
+NCT05001282,"Ovarian Cancer",4L
+NCT05001282,"Peritoneal Cancer",2L
+NCT05001282,"Peritoneal Cancer",3L
+NCT05001282,"Peritoneal Cancer",4L
+NCT05001282,"Solid Tumors",2L
+NCT05001282,"Solid Tumors",3L
+NCT05001282,"Solid Tumors",4L
+NCT05001282,"Triple-Negative Breast Cancer",2L
+NCT05001282,"Triple-Negative Breast Cancer",3L
+NCT05001282,"Triple-Negative Breast Cancer",4L
+NCT05001516,"Biliary Tract Cancer",1L
+NCT05001516,"Biliary Tract Cancer",2L
+NCT05001516,"Colorectal Cancer",1L
+NCT05001516,"Colorectal Cancer",2L
+NCT05001516,"Gastric Cancer",1L
+NCT05001516,"Gastric Cancer",2L
+NCT05001516,"Ovarian Cancer",1L
+NCT05001516,"Ovarian Cancer",2L
+NCT05001516,"Pancreatic Cancer",1L
+NCT05001516,"Pancreatic Cancer",2L
+NCT05001516,"Solid Tumors",1L
+NCT05001516,"Solid Tumors",2L
+NCT05002816,"Multiple Myeloma",">= 3PL"
+NCT05006664,"Adult T-cell Leukemia-Lymphoma",1L
+NCT05006664,"Anaplastic Large Cell Lymphoma",1L
+NCT05006664,"Enteropathy-Associated T-cell Lymphoma",1L
+NCT05006664,"Follicular Lymphoma",1L
+NCT05006664,"Peripheral T-cell Lymphoma",1L
+NCT05006664,"T-cell lymphoma",1L
+NCT05006794,"Bladder Cancer",1L
+NCT05006794,"Bladder Cancer",2L
+NCT05006794,"Bladder Cancer",3L
+NCT05006794,"Breast Cancer",1L
+NCT05006794,"Breast Cancer",2L
+NCT05006794,"Breast Cancer",3L
+NCT05006794,"Cervical Cancer",1L
+NCT05006794,"Cervical Cancer",2L
+NCT05006794,"Cervical Cancer",3L
+NCT05006794,"Colorectal Cancer",1L
+NCT05006794,"Colorectal Cancer",2L
+NCT05006794,"Colorectal Cancer",3L
+NCT05006794,"Endometrial Cancer",1L
+NCT05006794,"Endometrial Cancer",2L
+NCT05006794,"Endometrial Cancer",3L
+NCT05006794,"Esophageal Cancer",1L
+NCT05006794,"Esophageal Cancer",2L
+NCT05006794,"Esophageal Cancer",3L
+NCT05006794,"Gastric Cancer",1L
+NCT05006794,"Gastric Cancer",2L
+NCT05006794,"Gastric Cancer",3L
+NCT05006794,"Gastroesophageal Junction",1L
+NCT05006794,"Gastroesophageal Junction",2L
+NCT05006794,"Gastroesophageal Junction",3L
+NCT05006794,"Head and Neck Cancer",1L
+NCT05006794,"Head and Neck Cancer",2L
+NCT05006794,"Head and Neck Cancer",3L
+NCT05006794,"Hepatocellular Carcinoma",1L
+NCT05006794,"Hepatocellular Carcinoma",2L
+NCT05006794,"Hepatocellular Carcinoma",3L
+NCT05006794,"Non-small Cell Lung Cancer",1L
+NCT05006794,"Non-small Cell Lung Cancer",2L
+NCT05006794,"Non-small Cell Lung Cancer",3L
+NCT05006794,"Ovarian Cancer",1L
+NCT05006794,"Ovarian Cancer",2L
+NCT05006794,"Ovarian Cancer",3L
+NCT05006794,"Prostate Cancer",1L
+NCT05006794,"Prostate Cancer",2L
+NCT05006794,"Prostate Cancer",3L
+NCT05006794,"Renal Cell Carcinoma",1L
+NCT05006794,"Renal Cell Carcinoma",2L
+NCT05006794,"Renal Cell Carcinoma",3L
+NCT05006794,"Small Cell Lung Cancer",1L
+NCT05006794,"Small Cell Lung Cancer",2L
+NCT05006794,"Small Cell Lung Cancer",3L
+NCT05006794,"Soft Tissue Sarcoma",1L
+NCT05006794,"Soft Tissue Sarcoma",2L
+NCT05006794,"Soft Tissue Sarcoma",3L
+NCT05006794,"Solid Tumors",1L
+NCT05006794,"Solid Tumors",2L
+NCT05006794,"Solid Tumors",3L
+NCT05006794,"Thyroid Cancer",1L
+NCT05006794,"Thyroid Cancer",2L
+NCT05006794,"Thyroid Cancer",3L
+NCT05006794,"Triple-Negative Breast Cancer",1L
+NCT05006794,"Triple-Negative Breast Cancer",2L
+NCT05006794,"Triple-Negative Breast Cancer",3L
+NCT05009966,"Gastric Cancer",1L
+NCT05009966,"Gastric Cancer",2L
+NCT05009966,"Gastroesophageal Junction",1L
+NCT05009966,"Gastroesophageal Junction",2L
+NCT05009966,"Non-small Cell Lung Cancer",1L
+NCT05009966,"Non-small Cell Lung Cancer",2L
+NCT05009966,"Pancreatic Cancer",1L
+NCT05009966,"Pancreatic Cancer",2L
+NCT05009966,"Solid Tumors",1L
+NCT05009966,"Solid Tumors",2L
+NCT05011188,"Bladder Cancer",1L
+NCT05011188,"Bladder Cancer",2L
+NCT05011188,"Prostate Cancer",1L
+NCT05011188,"Prostate Cancer",2L
+NCT05011188,"Skin Cancer",1L
+NCT05011188,"Skin Cancer",2L
+NCT05014139,"Bladder Cancer",Maintenance
+NCT05016947,"Acute Lymphocytic Leukemia",2L
+NCT05016947,"Acute Lymphocytic Leukemia",3L
+NCT05016947,"Acute Lymphocytic Leukemia",4L
+NCT05016947,"B-cell Acute Lymphocytic Leukemia",2L
+NCT05016947,"B-cell Acute Lymphocytic Leukemia",3L
+NCT05016947,"B-cell Acute Lymphocytic Leukemia",4L
+NCT05016947,"Chronic Myeloid Leukemia",2L
+NCT05016947,"Chronic Myeloid Leukemia",3L
+NCT05016947,"Chronic Myeloid Leukemia",4L
+NCT05016947,"Lymphoblastic Lymphoma",2L
+NCT05016947,"Lymphoblastic Lymphoma",3L
+NCT05016947,"Lymphoblastic Lymphoma",4L
+NCT05016973,"Bladder Cancer",Neoadjuvant
+NCT05018676,"Breast Cancer",2L
+NCT05018676,"Breast Cancer",3L
+NCT05018702,"Breast Cancer",2L
+NCT05029882,"Colorectal Cancer",2L
+NCT05029882,"Colorectal Cancer",3L
+NCT05029882,"Gastric Cancer",2L
+NCT05029882,"Gastric Cancer",3L
+NCT05029882,"Lung Cancer",2L
+NCT05029882,"Lung Cancer",3L
+NCT05029882,"Non-small Cell Lung Cancer",2L
+NCT05029882,"Non-small Cell Lung Cancer",3L
+NCT05029882,"Solid Tumors",2L
+NCT05029882,"Solid Tumors",3L
+NCT05034887,"Gastric Cancer",Neoadjuvant
+NCT05034887,"Gastroesophageal Junction",Neoadjuvant
+NCT05039073,"Classical Hodgkin Lymphoma",2L
+NCT05039073,"Hodgkin Lymphoma",2L
+NCT05041257,"Fallopian tube Cancer",3L
+NCT05041257,"Ovarian Cancer",3L
+NCT05041257,"Peritoneal Cancer",3L
+NCT05041842,"Breast Cancer",1L
+NCT05041842,"Breast Cancer",2L
+NCT05043987,"Gastric Cancer",2L
+NCT05043987,"Gastric Cancer",3L
+NCT05043987,"Gastric Cancer",4L
+NCT05043987,"Gastroesophageal Junction",2L
+NCT05043987,"Gastroesophageal Junction",3L
+NCT05043987,"Gastroesophageal Junction",4L
+NCT05043987,"Pancreatic Cancer",2L
+NCT05043987,"Pancreatic Cancer",3L
+NCT05043987,"Pancreatic Cancer",4L
+NCT05048797,"Non-small Cell Lung Cancer",1L
+NCT05053659,"Chronic Lymphocytic Leukemia",1L
+NCT05053659,"Mantle Cell Lymphoma",1L
+NCT05053659,"Non-Hodgkin Lymphoma",1L
+NCT05053659,"Small Lymphocytic Lymphoma",1L
+NCT05060627,"Multiple Myeloma",1-3PL
+NCT05061550,"Lung Cancer",Adjuvant
+NCT05061550,"Non-small Cell Lung Cancer",Adjuvant
+NCT05064358,"Multiple Myeloma",">= 3PL"
+NCT05065047,"Multiple Myeloma",">= 1PL"
+NCT05065047,"Multiple Myeloma",Maintenance
+NCT05070247,"Breast Cancer",2L
+NCT05070247,"Breast Cancer",3L
+NCT05070247,"Esophageal Cancer",2L
+NCT05070247,"Esophageal Cancer",3L
+NCT05070247,"Gastric Cancer",2L
+NCT05070247,"Gastric Cancer",3L
+NCT05070247,"Gastroesophageal Junction",2L
+NCT05070247,"Gastroesophageal Junction",3L
+NCT05070247,"Head and Neck Cancer",2L
+NCT05070247,"Head and Neck Cancer",3L
+NCT05070247,"Hepatocellular Carcinoma",2L
+NCT05070247,"Hepatocellular Carcinoma",3L
+NCT05070247,Mesothelioma,2L
+NCT05070247,Mesothelioma,3L
+NCT05070247,"Nasopharyngeal Carcinoma",2L
+NCT05070247,"Nasopharyngeal Carcinoma",3L
+NCT05070247,"Non-small Cell Lung Cancer",2L
+NCT05070247,"Non-small Cell Lung Cancer",3L
+NCT05070247,"Pancreatic Cancer",2L
+NCT05070247,"Pancreatic Cancer",3L
+NCT05070247,"Renal Cell Carcinoma",2L
+NCT05070247,"Renal Cell Carcinoma",3L
+NCT05070247,"Solid Tumors",2L
+NCT05070247,"Solid Tumors",3L
+NCT05070247,"Squamous Cell Carcinoma",2L
+NCT05070247,"Squamous Cell Carcinoma",3L
+NCT05070247,"Triple-Negative Breast Cancer",2L
+NCT05070247,"Triple-Negative Breast Cancer",3L
+NCT05071053,"Gastric Cancer",2L
+NCT05071053,"Gastroesophageal Junction",2L
+NCT05089734,"Non-small Cell Lung Cancer",2L
+NCT05089734,"Non-small Cell Lung Cancer",3L
+NCT05089734,"Squamous Cell Carcinoma",2L
+NCT05089734,"Squamous Cell Carcinoma",3L
+NCT05091372,"Multiple Myeloma",Maintenance
+NCT05091372,"Multiple Myeloma","NDMM – Transplant Eligible (TE)"
+NCT05091372,"Multiple Myeloma","NDMM – Transplant Eligible (TE) Maintenance"
+NCT05091372,"Multiple Myeloma","Newly Diagnosed"
+NCT05097599,"Colorectal Cancer",1L
+NCT05097599,"Colorectal Cancer",2L
+NCT05097599,Melanoma,1L
+NCT05097599,Melanoma,2L
+NCT05097599,"Non-small Cell Lung Cancer",1L
+NCT05097599,"Non-small Cell Lung Cancer",2L
+NCT05097599,"Solid Tumors",1L
+NCT05097599,"Solid Tumors",2L
+NCT05101096,"Bladder Cancer",1L
+NCT05101096,"Bladder Cancer",2L
+NCT05101096,"Bladder Cancer",3L
+NCT05101096,"Breast Cancer",1L
+NCT05101096,"Breast Cancer",2L
+NCT05101096,"Breast Cancer",3L
+NCT05101096,"Solid Tumors",1L
+NCT05101096,"Solid Tumors",2L
+NCT05101096,"Solid Tumors",3L
+NCT05101096,"Triple-Negative Breast Cancer",2L
+NCT05101096,"Triple-Negative Breast Cancer",3L
+NCT05101096,"Triple-Negative Breast Cancer",4L
+NCT05103683,"Endometrial Cancer",1L
+NCT05103683,"Non-small Cell Lung Cancer",1L
+NCT05103683,"Ovarian Cancer",1L
+NCT05103683,"Solid Tumors",1L
+NCT05104866,"Breast Cancer",2L
+NCT05104866,"Breast Cancer",3L
+NCT05113069,"B-cell Lymphoma",2L
+NCT05113069,"B-cell Lymphoma",3L
+NCT05113069,"Non-Hodgkin Lymphoma",2L
+NCT05113069,"Non-Hodgkin Lymphoma",3L
+NCT05113251,"Breast Cancer",Neoadjuvant
+NCT05113459,"Gastric Cancer",Neoadjuvant
+NCT05113966,"Breast Cancer",2L
+NCT05113966,"Breast Cancer",3L
+NCT05113966,"Triple-Negative Breast Cancer",2L
+NCT05113966,"Triple-Negative Breast Cancer",3L
+NCT05114759,"Solid Tumors",1L
+NCT05114759,"Solid Tumors",2L
+NCT05115500,"Solid Tumors",2L
+NCT05117008,"Multiple Myeloma",">= 3PL"
+NCT05117242,"Lung Cancer",2L
+NCT05117242,"Non-small Cell Lung Cancer",2L
+NCT05119907,"Biliary Tract Cancer",2L
+NCT05119907,"Cervical Cancer",2L
+NCT05119907,"Esophageal Cancer",2L
+NCT05119907,"Gallbladder Cancer",2L
+NCT05119907,"Gastric Cancer",2L
+NCT05119907,"Non-small Cell Lung Cancer",2L
+NCT05119907,"Solid Tumors",2L
+NCT05123482,"Biliary Tract Cancer",2L
+NCT05123482,"Breast Cancer",2L
+NCT05123482,"Endometrial Cancer",2L
+NCT05123482,"Ovarian Cancer",2L
+NCT05123482,"Solid Tumors",2L
+NCT05123482,"Triple-Negative Breast Cancer",2L
+NCT05126433,"Biliary Tract Cancer",1L
+NCT05126433,"Biliary Tract Cancer",2L
+NCT05126433,"Biliary Tract Cancer",3L
+NCT05126433,"Biliary Tract Cancer",4L
+NCT05126433,"Bladder Cancer",2L
+NCT05126433,"Bladder Cancer",3L
+NCT05126433,"Bladder Cancer",4L
+NCT05126433,"Breast Cancer",2L
+NCT05126433,"Breast Cancer",3L
+NCT05126433,"Breast Cancer",4L
+NCT05126433,"Endometrial Cancer",1L
+NCT05126433,"Endometrial Cancer",2L
+NCT05126433,"Endometrial Cancer",3L
+NCT05126433,"Endometrial Cancer",4L
+NCT05126433,"Esophageal Cancer",1L
+NCT05126433,"Esophageal Cancer",2L
+NCT05126433,"Esophageal Cancer",3L
+NCT05126433,"Esophageal Cancer",4L
+NCT05126433,"Gastric Cancer",1L
+NCT05126433,"Gastric Cancer",2L
+NCT05126433,"Gastric Cancer",3L
+NCT05126433,"Gastric Cancer",4L
+NCT05126433,"Neuroendocrine Tumor",2L
+NCT05126433,"Neuroendocrine Tumor",3L
+NCT05126433,"Neuroendocrine Tumor",4L
+NCT05126433,"Pancreatic Cancer",2L
+NCT05126433,"Pancreatic Cancer",3L
+NCT05126433,"Pancreatic Cancer",4L
+NCT05126433,"Solid Tumors",2L
+NCT05126433,"Solid Tumors",3L
+NCT05126433,"Solid Tumors",4L
+NCT05126433,"Triple-Negative Breast Cancer",2L
+NCT05126433,"Triple-Negative Breast Cancer",3L
+NCT05126433,"Triple-Negative Breast Cancer",4L
+NCT05126719,"Nasopharyngeal Carcinoma",2L
+NCT05126719,"Nasopharyngeal Carcinoma",3L
+NCT05134519,"Breast Cancer",Neoadjuvant
+NCT05135715,Melanoma,2L
+NCT05139017,"Diffuse Large B-cell Lymphoma",2L
+NCT05139017,"Diffuse Large B-cell Lymphoma",3L
+NCT05139017,"Diffuse Large B-cell Lymphoma",4L
+NCT05139017,"Diffuse Large B-cell Lymphoma",5L
+NCT05141747,"Gastric Cancer",2L
+NCT05141747,"Gastroesophageal Junction",2L
+NCT05141786,"Lung Cancer",2L
+NCT05141786,"Non-small Cell Lung Cancer",2L
+NCT05143229,"Breast Cancer",1L
+NCT05143229,"Breast Cancer",2L
+NCT05143229,"Breast Cancer",3L
+NCT05143229,"Triple-Negative Breast Cancer",1L
+NCT05143229,"Triple-Negative Breast Cancer",2L
+NCT05143229,"Triple-Negative Breast Cancer",3L
+NCT05144009,"B-cell Lymphoma",1L
+NCT05144009,"Diffuse Large B-cell Lymphoma",1L
+NCT05144841,"Diffuse Large B-cell Lymphoma",3L
+NCT05144841,"Diffuse Large B-cell Lymphoma",4L
+NCT05144841,"Diffuse Large B-cell Lymphoma",5L
+NCT05150691,"Biliary Tract Cancer",1L
+NCT05150691,"Biliary Tract Cancer",2L
+NCT05150691,"Breast Cancer",1L
+NCT05150691,"Breast Cancer",2L
+NCT05150691,"Endometrial Cancer",1L
+NCT05150691,"Endometrial Cancer",2L
+NCT05150691,"Gastric Cancer",1L
+NCT05150691,"Gastric Cancer",2L
+NCT05150691,"Gastroesophageal Junction",1L
+NCT05150691,"Gastroesophageal Junction",2L
+NCT05150691,"Gastrointestinal Cancer",1L
+NCT05150691,"Gastrointestinal Cancer",2L
+NCT05150691,"Hepatocellular Carcinoma",1L
+NCT05150691,"Hepatocellular Carcinoma",2L
+NCT05150691,"Non-small Cell Lung Cancer",1L
+NCT05150691,"Non-small Cell Lung Cancer",2L
+NCT05150691,"Solid Tumors",1L
+NCT05150691,"Solid Tumors",2L
+NCT05154604,"Solid Tumors",1L
+NCT05154604,"Solid Tumors",2L
+NCT05155839,"Non-Hodgkin Lymphoma",2L
+NCT05156866,"Gastric Cancer",1L
+NCT05156866,"Pancreatic Cancer",1L
+NCT05156866,"Solid Tumors",1L
+NCT05161390,"Solid Tumors",1L
+NCT05169658,"Follicular Lymphoma",1L
+NCT05169658,"Marginal Zone Lymphoma",1L
+NCT05169658,"Non-Hodgkin Lymphoma",1L
+NCT05171647,"B-cell Lymphoma",2L
+NCT05171647,"B-cell Lymphoma",3L
+NCT05171647,"B-cell Lymphoma",4L
+NCT05171647,"Diffuse Large B-cell Lymphoma",2L
+NCT05171647,"Diffuse Large B-cell Lymphoma",3L
+NCT05171647,"Diffuse Large B-cell Lymphoma",4L
+NCT05171647,"Follicular Lymphoma",2L
+NCT05171647,"Follicular Lymphoma",3L
+NCT05171647,"Follicular Lymphoma",4L
+NCT05171647,"Non-Hodgkin Lymphoma",2L
+NCT05171647,"Non-Hodgkin Lymphoma",3L
+NCT05171647,"Non-Hodgkin Lymphoma",4L
+NCT05174637,"Bladder Cancer",1L
+NCT05174637,"Bladder Cancer",2L
+NCT05174637,"Colorectal Cancer",1L
+NCT05174637,"Colorectal Cancer",2L
+NCT05174637,"Endometrial Cancer",1L
+NCT05174637,"Endometrial Cancer",2L
+NCT05174637,"Esophageal Cancer",1L
+NCT05174637,"Esophageal Cancer",2L
+NCT05174637,"Gastric Cancer",1L
+NCT05174637,"Gastric Cancer",2L
+NCT05174637,"Lung Cancer",1L
+NCT05174637,"Non-small Cell Lung Cancer",1L
+NCT05174637,"Non-small Cell Lung Cancer",2L
+NCT05174637,"Ovarian Cancer",1L
+NCT05174637,"Ovarian Cancer",2L
+NCT05174637,"Small Cell Lung Cancer",1L
+NCT05174637,"Small Cell Lung Cancer",2L
+NCT05174637,"Solid Tumors",1L
+NCT05174637,"Solid Tumors",2L
+NCT05174637,"Triple-Negative Breast Cancer",1L
+NCT05174637,"Triple-Negative Breast Cancer",2L
+NCT05180097,"Classical Hodgkin Lymphoma",2L
+NCT05180097,"Hodgkin Lymphoma",2L
+NCT05182866,"Cutaneous Squamous Cell Carcinoma",Neoadjuvant
+NCT05182866,"Head and Neck Cancer",Neoadjuvant
+NCT05183035,"Acute Myeloid Leukemia",2L
+NCT05183035,"Acute Myeloid Leukemia",3L
+NCT05186974,"Lung Cancer",1L
+NCT05186974,"Non-small Cell Lung Cancer",1L
+NCT05188209,"Gastric Cancer",1L
+NCT05188209,"Gastric Cancer",2L
+NCT05188209,"Gastroesophageal Junction",1L
+NCT05188209,"Gastroesophageal Junction",2L
+NCT05188664,"Solid Tumors",1L
+NCT05188664,"Solid Tumors",2L
+NCT05190705,"Waldenstrom Macroglobulinemia",3L
+NCT05194072,"Adenoid Cystic Carcinoma",2L
+NCT05194072,"Biliary Tract Cancer",2L
+NCT05194072,"Breast Cancer",2L
+NCT05194072,"Endometrial Cancer",2L
+NCT05194072,"Fallopian tube Cancer",2L
+NCT05194072,"Gallbladder Cancer",2L
+NCT05194072,"Non-small Cell Lung Cancer",2L
+NCT05194072,"Ovarian Cancer",2L
+NCT05194072,"Peritoneal Cancer",2L
+NCT05194072,"Solid Tumors",2L
+NCT05194072,"Squamous Cell Carcinoma",2L
+NCT05194072,"Triple-Negative Breast Cancer",2L
+NCT05199051,"Acute Myeloid Leukemia",2L
+NCT05200364,"Fallopian tube Cancer",2L
+NCT05200364,"Fallopian tube Cancer",3L
+NCT05200364,"Fallopian tube Cancer",4L
+NCT05200364,"Ovarian Cancer",2L
+NCT05200364,"Ovarian Cancer",3L
+NCT05200364,"Ovarian Cancer",4L
+NCT05200364,"Peritoneal Cancer",2L
+NCT05200364,"Peritoneal Cancer",3L
+NCT05200364,"Peritoneal Cancer",4L
+NCT05205850,"Biliary Tract Cancer",2L
+NCT05205850,"Esophageal Cancer",2L
+NCT05205850,"Gastric Cancer",2L
+NCT05205850,"Gastroesophageal Junction",2L
+NCT05205850,"Ovarian Cancer",2L
+NCT05205850,"Pancreatic Cancer",2L
+NCT05205850,"Solid Tumors",2L
+NCT05208762,"Esophageal Cancer",1L
+NCT05208762,"Esophageal Cancer",2L
+NCT05208762,"Head and Neck Cancer",1L
+NCT05208762,"Head and Neck Cancer",2L
+NCT05208762,Melanoma,1L
+NCT05208762,Melanoma,2L
+NCT05208762,"Non-small Cell Lung Cancer",1L
+NCT05208762,"Non-small Cell Lung Cancer",2L
+NCT05208762,"Ovarian Cancer",2L
+NCT05208762,"Solid Tumors",2L
+NCT05208762,"Triple-Negative Breast Cancer",2L
+NCT05215340,"Non-small Cell Lung Cancer",1L
+NCT05216965,"Solid Tumors",1L
+NCT05216965,"Solid Tumors",2L
+NCT05217693,"Solid Tumors",1L
+NCT05217693,"Solid Tumors",2L
+NCT05222438,"B-cell Lymphoma",Maintenance
+NCT05222438,"Diffuse Large B-cell Lymphoma",Maintenance
+NCT05226117,"Bladder Cancer",Neoadjuvant
+NCT05229900,"Cervical Cancer",2L
+NCT05229900,"Cervical Cancer",3L
+NCT05229900,"Endometrial Cancer",2L
+NCT05229900,"Endometrial Cancer",3L
+NCT05229900,"Gastric Cancer",2L
+NCT05229900,"Gastric Cancer",3L
+NCT05229900,"Gastroesophageal Junction",2L
+NCT05229900,"Gastroesophageal Junction",3L
+NCT05229900,"Lung Cancer",2L
+NCT05229900,"Lung Cancer",3L
+NCT05229900,"Non-small Cell Lung Cancer",2L
+NCT05229900,"Non-small Cell Lung Cancer",3L
+NCT05229900,"Ovarian Cancer",2L
+NCT05229900,"Ovarian Cancer",3L
+NCT05229900,"Solid Tumors",2L
+NCT05229900,"Solid Tumors",3L
+NCT05229900,"Testicular Cancer",2L
+NCT05229900,"Testicular Cancer",3L
+NCT05229900,"Uterine Cancer",2L
+NCT05229900,"Uterine Cancer",3L
+NCT05238831,"Breast Cancer",2L
+NCT05238831,"Ovarian Cancer",2L
+NCT05238831,"Pancreatic Cancer",1L
+NCT05238831,"Pancreatic Cancer",2L
+NCT05238831,"Prostate Cancer",1L
+NCT05238831,"Prostate Cancer",2L
+NCT05238831,"Soft Tissue Sarcoma",1L
+NCT05238831,"Soft Tissue Sarcoma",2L
+NCT05238831,"Solid Tumors",1L
+NCT05238831,"Solid Tumors",2L
+NCT05241899,"Gastric Cancer",2L
+NCT05241899,"Gastroesophageal Junction",2L
+NCT05243693,"Classical Hodgkin Lymphoma",1L
+NCT05243693,"Classical Hodgkin Lymphoma",2L
+NCT05243693,"Hodgkin Lymphoma",1L
+NCT05243693,"Hodgkin Lymphoma",2L
+NCT05245071,"Non-small Cell Lung Cancer",2L
+NCT05245071,"Non-small Cell Lung Cancer",3L
+NCT05246514,"Non-small Cell Lung Cancer",2L
+NCT05246514,"Non-small Cell Lung Cancer",3L
+NCT05249959,"Mantle Cell Lymphoma",2L
+NCT05253495,"B-cell Lymphoma",1L
+NCT05253495,"B-cell Lymphoma",2L
+NCT05253495,"Burkitt Lymphoma",1L
+NCT05253495,"Burkitt Lymphoma",2L
+NCT05253495,"Classical Hodgkin Lymphoma",1L
+NCT05253495,"Classical Hodgkin Lymphoma",2L
+NCT05253495,"Diffuse Large B-cell Lymphoma",1L
+NCT05253495,"Diffuse Large B-cell Lymphoma",2L
+NCT05253495,"Non-Hodgkin Lymphoma",1L
+NCT05253495,"Non-Hodgkin Lymphoma",2L
+NCT05253495,"Non-Hodgkin Lymphoma","Newly Diagnosed"
+NCT05260957,"B-cell Lymphoma",2L
+NCT05260957,"B-cell Lymphoma",3L
+NCT05260957,"Burkitt Lymphoma",2L
+NCT05260957,"Burkitt Lymphoma",3L
+NCT05260957,"Diffuse Large B-cell Lymphoma",2L
+NCT05260957,"Diffuse Large B-cell Lymphoma",3L
+NCT05260957,"Follicular Lymphoma",2L
+NCT05260957,"Follicular Lymphoma",3L
+NCT05260957,"Mantle Cell Lymphoma",2L
+NCT05260957,"Mantle Cell Lymphoma",3L
+NCT05260957,"Marginal Zone Lymphoma",2L
+NCT05260957,"Marginal Zone Lymphoma",3L
+NCT05260957,"Non-Hodgkin Lymphoma",2L
+NCT05260957,"Non-Hodgkin Lymphoma",3L
+NCT05260957,"Primary Mediastinal B-cell Lymphoma",2L
+NCT05260957,"Primary Mediastinal B-cell Lymphoma",3L
+NCT05263479,"Solid Tumors",1L
+NCT05263869,"Breast Cancer",1L
+NCT05263869,"Breast Cancer",2L
+NCT05263869,"Solid Tumors",2L
+NCT05265013,"Bone Cancer",1L
+NCT05265013,"Bone Cancer",2L
+NCT05265013,"Head and Neck Cancer",1L
+NCT05265013,"Head and Neck Cancer",2L
+NCT05270057,"B-cell Lymphoma",1L
+NCT05270057,"Burkitt Lymphoma",1L
+NCT05270057,"Diffuse Large B-cell Lymphoma",1L
+NCT05271604,"Head and Neck Cancer",2L
+NCT05274048,"Esophageal Cancer",2L
+NCT05274048,"Gastric Cancer",2L
+NCT05274048,"Gastroesophageal Junction",2L
+NCT05276609,"Solid Tumors",2L
+NCT05279300,"Diffuse Large B-cell Lymphoma",3L
+NCT05279300,"Diffuse Large B-cell Lymphoma",4L
+NCT05279300,"Diffuse Large B-cell Lymphoma",5L
+NCT05279300,"Mantle Cell Lymphoma",3L
+NCT05279300,"Mantle Cell Lymphoma",4L
+NCT05279300,"Mantle Cell Lymphoma",5L
+NCT05279300,"Non-Hodgkin Lymphoma",3L
+NCT05279300,"Non-Hodgkin Lymphoma",4L
+NCT05279300,"Non-Hodgkin Lymphoma",5L
+NCT05279300,"Solid Tumors",2L
+NCT05279300,"Solid Tumors",3L
+NCT05279300,"Solid Tumors",4L
+NCT05279300,"Solid Tumors",5L
+NCT05279300,"Triple-Negative Breast Cancer",3L
+NCT05279300,"Triple-Negative Breast Cancer",4L
+NCT05279300,"Triple-Negative Breast Cancer",5L
+NCT05280275,"Multiple Myeloma","NDMM – Transplant Ineligible (TIE)"
+NCT05280275,"Multiple Myeloma","NDMM – Transplant Not Intended (TNI)"
+NCT05280275,"Multiple Myeloma","Newly Diagnosed"
+NCT05280470,"Small Cell Lung Cancer",2L
+NCT05280470,"Small Cell Lung Cancer",3L
+NCT05283720,"B-cell Lymphoma",3L
+NCT05283720,"B-cell Lymphoma",4L
+NCT05283720,"Diffuse Large B-cell Lymphoma",1L
+NCT05283720,"Diffuse Large B-cell Lymphoma",2L
+NCT05283720,"Diffuse Large B-cell Lymphoma",3L
+NCT05283720,"Diffuse Large B-cell Lymphoma",4L
+NCT05283720,"Diffuse Large B-cell Lymphoma","Newly Diagnosed"
+NCT05283720,"Follicular Lymphoma",2L
+NCT05283720,"Follicular Lymphoma",3L
+NCT05283720,"Follicular Lymphoma",4L
+NCT05283720,"Mantle Cell Lymphoma",1L
+NCT05283720,"Mantle Cell Lymphoma",3L
+NCT05283720,"Mantle Cell Lymphoma",4L
+NCT05283720,"Marginal Zone Lymphoma",1L
+NCT05283720,"Marginal Zone Lymphoma",3L
+NCT05283720,"Marginal Zone Lymphoma",4L
+NCT05283720,"Non-Hodgkin Lymphoma",2L
+NCT05283720,"Non-Hodgkin Lymphoma",3L
+NCT05283720,"Non-Hodgkin Lymphoma",4L
+NCT05288777,"Breast Cancer",Adjuvant
+NCT05293496,"Hepatocellular Carcinoma",2L
+NCT05293496,Melanoma,2L
+NCT05293496,"Ovarian Cancer",2L
+NCT05293496,"Pancreatic Cancer",2L
+NCT05293496,"Prostate Cancer",2L
+NCT05293496,"Renal Cell Carcinoma",2L
+NCT05293496,"Solid Tumors",2L
+NCT05296070,"Marginal Zone Lymphoma",2L
+NCT05296070,"Marginal Zone Lymphoma",3L
+NCT05296070,"Marginal Zone Lymphoma",4L
+NCT05297552,"Bladder Cancer",Adjuvant
+NCT05297552,"Bladder Cancer",Neoadjuvant
+NCT05302284,"Bladder Cancer",1L
+NCT05303792,"Acute Lymphocytic Leukemia",1L
+NCT05303792,"Lymphoblastic Lymphoma",1L
+NCT05308225,"Multiple Myeloma",">= 3PL"
+NCT05311397,"Breast Cancer",2L
+NCT05311397,"Solid Tumors",2L
+NCT05313243,"Anaplastic Large Cell Lymphoma",1L
+NCT05313243,"Cutaneous T-cell Lymphoma",1L
+NCT05313243,"Enteropathy-Associated T-cell Lymphoma",1L
+NCT05313243,"Non-Hodgkin Lymphoma",1L
+NCT05313243,"Peripheral T-cell Lymphoma",1L
+NCT05313243,"T-cell lymphoma",1L
+NCT05316246,"NK-cell lymphoma",2L
+NCT05316246,"T-cell lymphoma",2L
+NCT05323045,"Cervical Cancer",1L
+NCT05323045,"Cervical Cancer",2L
+NCT05323045,"Head and Neck Cancer",1L
+NCT05323045,"Head and Neck Cancer",2L
+NCT05323045,Melanoma,1L
+NCT05323045,Melanoma,2L
+NCT05323045,"Pancreatic Cancer",1L
+NCT05323045,"Pancreatic Cancer",2L
+NCT05323045,"Renal Cell Carcinoma",1L
+NCT05323045,"Renal Cell Carcinoma",2L
+NCT05323045,"Solid Tumors",1L
+NCT05323045,"Solid Tumors",2L
+NCT05323955,"Breast Cancer",1L
+NCT05323955,"Breast Cancer",2L
+NCT05323955,"Breast Cancer",Maintenance
+NCT05327530,"Bladder Cancer",Maintenance
+NCT05329545,"Fallopian tube Cancer",Maintenance
+NCT05329545,"Ovarian Cancer",Maintenance
+NCT05329545,"Peritoneal Cancer",Maintenance
+NCT05331326,"Breast Cancer",2L
+NCT05332561,"Breast Cancer",Adjuvant
+NCT05332561,"Triple-Negative Breast Cancer",Adjuvant
+NCT05333809,"Colorectal Cancer",3L
+NCT05334810,"Breast Cancer",3L
+NCT05334810,"Breast Cancer",4L
+NCT05338957,"Solid Tumors",2L
+NCT05338970,"Non-small Cell Lung Cancer",2L
+NCT05338970,"Non-small Cell Lung Cancer",3L
+NCT05339685,"Breast Cancer",1L
+NCT05339685,"Gastrointestinal Cancer",1L
+NCT05339685,"Solid Tumors",1L
+NCT05339685,"Triple-Negative Breast Cancer",1L
+NCT05346328,"Breast Cancer",2L
+NCT05347134,"Breast Cancer",2L
+NCT05347134,"Breast Cancer",3L
+NCT05347134,"Triple-Negative Breast Cancer",2L
+NCT05347134,"Triple-Negative Breast Cancer",3L
+NCT05349409,"Solid Tumors",1L
+NCT05350917,"Colorectal Cancer",1L
+NCT05350917,"Colorectal Cancer",2L
+NCT05351788,"Non-small Cell Lung Cancer",1L
+NCT05351788,"Non-small Cell Lung Cancer",2L
+NCT05353361,"Breast Cancer",1L
+NCT05353361,"Breast Cancer",2L
+NCT05356351,"Bladder Cancer",Neoadjuvant
+NCT05365659,"B-cell Lymphoma",1L
+NCT05365659,"B-cell Lymphoma",2L
+NCT05365659,"B-cell Lymphoma",3L
+NCT05365659,"Diffuse Large B-cell Lymphoma",1L
+NCT05365659,"Diffuse Large B-cell Lymphoma",2L
+NCT05365659,"Diffuse Large B-cell Lymphoma",3L
+NCT05365659,"Follicular Lymphoma",1L
+NCT05365659,"Follicular Lymphoma",2L
+NCT05365659,"Follicular Lymphoma",3L
+NCT05365659,"Mantle Cell Lymphoma",1L
+NCT05365659,"Mantle Cell Lymphoma",2L
+NCT05365659,"Mantle Cell Lymphoma",3L
+NCT05365659,"Non-Hodgkin Lymphoma",1L
+NCT05365659,"Non-Hodgkin Lymphoma",2L
+NCT05365659,"Non-Hodgkin Lymphoma",3L
+NCT05367635,"Solid Tumors",1L
+NCT05367635,"Solid Tumors",2L
+NCT05372614,"Breast Cancer",1L
+NCT05372614,"Breast Cancer",2L
+NCT05372614,"Gastric Cancer",1L
+NCT05372614,"Gastric Cancer",2L
+NCT05372614,"Solid Tumors",1L
+NCT05372614,"Solid Tumors",2L
+NCT05374512,"Breast Cancer",1L
+NCT05374512,"Triple-Negative Breast Cancer",1L
+NCT05377996,"Breast Cancer",1L
+NCT05377996,"Breast Cancer",2L
+NCT05377996,"Endometrial Cancer",2L
+NCT05377996,"Fallopian tube Cancer",2L
+NCT05377996,"Ovarian Cancer",2L
+NCT05377996,"Solid Tumors",2L
+NCT05377996,"Triple-Negative Breast Cancer",2L
+NCT05378737,"Solid Tumors",2L
+NCT05382286,"Breast Cancer",1L
+NCT05382286,"Triple-Negative Breast Cancer",1L
+NCT05382299,"Breast Cancer",1L
+NCT05382299,"Breast Cancer",2L
+NCT05382299,"Triple-Negative Breast Cancer",1L
+NCT05382299,"Triple-Negative Breast Cancer",2L
+NCT05385692,"Gastrointestinal Cancer",1L
+NCT05385692,"Gastrointestinal Cancer",2L
+NCT05385692,"Gastrointestinal Stromal Tumor",1L
+NCT05385692,"Gastrointestinal Stromal Tumor",2L
+NCT05385692,"Solid Tumors",1L
+NCT05385692,"Solid Tumors",2L
+NCT05388149,"Breast Cancer",3L
+NCT05388500,"Breast Cancer",Adjuvant
+NCT05388500,"Breast Cancer",Neoadjuvant
+NCT05389462,"Bladder Cancer",2L
+NCT05389462,"Cervical Cancer",2L
+NCT05389462,Chondrosarcoma,2L
+NCT05389462,"Endometrial Cancer",2L
+NCT05389462,"Ewing Sarcoma",2L
+NCT05389462,"Fallopian tube Cancer",2L
+NCT05389462,Leiomyosarcoma,2L
+NCT05389462,Liposarcoma,2L
+NCT05389462,"Non-small Cell Lung Cancer",2L
+NCT05389462,Osteosarcoma,2L
+NCT05389462,"Ovarian Cancer",2L
+NCT05389462,"Pancreatic Cancer",2L
+NCT05389462,"Peritoneal Cancer",2L
+NCT05389462,"Soft Tissue Sarcoma",2L
+NCT05389462,"Solid Tumors",2L
+NCT05389462,"Synovial Sarcoma",2L
+NCT05394675,"Endometrial Cancer",1L
+NCT05394675,"Endometrial Cancer",2L
+NCT05394675,"Fallopian tube Cancer",1L
+NCT05394675,"Fallopian tube Cancer",2L
+NCT05394675,"Gastric Cancer",1L
+NCT05394675,"Gastric Cancer",2L
+NCT05394675,"Non-small Cell Lung Cancer",1L
+NCT05394675,"Non-small Cell Lung Cancer",2L
+NCT05394675,"Ovarian Cancer",1L
+NCT05394675,"Ovarian Cancer",2L
+NCT05394675,"Pancreatic Cancer",1L
+NCT05394675,"Pancreatic Cancer",2L
+NCT05394675,"Peritoneal Cancer",1L
+NCT05394675,"Peritoneal Cancer",2L
+NCT05394675,"Solid Tumors",1L
+NCT05394675,"Solid Tumors",2L
+NCT05394675,"Testicular Cancer",1L
+NCT05394675,"Testicular Cancer",2L
+NCT05394675,"Uterine Cancer",1L
+NCT05394675,"Uterine Cancer",2L
+NCT05394818,"Solid Tumors",1L
+NCT05394818,"Solid Tumors",2L
+NCT05395533,"Non-Hodgkin Lymphoma",3L
+NCT05395533,"Non-Hodgkin Lymphoma",4L
+NCT05395533,"Non-Hodgkin Lymphoma",5L
+NCT05403242,"Gastric Cancer",1L
+NCT05403242,"Gastroesophageal Junction",1L
+NCT05404945,"Classical Hodgkin Lymphoma",1L
+NCT05405621,"Solid Tumors",2L
+NCT05406401,"Diffuse Large B-cell Lymphoma",1L
+NCT05406401,"Diffuse Large B-cell Lymphoma","Newly Diagnosed"
+NCT05408845,"Breast Cancer",1L
+NCT05408845,"Head and Neck Cancer",1L
+NCT05410418,"Follicular Lymphoma",1L
+NCT05410418,Thrombocytopenia,1L
+NCT05414500,"Cutaneous T-cell Lymphoma",2L
+NCT05414500,"Cutaneous T-cell Lymphoma",3L
+NCT05415215,"Breast Cancer",Adjuvant
+NCT05415215,"Breast Cancer",Neoadjuvant
+NCT05417230,"Biliary Tract Cancer",1L
+NCT05424835,"Breast Cancer",2L
+NCT05426486,"Breast Cancer",Neoadjuvant
+NCT05429684,"Breast Cancer",2L
+NCT05429762,"Colorectal Cancer",2L
+NCT05429762,"Gastric Cancer",2L
+NCT05429762,"Gastroesophageal Junction",2L
+NCT05429762,"Non-small Cell Lung Cancer",2L
+NCT05429762,"Solid Tumors",2L
+NCT05434234,"Prostate Cancer",1L
+NCT05434234,"Solid Tumors",1L
+NCT05438329,"Breast Cancer",1L
+NCT05438329,"Breast Cancer",2L
+NCT05438329,"Non-small Cell Lung Cancer",1L
+NCT05438329,"Non-small Cell Lung Cancer",2L
+NCT05438329,"Small Cell Lung Cancer",1L
+NCT05438329,"Small Cell Lung Cancer",2L
+NCT05438329,"Solid Tumors",1L
+NCT05438329,"Solid Tumors",2L
+NCT05438329,"Triple-Negative Breast Cancer",1L
+NCT05438329,"Triple-Negative Breast Cancer",2L
+NCT05445778,"Fallopian tube Cancer",Maintenance
+NCT05445778,"Ovarian Cancer",Maintenance
+NCT05445778,"Peritoneal Cancer",Maintenance
+NCT05445908,"Breast Cancer",1L
+NCT05445908,"Triple-Negative Breast Cancer",1L
+NCT05453396,"Diffuse Large B-cell Lymphoma",2L
+NCT05453396,"Follicular Lymphoma",2L
+NCT05453396,"Mantle Cell Lymphoma",2L
+NCT05453396,"Non-Hodgkin Lymphoma",2L
+NCT05456685,"Fallopian tube Cancer",2L
+NCT05456685,"Ovarian Cancer",2L
+NCT05456685,"Peritoneal Cancer",2L
+NCT05456698,"Acute Lymphocytic Leukemia",1L
+NCT05456698,"Acute Lymphocytic Leukemia",2L
+NCT05456698,"B-cell Acute Lymphocytic Leukemia",1L
+NCT05456698,"B-cell Acute Lymphocytic Leukemia",2L
+NCT05458219,"Gastric Cancer",1L
+NCT05458219,"Gastric Cancer",2L
+NCT05458219,"Gastroesophageal Junction",1L
+NCT05458219,"Gastroesophageal Junction",2L
+NCT05458219,"Pancreatic Cancer",1L
+NCT05458219,"Pancreatic Cancer",2L
+NCT05458219,"Solid Tumors",1L
+NCT05458219,"Solid Tumors",2L
+NCT05458297,"Chronic Lymphocytic Leukemia",3L
+NCT05458297,"Chronic Lymphocytic Leukemia",4L
+NCT05458297,"Chronic Lymphocytic Leukemia",5L
+NCT05458297,"Follicular Lymphoma",3L
+NCT05458297,"Follicular Lymphoma",4L
+NCT05458297,"Follicular Lymphoma",5L
+NCT05458297,"Hematological Malignancies",2L
+NCT05458297,"Hematological Malignancies",3L
+NCT05458297,"Hematological Malignancies",4L
+NCT05458297,"Hematological Malignancies",5L
+NCT05458297,"Mantle Cell Lymphoma",2L
+NCT05458297,"Mantle Cell Lymphoma",3L
+NCT05458297,"Mantle Cell Lymphoma",4L
+NCT05458297,"Mantle Cell Lymphoma",5L
+NCT05458674,"Breast Cancer",2L
+NCT05460273,"Bladder Cancer",2L
+NCT05460273,"Bladder Cancer",3L
+NCT05460273,"Breast Cancer",2L
+NCT05460273,"Breast Cancer",3L
+NCT05460273,"Gastric Cancer",2L
+NCT05460273,"Gastric Cancer",3L
+NCT05460273,"Gastroesophageal Junction",2L
+NCT05460273,"Gastroesophageal Junction",3L
+NCT05460273,"Non-small Cell Lung Cancer",1L
+NCT05460273,"Non-small Cell Lung Cancer",2L
+NCT05460273,"Non-small Cell Lung Cancer",3L
+NCT05460273,"Solid Tumors",2L
+NCT05460273,"Solid Tumors",3L
+NCT05460273,"Triple-Negative Breast Cancer",3L
+NCT05460273,"Triple-Negative Breast Cancer",4L
+NCT05461768,"Breast Cancer",1L
+NCT05461768,"Breast Cancer",2L
+NCT05461768,"Solid Tumors",1L
+NCT05461768,"Solid Tumors",2L
+NCT05464030,"Colorectal Cancer",2L
+NCT05464030,"Solid Tumors",2L
+NCT05464719,"B-cell Lymphoma",2L
+NCT05464719,"Diffuse Large B-cell Lymphoma",2L
+NCT05480384,"Esophageal Cancer",Adjuvant
+NCT05480384,"Gastroesophageal Junction",Adjuvant
+NCT05482568,"Non-small Cell Lung Cancer",1L
+NCT05482568,"Non-small Cell Lung Cancer",2L
+NCT05483933,"Fallopian tube Cancer",2L
+NCT05483933,"Fallopian tube Cancer",3L
+NCT05483933,"Fallopian tube Cancer",4L
+NCT05483933,"Ovarian Cancer",2L
+NCT05483933,"Ovarian Cancer",3L
+NCT05483933,"Ovarian Cancer",4L
+NCT05483933,"Peritoneal Cancer",2L
+NCT05483933,"Peritoneal Cancer",3L
+NCT05483933,"Peritoneal Cancer",4L
+NCT05489211,"Biliary Tract Cancer",1L
+NCT05489211,"Biliary Tract Cancer",2L
+NCT05489211,"Bladder Cancer",1L
+NCT05489211,"Bladder Cancer",2L
+NCT05489211,"Colorectal Cancer",1L
+NCT05489211,"Colorectal Cancer",2L
+NCT05489211,"Endometrial Cancer",1L
+NCT05489211,"Endometrial Cancer",2L
+NCT05489211,"Gastric Cancer",1L
+NCT05489211,"Gastric Cancer",2L
+NCT05489211,"Ovarian Cancer",1L
+NCT05489211,"Ovarian Cancer",2L
+NCT05489211,"Prostate Cancer",1L
+NCT05489211,"Prostate Cancer",2L
+NCT05489211,"Solid Tumors",1L
+NCT05489211,"Solid Tumors",2L
+NCT05493683,"Colorectal Cancer",3L
+NCT05494918,"Solid Tumors",1L
+NCT05494918,"Solid Tumors",2L
+NCT05495724,"Bladder Cancer",1L
+NCT05498220,"B-cell Lymphoma",2L
+NCT05498220,"Diffuse Large B-cell Lymphoma",2L
+NCT05498597,"Breast Cancer",2L
+NCT05502393,"Solid Tumors",1L
+NCT05502393,"Solid Tumors",2L
+NCT05508334,"Solid Tumors",1L
+NCT05508334,"Solid Tumors",2L
+NCT05512390,"Chronic Lymphocytic Leukemia",2L
+NCT05512390,"Diffuse Large B-cell Lymphoma",2L
+NCT05512390,"Follicular Lymphoma",2L
+NCT05513703,"Lung Cancer",1L
+NCT05513703,"Non-small Cell Lung Cancer",1L
+NCT05514158,"Gastric Cancer",2L
+NCT05520723,"Breast Cancer",2L
+NCT05520723,"Breast Cancer",3L
+NCT05520723,"Triple-Negative Breast Cancer",2L
+NCT05520723,"Triple-Negative Breast Cancer",3L
+NCT05524545,"Bladder Cancer",2L
+NCT05525286,"Gastric Cancer",2L
+NCT05525286,"Gastric Cancer",3L
+NCT05525286,"Gastroesophageal Junction",2L
+NCT05525286,"Gastroesophageal Junction",3L
+NCT05525286,"Pancreatic Cancer",2L
+NCT05525286,"Pancreatic Cancer",3L
+NCT05527184,"Endometrial Cancer",2L
+NCT05527184,"Endometrial Cancer",3L
+NCT05527184,"Endometrial Cancer",4L
+NCT05527184,"Fallopian tube Cancer",2L
+NCT05527184,"Fallopian tube Cancer",3L
+NCT05527184,"Fallopian tube Cancer",4L
+NCT05527184,"Ovarian Cancer",2L
+NCT05527184,"Ovarian Cancer",3L
+NCT05527184,"Ovarian Cancer",4L
+NCT05527184,"Peritoneal Cancer",2L
+NCT05527184,"Peritoneal Cancer",3L
+NCT05527184,"Peritoneal Cancer",4L
+NCT05530057,"Breast Cancer",3L
+NCT05535218,"Bladder Cancer",1L
+NCT05540483,"Biliary Tract Cancer",2L
+NCT05540483,"Gallbladder Cancer",2L
+NCT05547321,"Breast Cancer",1L
+NCT05547321,"Breast Cancer",2L
+NCT05547321,"Colorectal Cancer",1L
+NCT05547321,"Colorectal Cancer",2L
+NCT05547321,"Esophageal Cancer",1L
+NCT05547321,"Esophageal Cancer",2L
+NCT05547321,"Gastric Cancer",1L
+NCT05547321,"Gastric Cancer",2L
+NCT05547321,"Gastroesophageal Junction",1L
+NCT05547321,"Gastroesophageal Junction",2L
+NCT05547321,"Head and Neck Cancer",1L
+NCT05547321,"Head and Neck Cancer",2L
+NCT05547321,Leiomyosarcoma,1L
+NCT05547321,Leiomyosarcoma,2L
+NCT05547321,"Non-small Cell Lung Cancer",1L
+NCT05547321,"Non-small Cell Lung Cancer",2L
+NCT05547321,"Ovarian Cancer",1L
+NCT05547321,"Ovarian Cancer",2L
+NCT05547321,"Pancreatic Cancer",1L
+NCT05547321,"Pancreatic Cancer",2L
+NCT05547321,"Solid Tumors",1L
+NCT05547321,"Solid Tumors",2L
+NCT05551117,"Prostate Cancer",1L
+NCT05552001,"Breast Cancer",2L
+NCT05552001,"Triple-Negative Breast Cancer",2L
+NCT05555732,"Non-small Cell Lung Cancer",1L
+NCT05556798,"Multiple Myeloma",">= 1PL"
+NCT05556798,"Multiple Myeloma",">= 3PL"
+NCT05558124,"Acute Myeloid Leukemia",1L
+NCT05558124,"Acute Myeloid Leukemia","Newly Diagnosed"
+NCT05560308,"Breast Cancer",2L
+NCT05562830,"Bladder Cancer",2L
+NCT05564858,"Breast Cancer",1L
+NCT05564858,"Breast Cancer",2L
+NCT05564858,"Breast Cancer",3L
+NCT05564858,"Gastric Cancer",1L
+NCT05564858,"Gastric Cancer",3L
+NCT05564858,"Gastric Cancer",4L
+NCT05564858,"Gastroesophageal Junction",1L
+NCT05564858,"Gastroesophageal Junction",3L
+NCT05564858,"Gastroesophageal Junction",4L
+NCT05564858,"Solid Tumors",1L
+NCT05565807,"Multiple Myeloma",">= 3PL"
+NCT05569811,"Breast Cancer",Neoadjuvant
+NCT05573802,"Multiple Myeloma","NDMM – Transplant Ineligible (TIE)"
+NCT05573802,"Multiple Myeloma","NDMM – Transplant Not Intended (TNI)"
+NCT05573802,"Multiple Myeloma","Newly Diagnosed"
+NCT05575804,"Breast Cancer",2L
+NCT05575804,"Breast Cancer",3L
+NCT05577715,"Lung Cancer",2L
+NCT05577715,"Lung Cancer",3L
+NCT05577715,"Lung Cancer",4L
+NCT05577715,"Non-small Cell Lung Cancer",1L
+NCT05577715,"Non-small Cell Lung Cancer",2L
+NCT05577715,"Non-small Cell Lung Cancer",3L
+NCT05577715,"Non-small Cell Lung Cancer",4L
+NCT05578287,"Colorectal Cancer",2L
+NCT05579366,"Breast Cancer",2L
+NCT05579366,"Non-small Cell Lung Cancer",2L
+NCT05581875,"Multiple Myeloma",">= 1PL"
+NCT05582499,"Breast Cancer",Neoadjuvant
+NCT05582499,"Triple-Negative Breast Cancer",Neoadjuvant
+NCT05584709,"Colorectal Cancer",1L
+NCT05584709,"Colorectal Cancer",2L
+NCT05584709,"Colorectal Cancer",3L
+NCT05584709,"Esophageal Cancer",1L
+NCT05584709,"Esophageal Cancer",2L
+NCT05584709,"Esophageal Cancer",3L
+NCT05584709,"Head and Neck Cancer",1L
+NCT05584709,"Head and Neck Cancer",2L
+NCT05584709,"Head and Neck Cancer",3L
+NCT05584709,"Lung Cancer",1L
+NCT05584709,"Lung Cancer",2L
+NCT05584709,"Lung Cancer",3L
+NCT05584709,"Solid Tumors",1L
+NCT05584709,"Solid Tumors",2L
+NCT05584709,"Solid Tumors",3L
+NCT05586061,"Gastric Cancer",1L
+NCT05593094,"Breast Cancer",2L
+NCT05593094,"Breast Cancer",3L
+NCT05593094,"Gastric Cancer",2L
+NCT05593094,"Solid Tumors",2L
+NCT05593094,"Solid Tumors",3L
+NCT05594095,"Breast Cancer",1L
+NCT05594095,"Breast Cancer",2L
+NCT05594875,"Solid Tumors",2L
+NCT05599360,"Acute Myeloid Leukemia",1L
+NCT05600686,"B-cell Lymphoma",1L
+NCT05600686,"Diffuse Large B-cell Lymphoma",1L
+NCT05601401,"Head and Neck Cancer",1L
+NCT05601401,"Head and Neck Cancer",2L
+NCT05609968,"Non-small Cell Lung Cancer",1L
+NCT05611853,"B-cell Lymphoma",1L
+NCT05611853,"B-cell Lymphoma",3L
+NCT05611853,"Diffuse Large B-cell Lymphoma",1L
+NCT05611853,"Diffuse Large B-cell Lymphoma",3L
+NCT05611853,"Follicular Lymphoma",1L
+NCT05611853,"Follicular Lymphoma",3L
+NCT05611853,"Mantle Cell Lymphoma",1L
+NCT05611853,"Mantle Cell Lymphoma",3L
+NCT05611853,"Marginal Zone Lymphoma",1L
+NCT05611853,"Marginal Zone Lymphoma",3L
+NCT05611853,"Non-Hodgkin Lymphoma",1L
+NCT05611853,"Non-Hodgkin Lymphoma",3L
+NCT05613088,"Fallopian tube Cancer",2L
+NCT05613088,"Fallopian tube Cancer",3L
+NCT05613088,"Ovarian Cancer",2L
+NCT05613088,"Ovarian Cancer",3L
+NCT05613088,"Peritoneal Cancer",2L
+NCT05613088,"Peritoneal Cancer",3L
+NCT05615636,"B-cell Lymphoma",2L
+NCT05615636,"Diffuse Large B-cell Lymphoma",2L
+NCT05615636,"Follicular Lymphoma",2L
+NCT05615636,"Hodgkin Lymphoma",2L
+NCT05615636,"Non-Hodgkin Lymphoma",2L
+NCT05620017,"Solid Tumors",1L
+NCT05620017,"Solid Tumors",2L
+NCT05620914,"Biliary Tract Cancer",Neoadjuvant
+NCT05620914,"Bladder Cancer",Neoadjuvant
+NCT05620914,"Colorectal Cancer",Neoadjuvant
+NCT05620914,"Gastric Cancer",Neoadjuvant
+NCT05620914,"Lung Cancer",Neoadjuvant
+NCT05620914,Melanoma,Neoadjuvant
+NCT05620914,"Non-small Cell Lung Cancer",Neoadjuvant
+NCT05620914,"Prostate Cancer",Neoadjuvant
+NCT05620914,"Small Cell Lung Cancer",Neoadjuvant
+NCT05620914,"Solid Tumors",Neoadjuvant
+NCT05622591,"Acute Myeloid Leukemia",2L
+NCT05622890,"Fallopian tube Cancer",1L
+NCT05622890,"Fallopian tube Cancer",2L
+NCT05622890,"Ovarian Cancer",1L
+NCT05622890,"Ovarian Cancer",2L
+NCT05622890,"Peritoneal Cancer",1L
+NCT05622890,"Peritoneal Cancer",2L
+NCT05627414,"Gastric Cancer",1L
+NCT05627960,"Breast Cancer",1L
+NCT05627960,"Breast Cancer",2L
+NCT05627960,"Lung Cancer",1L
+NCT05627960,"Lung Cancer",2L
+NCT05627960,Mesothelioma,1L
+NCT05627960,Mesothelioma,2L
+NCT05627960,"Non-small Cell Lung Cancer",1L
+NCT05627960,"Non-small Cell Lung Cancer",2L
+NCT05627960,"Solid Tumors",1L
+NCT05627960,"Solid Tumors",2L
+NCT05627960,"Triple-Negative Breast Cancer",1L
+NCT05627960,"Triple-Negative Breast Cancer",2L
+NCT05629585,"Breast Cancer",Adjuvant
+NCT05629585,"Triple-Negative Breast Cancer",Adjuvant
+NCT05631964,"Solid Tumors",1L
+NCT05633615,"B-cell Lymphoma",2L
+NCT05633615,"Diffuse Large B-cell Lymphoma",2L
+NCT05633615,"Follicular Lymphoma",2L
+NCT05633654,"Breast Cancer",Adjuvant
+NCT05633654,"Breast Cancer",Neoadjuvant
+NCT05633654,"Triple-Negative Breast Cancer",Adjuvant
+NCT05633654,"Triple-Negative Breast Cancer",Neoadjuvant
+NCT05633667,"Lung Cancer",1L
+NCT05633667,"Non-small Cell Lung Cancer",1L
+NCT05633667,"Non-small Cell Lung Cancer",2L
+NCT05633979,"Breast Cancer",2L
+NCT05633979,"Breast Cancer",3L
+NCT05635487,"Breast Cancer",Neoadjuvant
+NCT05636215,"Solid Tumors",1L
+NCT05636215,"Solid Tumors",2L
+NCT05642780,"Bladder Cancer",2L
+NCT05642780,"Cervical Cancer",2L
+NCT05642780,"Ovarian Cancer",2L
+NCT05642780,"Prostate Cancer",2L
+NCT05642780,"Solid Tumors",2L
+NCT05645718,"Acute Lymphocytic Leukemia",2L
+NCT05645718,"B-cell Acute Lymphocytic Leukemia",2L
+NCT05647512,"Multiple Myeloma",">= 1PL"
+NCT05650879,"Breast Cancer",2L
+NCT05650879,"Breast Cancer",3L
+NCT05650879,"Breast Cancer",4L
+NCT05650879,"Non-small Cell Lung Cancer",2L
+NCT05650879,"Non-small Cell Lung Cancer",3L
+NCT05650879,"Non-small Cell Lung Cancer",4L
+NCT05652855,"Colorectal Cancer",1L
+NCT05652855,"Colorectal Cancer",2L
+NCT05652855,"Endometrial Cancer",1L
+NCT05652855,"Endometrial Cancer",2L
+NCT05652855,"Esophageal Cancer",1L
+NCT05652855,"Esophageal Cancer",2L
+NCT05652855,"Fallopian tube Cancer",1L
+NCT05652855,"Fallopian tube Cancer",2L
+NCT05652855,"Head and Neck Cancer",1L
+NCT05652855,"Head and Neck Cancer",2L
+NCT05652855,"Hepatocellular Carcinoma",1L
+NCT05652855,"Hepatocellular Carcinoma",2L
+NCT05652855,Melanoma,1L
+NCT05652855,Melanoma,2L
+NCT05652855,"Non-small Cell Lung Cancer",1L
+NCT05652855,"Non-small Cell Lung Cancer",2L
+NCT05652855,"Ovarian Cancer",1L
+NCT05652855,"Ovarian Cancer",2L
+NCT05652855,"Pancreatic Cancer",1L
+NCT05652855,"Pancreatic Cancer",2L
+NCT05652855,"Peritoneal Cancer",1L
+NCT05652855,"Peritoneal Cancer",2L
+NCT05652855,"Prostate Cancer",1L
+NCT05652855,"Prostate Cancer",2L
+NCT05652855,"Small Cell Lung Cancer",1L
+NCT05652855,"Small Cell Lung Cancer",2L
+NCT05652855,"Solid Tumors",1L
+NCT05652855,"Solid Tumors",2L
+NCT05652855,"Thyroid Cancer",1L
+NCT05652855,"Thyroid Cancer",2L
+NCT05652868,"Lung Cancer",2L
+NCT05652868,"Lung Cancer",3L
+NCT05652868,"Non-small Cell Lung Cancer",2L
+NCT05652868,"Non-small Cell Lung Cancer",3L
+NCT05652868,"Non-small Cell Lung Cancer",4L
+NCT05653752,"Breast Cancer",1L
+NCT05653752,"Breast Cancer",2L
+NCT05653752,"Non-small Cell Lung Cancer",1L
+NCT05653752,"Non-small Cell Lung Cancer",2L
+NCT05656235,"Bladder Cancer",1L
+NCT05657418,"Pancreatic Cancer",1L
+NCT05657418,"Pancreatic Cancer",2L
+NCT05657418,"Solid Tumors",1L
+NCT05657418,"Solid Tumors",2L
+NCT05658562,"B-cell Lymphoma",2L
+NCT05658562,"B-cell Lymphoma",3L
+NCT05658562,"B-cell Lymphoma",4L
+NCT05658562,"Diffuse Large B-cell Lymphoma",2L
+NCT05658562,"Diffuse Large B-cell Lymphoma",3L
+NCT05658562,"Diffuse Large B-cell Lymphoma",4L
+NCT05660395,"B-cell Lymphoma",2L
+NCT05660395,"B-cell Lymphoma",3L
+NCT05660395,"B-cell Lymphoma",4L
+NCT05660395,"Diffuse Large B-cell Lymphoma",2L
+NCT05660395,"Diffuse Large B-cell Lymphoma",3L
+NCT05660395,"Diffuse Large B-cell Lymphoma",4L
+NCT05662904,"Acute Myeloid Leukemia",1L
+NCT05671822,"Gastric Cancer",1L
+NCT05671822,"Gastric Cancer",2L
+NCT05672251,"B-cell Lymphoma",2L
+NCT05672251,"Chronic Lymphocytic Leukemia",2L
+NCT05672251,"Diffuse Large B-cell Lymphoma",2L
+NCT05672251,"Follicular Lymphoma",2L
+NCT05672251,"Non-Hodgkin Lymphoma",2L
+NCT05672251,"Primary Mediastinal B-cell Lymphoma",2L
+NCT05673785,"Anaplastic Large Cell Lymphoma",1L
+NCT05673785,"Enteropathy-Associated T-cell Lymphoma",1L
+NCT05673785,"Peripheral T-cell Lymphoma",1L
+NCT05673785,"T-cell lymphoma",1L
+NCT05673928,"Breast Cancer",2L
+NCT05673928,"Breast Cancer",3L
+NCT05673928,"Gastric Cancer",2L
+NCT05673928,"Gastric Cancer",3L
+NCT05673928,"Solid Tumors",2L
+NCT05675410,"Hodgkin Lymphoma",1L
+NCT05675579,"Breast Cancer",Neoadjuvant
+NCT05678205,"Breast Cancer",1L
+NCT05678205,"Breast Cancer",2L
+NCT05678205,"Breast Cancer",4L
+NCT05678205,"Gastric Cancer",1L
+NCT05678205,"Gastric Cancer",2L
+NCT05678205,"Gastroesophageal Junction",1L
+NCT05678205,"Gastroesophageal Junction",2L
+NCT05678205,"Solid Tumors",1L
+NCT05678205,"Solid Tumors",2L
+NCT05680662,"Breast Cancer",Adjuvant
+NCT05680662,"Triple-Negative Breast Cancer",Adjuvant
+NCT05687266,"Non-small Cell Lung Cancer",1L
+NCT05688605,"Head and Neck Cancer",1L
+NCT05688605,"Nasopharyngeal Carcinoma",1L
+NCT05688605,"Non-small Cell Lung Cancer",1L
+NCT05688605,"Solid Tumors",1L
+NCT05688605,"Squamous Cell Carcinoma",1L
+NCT05703555,"Breast Cancer",2L
+NCT05703555,"Gastric Cancer",2L
+NCT05703555,"Gastric Cancer",3L
+NCT05703555,"Lung Cancer",2L
+NCT05703555,"Lung Cancer",3L
+NCT05703555,"Non-small Cell Lung Cancer",2L
+NCT05703555,"Non-small Cell Lung Cancer",3L
+NCT05704829,"Breast Cancer",Neoadjuvant
+NCT05710666,"Breast Cancer",Adjuvant
+NCT05714839,"Multiple Myeloma",">= 1PL"
+NCT05714839,"Multiple Myeloma",">= 3PL"
+NCT05714839,"Multiple Myeloma","NDMM – Transplant Ineligible (TIE)"
+NCT05714839,"Multiple Myeloma","NDMM – Transplant Not Intended (TNI)"
+NCT05714839,"Multiple Myeloma","Newly Diagnosed"
+NCT05716009,"Acute Myeloid Leukemia",1L
+NCT05718895,"Solid Tumors",2L
+NCT05720117,"Breast Cancer",2L
+NCT05720117,"Hepatocellular Carcinoma",2L
+NCT05720117,"Non-small Cell Lung Cancer",2L
+NCT05720117,"Ovarian Cancer",2L
+NCT05720117,"Pancreatic Cancer",2L
+NCT05720117,"Renal Cell Carcinoma",2L
+NCT05720117,"Soft Tissue Sarcoma",2L
+NCT05720117,"Solid Tumors",2L
+NCT05720117,"Thyroid Cancer",2L
+NCT05720533,"Gastric Cancer",1L
+NCT05721222,"Nasopharyngeal Carcinoma",2L
+NCT05721222,"Non-Hodgkin Lymphoma",2L
+NCT05721222,"Renal Cell Carcinoma",2L
+NCT05721222,"Solid Tumors",2L
+NCT05726175,"Breast Cancer",Neoadjuvant
+NCT05735496,"Solid Tumors",1L
+NCT05744375,"Breast Cancer",1L
+NCT05744427,"Biliary Tract Cancer",1L
+NCT05744427,"Biliary Tract Cancer",2L
+NCT05744427,"Breast Cancer",2L
+NCT05744427,"Breast Cancer",3L
+NCT05744427,"Colorectal Cancer",3L
+NCT05744427,"Gastric Cancer",2L
+NCT05744427,"Gastroesophageal Junction",1L
+NCT05744427,"Gastroesophageal Junction",2L
+NCT05744427,"Non-small Cell Lung Cancer",1L
+NCT05744427,"Non-small Cell Lung Cancer",2L
+NCT05744427,"Solid Tumors",1L
+NCT05744427,"Solid Tumors",2L
+NCT05745740,"Non-small Cell Lung Cancer",2L
+NCT05748171,"Acute Lymphocytic Leukemia",1L
+NCT05751512,"Head and Neck Cancer",2L
+NCT05751512,"Head and Neck Cancer",3L
+NCT05754853,"Bladder Cancer",2L
+NCT05754853,"Bladder Cancer",3L
+NCT05755048,"Breast Cancer",2L
+NCT05756569,"Bladder Cancer",1L
+NCT05756569,"Bladder Cancer",2L
+NCT05756569,"Bladder Cancer",3L
+NCT05756569,"Squamous Cell Carcinoma",1L
+NCT05756569,"Squamous Cell Carcinoma",2L
+NCT05756569,"Squamous Cell Carcinoma",3L
+NCT05765032,"Lung Cancer",1L
+NCT05765032,"Lung Cancer",2L
+NCT05765032,"Non-small Cell Lung Cancer",1L
+NCT05765032,"Non-small Cell Lung Cancer",2L
+NCT05765032,"Solid Tumors",1L
+NCT05765032,"Solid Tumors",2L
+NCT05765851,"Breast Cancer",2L
+NCT05765851,"Breast Cancer",3L
+NCT05765851,"Gastric Cancer",2L
+NCT05765851,"Non-small Cell Lung Cancer",2L
+NCT05765851,"Solid Tumors",2L
+NCT05769010,"Breast Cancer",1L
+NCT05770531,"Breast Cancer",1L
+NCT05770531,"Triple-Negative Breast Cancer",1L
+NCT05773937,"Bladder Cancer",2L
+NCT05773937,"Solid Tumors",2L
+NCT05775471,"Bladder Cancer",Adjuvant
+NCT05775471,"Bladder Cancer",Neoadjuvant
+NCT05785325,"Colorectal Cancer",2L
+NCT05785728,"Solid Tumors",1L
+NCT05785728,"Solid Tumors",2L
+NCT05785728,"Thyroid Cancer",1L
+NCT05785728,"Thyroid Cancer",2L
+NCT05785741,"Breast Cancer",1L
+NCT05785741,"Breast Cancer",2L
+NCT05785741,"Head and Neck Cancer",1L
+NCT05785741,"Head and Neck Cancer",2L
+NCT05785741,"Non-small Cell Lung Cancer",1L
+NCT05785741,"Non-small Cell Lung Cancer",2L
+NCT05785741,"Prostate Cancer",1L
+NCT05785741,"Prostate Cancer",2L
+NCT05785741,"Solid Tumors",1L
+NCT05785741,"Solid Tumors",2L
+NCT05792410,"Breast Cancer",1L
+NCT05795101,"Breast Cancer",1L
+NCT05797168,"Non-small Cell Lung Cancer",2L
+NCT05797168,"Ovarian Cancer",2L
+NCT05797168,"Solid Tumors",2L
+NCT05798156,"B-cell Lymphoma",1L
+NCT05800366,"Anaplastic Large Cell Lymphoma",1L
+NCT05800366,"B-cell Lymphoma",1L
+NCT05800366,"Diffuse Large B-cell Lymphoma",1L
+NCT05804526,Mesothelioma,1L
+NCT05804526,Mesothelioma,2L
+NCT05804526,"Solid Tumors",1L
+NCT05804526,"Solid Tumors",2L
+NCT05805371,"Prostate Cancer",2L
+NCT05810103,"Solid Tumors",2L
+NCT05814354,"Breast Cancer",1L
+NCT05814354,"Breast Cancer",2L
+NCT05816252,"Non-small Cell Lung Cancer",1L
+NCT05816252,"Non-small Cell Lung Cancer",2L
+NCT05821933,"Non-small Cell Lung Cancer",1L
+NCT05821933,"Non-small Cell Lung Cancer",2L
+NCT05821933,"Non-small Cell Lung Cancer",3L
+NCT05821933,"Non-small Cell Lung Cancer",4L
+NCT05824325,"Breast Cancer",2L
+NCT05830097,"Breast Cancer",1L
+NCT05830097,"Breast Cancer",2L
+NCT05830097,"Colorectal Cancer",1L
+NCT05830097,"Colorectal Cancer",2L
+NCT05830097,"Esophageal Cancer",1L
+NCT05830097,"Esophageal Cancer",2L
+NCT05830097,"Lung Cancer",1L
+NCT05830097,"Lung Cancer",2L
+NCT05830097,"Pancreatic Cancer",1L
+NCT05830097,"Pancreatic Cancer",2L
+NCT05830097,"Solid Tumors",1L
+NCT05830097,"Solid Tumors",2L
+NCT05830123,Osteosarcoma,1L
+NCT05830123,Osteosarcoma,2L
+NCT05833867,"Bladder Cancer",1L
+NCT05834764,"Breast Cancer",Adjuvant
+NCT05836948,"Solid Tumors",1L
+NCT05836948,"Solid Tumors",2L
+NCT05838521,"Cervical Cancer",2L
+NCT05838521,"Cervical Cancer",3L
+NCT05840211,"Breast Cancer",2L
+NCT05845138,"Breast Cancer",1L
+NCT05845138,"Breast Cancer",2L
+NCT05845814,"Bladder Cancer",1L
+NCT05847569,"Multiple Myeloma",">= 2PL"
+NCT05847569,"Multiple Myeloma",">= 3PL"
+NCT05847569,"Multiple Myeloma",">= 4PL"
+NCT05847764,"Non-small Cell Lung Cancer",2L
+NCT05848466,"Biliary Tract Cancer",1L
+NCT05848466,"Biliary Tract Cancer",2L
+NCT05848466,"Bladder Cancer",1L
+NCT05848466,"Bladder Cancer",2L
+NCT05848466,"Breast Cancer",1L
+NCT05848466,"Breast Cancer",2L
+NCT05848466,"Colorectal Cancer",1L
+NCT05848466,"Colorectal Cancer",2L
+NCT05848466,"Gastric Cancer",1L
+NCT05848466,"Gastric Cancer",2L
+NCT05848466,"Non-small Cell Lung Cancer",1L
+NCT05848466,"Non-small Cell Lung Cancer",2L
+NCT05848466,"Solid Tumors",1L
+NCT05848466,"Solid Tumors",2L
+NCT05849246,"Non-small Cell Lung Cancer",1L
+NCT05853965,"Multiple Myeloma",">= 4PL"
+NCT05865990,"Breast Cancer",2L
+NCT05865990,"Breast Cancer",3L
+NCT05865990,"Lung Cancer",2L
+NCT05865990,"Lung Cancer",3L
+NCT05865990,"Non-small Cell Lung Cancer",2L
+NCT05865990,"Non-small Cell Lung Cancer",3L
+NCT05865990,"Solid Tumors",2L
+NCT05865990,"Solid Tumors",3L
+NCT05865990,"Triple-Negative Breast Cancer",2L
+NCT05865990,"Triple-Negative Breast Cancer",3L
+NCT05866354,"Solid Tumors",2L
+NCT05866432,"Triple-Negative Breast Cancer",1L
+NCT05866432,"Triple-Negative Breast Cancer",2L
+NCT05868226,"Breast Cancer",2L
+NCT05868226,"Solid Tumors",2L
+NCT05868226,"Triple-Negative Breast Cancer",2L
+NCT05868265,"Bladder Cancer",Neoadjuvant
+NCT05868395,"Mantle Cell Lymphoma",1L
+NCT05868395,"Mantle Cell Lymphoma",2L
+NCT05870319,"Non-small Cell Lung Cancer",1L
+NCT05870748,"Fallopian tube Cancer",2L
+NCT05870748,"Fallopian tube Cancer",3L
+NCT05870748,"Fallopian tube Cancer",4L
+NCT05870748,"Ovarian Cancer",2L
+NCT05870748,"Ovarian Cancer",3L
+NCT05870748,"Ovarian Cancer",4L
+NCT05870748,"Peritoneal Cancer",2L
+NCT05870748,"Peritoneal Cancer",3L
+NCT05870748,"Peritoneal Cancer",4L
+NCT05872295,"Breast Cancer",2L
+NCT05872295,"Gastric Cancer",2L
+NCT05872295,"Gastroesophageal Junction",2L
+NCT05872295,"Solid Tumors",2L
+NCT05873712,"Chronic Lymphocytic Leukemia",2L
+NCT05873712,"Diffuse Large B-cell Lymphoma",2L
+NCT05873712,"Non-Hodgkin Lymphoma",2L
+NCT05873712,"Small Lymphocytic Lymphoma",2L
+NCT05873712,Thrombocytopenia,2L
+NCT05874193,"Multiple Myeloma",">= 1PL"
+NCT05874193,"Multiple Myeloma",">= 3PL"
+NCT05874193,"Multiple Myeloma",">= 4PL"
+NCT05875168,"Biliary Tract Cancer",2L
+NCT05875168,"Bladder Cancer",2L
+NCT05875168,"Breast Cancer",2L
+NCT05875168,"Non-small Cell Lung Cancer",2L
+NCT05875168,"Ovarian Cancer",2L
+NCT05875168,"Pancreatic Cancer",2L
+NCT05875168,"Solid Tumors",2L
+NCT05879627,"Hepatocellular Carcinoma",1L
+NCT05879627,"Hepatocellular Carcinoma",2L
+NCT05879627,"Solid Tumors",1L
+NCT05879627,"Solid Tumors",2L
+NCT05879653,"Bladder Cancer",1L
+NCT05884320,"Head and Neck Cancer",2L
+NCT05884320,"Head and Neck Cancer",3L
+NCT05884320,"Head and Neck Cancer",4L
+NCT05887609,"Fallopian tube Cancer",Maintenance
+NCT05887609,"Ovarian Cancer",Maintenance
+NCT05887609,"Peritoneal Cancer",Maintenance
+NCT05894824,"Gastric Cancer",2L
+NCT05894824,"Gastroesophageal Junction",2L
+NCT05896020,"Cervical Cancer",2L
+NCT05896020,"Endometrial Cancer",2L
+NCT05896020,"Ovarian Cancer",2L
+NCT05901935,"Breast Cancer",3L
+NCT05901935,"Breast Cancer",4L
+NCT05904106,"Acute Myeloid Leukemia",1L
+NCT05904106,"Acute Myeloid Leukemia","Newly Diagnosed"
+NCT05911295,"Bladder Cancer",1L
+NCT05912205,"Bladder Cancer",1L
+NCT05912816,"Bladder Cancer",1L
+NCT05914116,"Esophageal Cancer",2L
+NCT05914116,Melanoma,1L
+NCT05914116,Melanoma,2L
+NCT05914116,"Non-small Cell Lung Cancer",1L
+NCT05914116,"Non-small Cell Lung Cancer",2L
+NCT05914116,"Prostate Cancer",1L
+NCT05914116,"Prostate Cancer",2L
+NCT05914116,"Small Cell Lung Cancer",1L
+NCT05914116,"Small Cell Lung Cancer",2L
+NCT05914116,"Solid Tumors",1L
+NCT05914116,"Solid Tumors",2L
+NCT05914545,"Solid Tumors",1L
+NCT05915351,"Pancreatic Cancer",2L
+NCT05919212,"Breast Cancer",1L
+NCT05922501,"Multiple Myeloma",">= 1PL"
+NCT05922501,"Multiple Myeloma",">= 2PL"
+NCT05922501,"Multiple Myeloma",">= 3PL"
+NCT05922501,"Multiple Myeloma",">= 4PL"
+NCT05922904,"Hodgkin Lymphoma",1L
+NCT05923190,"Bladder Cancer",1L
+NCT05924256,"Head and Neck Cancer",2L
+NCT05924750,"Acute Myeloid Leukemia",2L
+NCT05928897,"Gastric Cancer",2L
+NCT05930951,"Adenoid Cystic Carcinoma",2L
+NCT05940051,"Diffuse Large B-cell Lymphoma",2L
+NCT05940064,"Diffuse Large B-cell Lymphoma",1L
+NCT05940896,"Bladder Cancer",1L
+NCT05940896,"Cervical Cancer",1L
+NCT05940896,"Esophageal Cancer",1L
+NCT05940896,"Head and Neck Cancer",1L
+NCT05940896,"Solid Tumors",1L
+NCT05941507,"Anal Cancer",2L
+NCT05941507,"Bladder Cancer",2L
+NCT05941507,"Breast Cancer",2L
+NCT05941507,"Cervical Cancer",2L
+NCT05941507,"Endometrial Cancer",2L
+NCT05941507,"Gastric Cancer",2L
+NCT05941507,Glioblastoma,2L
+NCT05941507,"Head and Neck Cancer",2L
+NCT05941507,"Lung Cancer",2L
+NCT05941507,"Non-small Cell Lung Cancer",2L
+NCT05941507,"Ovarian Cancer",2L
+NCT05941507,"Pancreatic Cancer",2L
+NCT05941507,"Solid Tumors",2L
+NCT05941507,"Triple-Negative Breast Cancer",2L
+NCT05943379,"Bladder Cancer",1L
+NCT05947344,"Acute Myeloid Leukemia",2L
+NCT05947344,"Myelodysplastic Syndrome",2L
+NCT05947344,"Myeloproliferative Neoplasm",2L
+NCT05948865,"Breast Cancer",1L
+NCT05948865,"Breast Cancer",2L
+NCT05948865,"Colorectal Cancer",1L
+NCT05948865,"Colorectal Cancer",2L
+NCT05948865,"Head and Neck Cancer",1L
+NCT05948865,"Head and Neck Cancer",2L
+NCT05948865,"Lung Cancer",1L
+NCT05948865,"Lung Cancer",2L
+NCT05948865,"Non-small Cell Lung Cancer",1L
+NCT05948865,"Non-small Cell Lung Cancer",2L
+NCT05948865,"Solid Tumors",1L
+NCT05948865,"Solid Tumors",2L
+NCT05949619,"Non-small Cell Lung Cancer",2L
+NCT05949619,"Solid Tumors",2L
+NCT05950945,"Breast Cancer",2L
+NCT05950945,"Breast Cancer",3L
+NCT05953168,"Breast Cancer",1L
+NCT05953168,"Triple-Negative Breast Cancer",1L
+NCT05954143,"Breast Cancer",2L
+NCT05954143,"Breast Cancer",3L
+NCT05954143,"Breast Cancer",4L
+NCT05955209,"Prostate Cancer",2L
+NCT05955261,"Acute Myeloid Leukemia",1L
+NCT05955261,"Myelodysplastic Syndrome",1L
+NCT05957471,"Solid Tumors",1L
+NCT05957471,"Solid Tumors",2L
+NCT05957757,"Bladder Cancer",2L
+NCT05966233,"B-cell Lymphoma",2L
+NCT05966233,"Diffuse Large B-cell Lymphoma",2L
+NCT05971251,"Chronic Lymphocytic Leukemia",2L
+NCT05971251,"Small Lymphocytic Lymphoma",2L
+NCT05979740,"Bladder Cancer",1L
+NCT05980416,"Esophageal Cancer",1L
+NCT05980416,"Esophageal Cancer",2L
+NCT05980416,"Gastric Cancer",1L
+NCT05980416,"Gastric Cancer",2L
+NCT05980416,"Gastroesophageal Junction",1L
+NCT05980416,"Gastroesophageal Junction",2L
+NCT05980416,"Gastrointestinal Cancer",1L
+NCT05980416,"Gastrointestinal Cancer",2L
+NCT05980416,"Pancreatic Cancer",1L
+NCT05980416,"Pancreatic Cancer",2L
+NCT05980416,"Solid Tumors",1L
+NCT05980416,"Solid Tumors",2L
+NCT05980481,"Gastric Cancer",1L
+NCT05982834,"Gastric Cancer",2L
+NCT05990452,"Solid Tumors",1L
+NCT05990452,"Solid Tumors",2L
+NCT05991349,"Solid Tumors",1L
+NCT05991388,"Burkitt Lymphoma",2L
+NCT05991388,"Diffuse Large B-cell Lymphoma",2L
+NCT05991388,"Non-Hodgkin Lymphoma",2L
+NCT05991388,"Primary Mediastinal B-cell Lymphoma",2L
+NCT05994001,"Biliary Tract Cancer",2L
+NCT05996952,"Bladder Cancer",Adjuvant
+NCT06000033,"Breast Cancer",2L
+NCT06000033,"Breast Cancer",3L
+NCT06001255,"Prostate Cancer",2L
+NCT06001255,"Solid Tumors",2L
+NCT06003231,"Endometrial Cancer",2L
+NCT06003231,"Head and Neck Cancer",2L
+NCT06003231,"Lung Cancer",2L
+NCT06003231,"Non-small Cell Lung Cancer",2L
+NCT06003231,"Ovarian Cancer",2L
+NCT06003231,"Solid Tumors",2L
+NCT06005740,"Hepatocellular Carcinoma",1L
+NCT06005740,"Solid Tumors",1L
+NCT06007729,"Head and Neck Cancer",2L
+NCT06007729,"Solid Tumors",2L
+NCT06008054,"Colorectal Cancer",1L
+NCT06008054,"Colorectal Cancer",2L
+NCT06008054,"Esophageal Cancer",1L
+NCT06008054,"Esophageal Cancer",2L
+NCT06008054,"Gastric Cancer",1L
+NCT06008054,"Gastric Cancer",2L
+NCT06008054,"Gastrointestinal Cancer",1L
+NCT06008054,"Gastrointestinal Cancer",2L
+NCT06008366,"Solid Tumors",1L
+NCT06008366,"Solid Tumors",2L
+NCT06012435,"Non-small Cell Lung Cancer",2L
+NCT06014658,"Breast Cancer",1L
+NCT06014658,"Breast Cancer",2L
+NCT06014658,"Non-small Cell Lung Cancer",1L
+NCT06014658,"Non-small Cell Lung Cancer",2L
+NCT06014658,"Solid Tumors",1L
+NCT06014658,"Solid Tumors",2L
+NCT06014658,"Triple-Negative Breast Cancer",1L
+NCT06014658,"Triple-Negative Breast Cancer",2L
+NCT06015048,"Solid Tumors",1L
+NCT06015048,"Solid Tumors",2L
+NCT06015880,"B-cell Lymphoma",2L
+NCT06015880,"Diffuse Large B-cell Lymphoma",2L
+NCT06015880,"Non-Hodgkin Lymphoma",2L
+NCT06018337,"Breast Cancer",2L
+NCT06018337,"Breast Cancer",3L
+PACTR202201721209443,"Breast Cancer",Adjuvant
+PER-070-21,"B-cell Leukemia",1L
+PER-070-21,"B-cell Leukemia",2L
+PER-070-21,"B-cell Lymphoma",1L
+PER-070-21,"B-cell Lymphoma",2L
+PER-070-21,"Central Nervous System Lymphoma",1L
+PER-070-21,"Central Nervous System Lymphoma",2L
+PER-070-21,"Diffuse Large B-cell Lymphoma",1L
+PER-070-21,"Diffuse Large B-cell Lymphoma",2L
+PER-070-21,"Non-Hodgkin Lymphoma",1L
+PER-070-21,"Non-Hodgkin Lymphoma",2L
+PER-082-14,"Breast Cancer",1L
+PER-082-14,"Gastric Cancer",1L
+PER-082-14,"Gastrointestinal Cancer",1L

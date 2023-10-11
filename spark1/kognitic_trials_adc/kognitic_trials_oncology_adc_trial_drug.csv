@@ -1,0 +1,905 @@
+nct_id,drug_id,drug,drug_candidate,arm_type
+ACTRN12619000581167,37766,"brentuximab vedotin",Pipeline,Other
+ACTRN12619001265167,36871,"ado-trastuzumab emtansine",Pipeline,Other
+ACTRN12620000490976,37549,"belantamab mafodotin",Pipeline,Other
+ChiCTR2000039157,49520,MRG003,Pipeline,Other
+ChiCTR2100048560,37250,ARX788,Pipeline,Other
+ChiCTR2200060153,50010,"disitamab vedotin",Pipeline,Other
+ChiCTR2200060250,50010,"disitamab vedotin",Pipeline,Other
+ChiCTR2200062770,50010,"disitamab vedotin",Pipeline,Other
+ChiCTR2200063838,50010,"disitamab vedotin",Pipeline,Other
+ChiCTR2200065807,50010,"disitamab vedotin",Pipeline,Other
+ChiCTR2200066256,75711,"CRB 701",Pipeline,Other
+ChiCTR2300067600,50010,"disitamab vedotin",Pipeline,Other
+ChiCTR2300068270,50010,"disitamab vedotin",Pipeline,Other
+ChiCTR2300068769,50010,"disitamab vedotin",Pipeline,Other
+ChiCTR2300068946,50010,"disitamab vedotin",Pipeline,Other
+ChiCTR2300069410,38740,"enfortumab vedotin",Pipeline,Other
+CTRI/2019/08/020544,36871,"ado-trastuzumab emtansine",Pipeline,Other
+CTRI/2021/10/037317,41075,"polatuzumab vedotin",Pipeline,Other
+CTRI/2022/02/040116,42178,"trastuzumab deruxtecan",Pipeline,Other
+CTRI/2023/03/050491,36871,"ado-trastuzumab emtansine",Pipeline,Other
+CTRI/2023/05/052218,38426,"datopotamab deruxtecan",Pipeline,Other
+EUCTR2005-000279-16-FI,39086,"gemtuzumab ozogamicin",Pipeline,Other
+EUCTR2005-001588-78-GB,39086,"gemtuzumab ozogamicin",Pipeline,Other
+EUCTR2007-003798-16-DK,39086,"gemtuzumab ozogamicin",Pipeline,Other
+EUCTR2010-018980-41-BE,39086,"gemtuzumab ozogamicin",Pipeline,Other
+EUCTR2013-003252-20-BE,39607,"indatuximab ravtansine",Pipeline,Other
+EUCTR2014-000793-19-ES,36871,"ado-trastuzumab emtansine",Pipeline,Other
+EUCTR2014-000808-10-SE,36871,"ado-trastuzumab emtansine",Pipeline,Other
+EUCTR2014-002195-90-DK,39086,"gemtuzumab ozogamicin",Pipeline,Other
+EUCTR2014-005341-44-AT,36871,"ado-trastuzumab emtansine",Pipeline,Other
+EUCTR2016-000227-71-FI,39639,"inotuzumab ozogamicin",Pipeline,Other
+EUCTR2019-002181-12-IT,36871,"ado-trastuzumab emtansine",Pipeline,Other
+EUCTR2019-003084-21-IT,37766,"brentuximab vedotin",Pipeline,Other
+EUCTR2020-000273-24-GB,39086,"gemtuzumab ozogamicin",Pipeline,Other
+EUCTR2020-004181-20-IT,37838,"camidanlumab tesirine",Pipeline,Other
+EUCTR2021-003526-80-CZ,37766,"brentuximab vedotin",Pipeline,Other
+JPRN-jRCT2011210017,42178,"trastuzumab deruxtecan",Pipeline,Other
+JPRN-jRCT2031200186,40841,"patritumab deruxtecan",Pipeline,Other
+JPRN-jRCT2031210436,36871,"ado-trastuzumab emtansine",Pipeline,Other
+JPRN-jRCT2031220404,38426,"datopotamab deruxtecan",Pipeline,Other
+JPRN-jRCT2031220414,51527,SHR-A2009,Pipeline,Other
+JPRN-jRCT2051220070,36871,"ado-trastuzumab emtansine",Pipeline,Other
+JPRN-jRCT2061220066,38426,"datopotamab deruxtecan",Pipeline,Other
+JPRN-jRCTs031200336,42178,"trastuzumab deruxtecan",Pipeline,Other
+JPRN-jRCTs031210410,42178,"trastuzumab deruxtecan",Pipeline,Other
+JPRN-jRCTs041190101,39086,"gemtuzumab ozogamicin",Pipeline,Other
+JPRN-jRCTs041200063,39086,"gemtuzumab ozogamicin",Pipeline,Other
+JPRN-UMIN000008470,39086,"gemtuzumab ozogamicin",Pipeline,Other
+JPRN-UMIN000014649,36871,"ado-trastuzumab emtansine",Pipeline,Other
+JPRN-UMIN000030783,36871,"ado-trastuzumab emtansine",Pipeline,Other
+JPRN-UMIN000034205,37766,"brentuximab vedotin",Pipeline,Other
+KCT0005598,37766,"brentuximab vedotin",Pipeline,Other
+NCT00006721,42115,"Iodine I 131 tositumomab",Pipeline,Experimental
+NCT00135200,42115,"Iodine I 131 tositumomab",Pipeline,Experimental
+NCT00658814,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT00781612,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT00801489,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT01042379,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT01042379,37250,ARX788,Pipeline,Experimental
+NCT01042379,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT01042379,39867,"ladiratuzumab vedotin",Pipeline,Experimental
+NCT01042379,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT01042379,42179,"trastuzumab duocarmazine",Pipeline,Experimental
+NCT01352520,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT01371630,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT01409161,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT01476410,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT01494662,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT01508312,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT01565200,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT01703949,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT01712490,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT01716806,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT01745965,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT01771107,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT01772472,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT01853748,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT01868451,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT01920932,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT01979536,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02098512,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02099058,41980,"telisotuzumab vedotin",Pipeline,Experimental
+NCT02117297,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT02152995,42115,"Iodine I 131 tositumomab",Pipeline,Experimental
+NCT02166463,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02187848,41509,"tusamitamab ravtansine",Pipeline,Experimental
+NCT02191930,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02221310,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT02226276,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT02227199,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02272478,39086,"gemtuzumab ozogamicin",Pipeline,Comparator
+NCT02298257,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02314481,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT02326974,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT02343042,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT02390427,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT02393690,42115,"Iodine I 131 tositumomab",Pipeline,Comparator
+NCT02398240,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02448420,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT02453594,37766,"brentuximab vedotin",Pipeline,Other
+NCT02465060,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT02473146,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT02564900,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT02564900,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT02568839,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT02588651,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02616965,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02661503,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02665065,39086,"gemtuzumab ozogamicin",Pipeline,Comparator
+NCT02675829,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT02684292,37766,"brentuximab vedotin",Pipeline,Comparator
+NCT02724163,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT02734771,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02744612,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02758717,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02877303,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT02927769,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT02980341,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT02981628,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT02996825,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT03007030,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03013933,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03032107,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT03052634,50010,"disitamab vedotin",Pipeline,Experimental
+NCT03057795,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03104491,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT03113500,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03126630,37076,"anetumab ravtansine",Pipeline,Experimental
+NCT03126916,42115,"Iodine I 131 tositumomab",Pipeline,Experimental
+NCT03187210,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03217643,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03219333,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT03222492,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03233347,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03246750,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03248492,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT03248492,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT03249870,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT03255070,37250,ARX788,Pipeline,Experimental
+NCT03260491,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT03264131,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03264547,36871,"ado-trastuzumab emtansine",Pipeline,Other
+NCT03274492,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT03288545,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT03310957,39867,"ladiratuzumab vedotin",Pipeline,Experimental
+NCT03316638,42454,W0101,Pipeline,Experimental
+NCT03319628,42516,"upifitamab rilsodotin",Pipeline,Experimental
+NCT03334617,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT03337698,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT03356054,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03374332,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT03379428,36871,"ado-trastuzumab emtansine",Pipeline,Other
+NCT03383692,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT03386513,39553,"pivekimab sunirine",Pipeline,Experimental
+NCT03401385,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT03409432,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03424005,39867,"ladiratuzumab vedotin",Pipeline,Comparator
+NCT03424005,41492,"sacituzumab govitecan-hziy",Pipeline,Comparator
+NCT03424005,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT03424603,41779,STRO-001,Pipeline,Experimental
+NCT03425279,37462,"mecbotamab vedotin",Pipeline,Experimental
+NCT03441061,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT03460522,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT03467373,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT03474107,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT03474133,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03485209,42074,"tisotumab vedotin",Pipeline,Experimental
+NCT03500380,50010,"disitamab vedotin",Pipeline,Experimental
+NCT03504488,37463,"ozuriftamab vedotin",Pipeline,Experimental
+NCT03505710,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT03517137,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03523572,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT03523572,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT03523585,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT03523585,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT03525678,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT03527628,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03529110,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT03529110,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT03533283,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT03539536,41980,"telisotuzumab vedotin",Pipeline,Experimental
+NCT03540849,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03543813,38364,CX-2029,Pipeline,Experimental
+NCT03544281,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT03547973,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT03552471,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT03564678,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT03568994,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT03576378,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03587311,37076,"anetumab ravtansine",Pipeline,Experimental
+NCT03587740,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT03589729,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT03595059,36766,ABBV-155,Pipeline,Experimental
+NCT03610438,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT03639194,36763,ABBV-011,Pipeline,Experimental
+NCT03646123,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03652441,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03671018,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT03672539,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT03677141,41075,"polatuzumab vedotin",Pipeline,Comparator
+NCT03677154,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT03698552,36856,ADCT-602,Pipeline,Experimental
+NCT03703050,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03709082,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT03712202,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03715478,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT03719105,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03725761,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT03726879,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT03732703,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT03734029,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT03737955,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT03742102,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT03742102,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT03748186,41780,"luveltamab tazevibulin",Pipeline,Experimental
+NCT03755141,36871,"ado-trastuzumab emtansine",Pipeline,Other
+NCT03755804,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03769506,38096,"cetuximab sarotalocan",Pipeline,Experimental
+NCT03786081,42074,"tisotumab vedotin",Pipeline,Experimental
+NCT03805932,40360,"moxetumomab pasudotox",Pipeline,Experimental
+NCT03809013,50010,"disitamab vedotin",Pipeline,Experimental
+NCT03809624,77093,α4-1BB,Pipeline,Experimental
+NCT03816358,37076,"anetumab ravtansine",Pipeline,Experimental
+NCT03820063,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT03828292,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT03829540,77093,α4-1BB,Pipeline,Experimental
+NCT03832361,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT03833180,40286,"Zilovertamab vedotin",Pipeline,Experimental
+NCT03835819,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT03848845,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT03856216,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT03859752,42164,TR1801,Pipeline,Experimental
+NCT03869190,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT03869190,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT03878524,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT03894150,38861,F0002,Pipeline,Experimental
+NCT03900949,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT03901339,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT03904251,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT03907488,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT03913559,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT03924895,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT03944499,38989,FS-1502,Pipeline,Experimental
+NCT03944772,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT03959085,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT03962465,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT03964727,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT03971409,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT03975647,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT03995706,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04014075,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04015778,37766,"brentuximab vedotin",Pipeline,Other
+NCT04032704,39867,"ladiratuzumab vedotin",Pipeline,Experimental
+NCT04036461,37959,CC-99712,Pipeline,Experimental
+NCT04039230,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04042701,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04042701,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04050280,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT04064359,54618,OBT076,Pipeline,Experimental
+NCT04070768,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT04073602,50010,"disitamab vedotin",Pipeline,Experimental
+NCT04077723,77093,α4-1BB,Pipeline,Experimental
+NCT04084366,40633,OBI-999,Pipeline,Experimental
+NCT04086264,39553,"pivekimab sunirine",Pipeline,Experimental
+NCT04091126,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04126200,37549,"belantamab mafodotin",Pipeline,Comparator
+NCT04132960,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04145622,38593,DS-7300,Pipeline,Experimental
+NCT04146610,51501,DP-303c,Pipeline,Experimental
+NCT04151329,37481,BAT8001,Pipeline,Experimental
+NCT04152499,41671,SKB264,Pipeline,Experimental
+NCT04154956,41509,"tusamitamab ravtansine",Pipeline,Experimental
+NCT04158947,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT04162210,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04168502,39086,"gemtuzumab ozogamicin",Pipeline,Comparator
+NCT04175847,41263,RC88,Pipeline,Experimental
+NCT04182204,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04185649,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04185649,37481,BAT8001,Pipeline,Experimental
+NCT04189211,37481,BAT8001,Pipeline,Experimental
+NCT04189614,38235,"cofetuzumab pelidotin",Pipeline,Experimental
+NCT04197687,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04207190,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT04209855,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT04223856,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04225117,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04230109,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04231877,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04240704,39739,JBH492,Pipeline,Experimental
+NCT04246047,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04251416,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04254107,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT04255056,36871,"ado-trastuzumab emtansine",Pipeline,Other
+NCT04257110,37511,BB-1701,Pipeline,Experimental
+NCT04261413,41457,RS-0139,Pipeline,Experimental
+NCT04264936,50010,"disitamab vedotin",Pipeline,Experimental
+NCT04266249,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04274426,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT04280341,50010,"disitamab vedotin",Pipeline,Experimental
+NCT04293562,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT04294628,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04300556,38801,"Farletuzumab Ecteribulin",Pipeline,Experimental
+NCT04301375,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04305795,38096,"cetuximab sarotalocan",Pipeline,Experimental
+NCT04307576,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT04311034,50010,"disitamab vedotin",Pipeline,Experimental
+NCT04323956,41075,"polatuzumab vedotin",Pipeline,Comparator
+NCT04329429,50010,"disitamab vedotin",Pipeline,Experimental
+NCT04332822,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04341181,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04378647,37766,"brentuximab vedotin",Pipeline,Comparator
+NCT04379596,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04381832,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04384484,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT04385290,39086,"gemtuzumab ozogamicin",Pipeline,Comparator
+NCT04389632,41609,SGN-B6A,Pipeline,Experimental
+NCT04394624,41509,"tusamitamab ravtansine",Pipeline,Experimental
+NCT04396340,42517,XMT-1592,Pipeline,Experimental
+NCT04398680,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04398745,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04398914,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT04400695,50010,"disitamab vedotin",Pipeline,Experimental
+NCT04404283,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT04410224,37269,ASN004,Pipeline,Experimental
+NCT04419181,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04434040,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04439110,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04446260,41634,SHR-A1811,Pipeline,Experimental
+NCT04448886,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04450732,39168,GQ1001,Pipeline,Experimental
+NCT04454437,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04457596,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT04460456,41538,SBT6050,Pipeline,Experimental
+NCT04468061,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04479267,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04482309,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04484142,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT04484623,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04486352,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04491370,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04492488,40379,MRG002,Pipeline,Experimental
+NCT04494425,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04509596,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04513223,41634,SHR-A1811,Pipeline,Experimental
+NCT04524689,41509,"tusamitamab ravtansine",Pipeline,Experimental
+NCT04526691,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT04527991,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04538742,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04539938,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04549363,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04553770,42178,"trastuzumab deruxtecan",Pipeline,Comparator
+NCT04556773,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04559230,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04561206,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT04561362,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04569032,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT04578106,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04585958,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04587687,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT04589845,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04591431,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04594798,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04595565,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04596150,38363,"praluzatamab ravtansine",Pipeline,Experimental
+NCT04606914,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT04609566,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT04610528,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT04612751,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT04617314,41261,RC108,Pipeline,Experimental
+NCT04617522,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04619004,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT04620187,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04622319,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT04622319,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04622774,39550,IMGC936,Pipeline,Experimental
+NCT04632992,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04639219,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04639986,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04643002,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04644068,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT04644068,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04644237,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04647916,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04656652,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT04659044,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04659603,41509,"tusamitamab ravtansine",Pipeline,Experimental
+NCT04662580,37249,"ARX 517",Pipeline,Experimental
+NCT04665765,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04665921,41617,SGN-STNV,Pipeline,Experimental
+NCT04676360,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04676477,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT04679012,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04680442,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT04680468,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04681131,37462,"mecbotamab vedotin",Pipeline,Experimental
+NCT04685616,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT04686305,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04697628,42074,"tisotumab vedotin",Pipeline,Experimental
+NCT04699630,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT04700124,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04704661,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04704934,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04707248,38591,"raludotatug deruxtecan",Pipeline,Experimental
+NCT04714190,50010,"disitamab vedotin",Pipeline,Experimental
+NCT04721977,36871,"ado-trastuzumab emtansine",Pipeline,Other
+NCT04724018,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04724018,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04733118,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04739761,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04739813,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04740398,37936,CBP-1008,Pipeline,Experimental
+NCT04740918,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT04742153,40379,MRG002,Pipeline,Experimental
+NCT04744831,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04745949,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT04747912,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT04754191,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04778579,77093,α4-1BB,Pipeline,Experimental
+NCT04784715,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04790903,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04793919,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT04795869,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT04802356,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04805307,49518,CMG901,Pipeline,Experimental
+NCT04808037,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04818333,41634,SHR-A1811,Pipeline,Experimental
+NCT04822337,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04826107,51501,DP-303c,Pipeline,Experimental
+NCT04826341,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04828616,51501,DP-303c,Pipeline,Experimental
+NCT04829604,37250,ARX788,Pipeline,Experimental
+NCT04829604,42178,"trastuzumab deruxtecan",Pipeline,Other
+NCT04833114,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04837508,40379,MRG002,Pipeline,Experimental
+NCT04838548,49520,MRG003,Pipeline,Experimental
+NCT04838964,49520,MRG003,Pipeline,Experimental
+NCT04839510,40379,MRG002,Pipeline,Experimental
+NCT04843709,49804,MRG004,Pipeline,Experimental
+NCT04844866,41075,"polatuzumab vedotin",Pipeline,Comparator
+NCT04849910,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT04863885,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04868162,49520,MRG003,Pipeline,Experimental
+NCT04873362,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT04876248,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04878029,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04879043,50005,HDP-101,Pipeline,Experimental
+NCT04879329,50010,"disitamab vedotin",Pipeline,Experimental
+NCT04884035,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04887870,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04892264,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04892342,50928,STI-3258,Pipeline,Experimental
+NCT04892342,75488,ESG401,Pipeline,Other
+NCT04893109,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04896658,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT04907968,42516,"upifitamab rilsodotin",Pipeline,Experimental
+NCT04913103,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04914741,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04915612,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT04918186,37462,"mecbotamab vedotin",Pipeline,Experimental
+NCT04918186,37463,"ozuriftamab vedotin",Pipeline,Experimental
+NCT04924699,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT04924699,40379,MRG002,Pipeline,Experimental
+NCT04925284,50211,XB002,Pipeline,Experimental
+NCT04928612,50226,CBP-1018,Pipeline,Experimental
+NCT04928846,41980,"telisotuzumab vedotin",Pipeline,Experimental
+NCT04931342,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT04940325,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT04941339,40379,MRG002,Pipeline,Experimental
+NCT04958785,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT04960709,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04963153,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04965519,50010,"disitamab vedotin",Pipeline,Experimental
+NCT04965766,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT04970901,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT04970901,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT04972981,50527,ADCT-901,Pipeline,Experimental
+NCT04982224,76253,REGN5093-M114,Pipeline,Experimental
+NCT04983121,37250,ARX788,Pipeline,Experimental
+NCT04986579,41492,"sacituzumab govitecan-hziy",Pipeline,Comparator
+NCT04986579,42178,"trastuzumab deruxtecan",Pipeline,Comparator
+NCT04989816,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT04995419,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT04998669,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05001282,50702,ELU001,Pipeline,Experimental
+NCT05001516,50819,LM-302,Pipeline,Experimental
+NCT05002816,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05006664,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05006794,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05009966,50811,SYSA1801,Pipeline,Experimental
+NCT05011188,38963,FOR46,Pipeline,Experimental
+NCT05014139,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05016947,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT05016973,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05018676,37250,ARX788,Pipeline,Experimental
+NCT05018702,37250,ARX788,Pipeline,Experimental
+NCT05029882,50877,ABBV-400,Pipeline,Experimental
+NCT05034887,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05039073,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05041257,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT05041842,36871,"ado-trastuzumab emtansine",Pipeline,Other
+NCT05043987,50899,CPO102,Pipeline,Experimental
+NCT05048797,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05053659,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05055063,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05060627,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05061550,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT05064358,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05065047,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05070247,51004,TAK-500,Pipeline,Experimental
+NCT05071053,41509,"tusamitamab ravtansine",Pipeline,Experimental
+NCT05089734,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05091372,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05097599,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05097599,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05097599,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05101096,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05103683,51510,TORL-1-23,Pipeline,Experimental
+NCT05104866,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT05113069,51529,SHR-A1912,Pipeline,Experimental
+NCT05113251,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05113459,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05113966,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05114759,51527,SHR-A2009,Pipeline,Experimental
+NCT05115500,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05117008,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05117242,77093,α4-1BB,Pipeline,Experimental
+NCT05119907,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05123482,51551,AZD8205,Pipeline,Experimental
+NCT05126433,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05126433,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05126719,49520,MRG003,Pipeline,Experimental
+NCT05134519,36871,"ado-trastuzumab emtansine",Pipeline,Other
+NCT05134519,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05135715,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05139017,40286,"Zilovertamab vedotin",Pipeline,Experimental
+NCT05141747,40379,MRG002,Pipeline,Experimental
+NCT05141786,40379,MRG002,Pipeline,Experimental
+NCT05143229,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05144009,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05144841,40286,"Zilovertamab vedotin",Pipeline,Experimental
+NCT05150691,51664,DB-1303,Pipeline,Experimental
+NCT05154604,51668,SHR-A1921,Pipeline,Experimental
+NCT05155839,51670,MRG001,Pipeline,Experimental
+NCT05156866,75824,TORL-2-307-ADC,Pipeline,Experimental
+NCT05161390,50819,LM-302,Pipeline,Experimental
+NCT05169658,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05171647,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05174637,51902,FDA018,Pipeline,Experimental
+NCT05180097,37766,"brentuximab vedotin",Pipeline,Comparator
+NCT05182866,38096,"cetuximab sarotalocan",Pipeline,Experimental
+NCT05183035,39086,"gemtuzumab ozogamicin",Pipeline,Comparator
+NCT05186974,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05188209,49520,MRG003,Pipeline,Experimental
+NCT05188664,50819,LM-302,Pipeline,Experimental
+NCT05190705,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05194072,51932,SGN-B7H4V,Pipeline,Experimental
+NCT05199051,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT05200364,41780,"luveltamab tazevibulin",Pipeline,Experimental
+NCT05205850,50206,RC118,Pipeline,Experimental
+NCT05208307,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05208762,51956,SGN-PDL1V,Pipeline,Experimental
+NCT05215340,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT05216965,51979,9MW2821,Pipeline,Experimental
+NCT05217693,51977,BB-1705,Pipeline,Experimental
+NCT05222438,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05226117,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05229900,52106,SGN-ALPV,Pipeline,Experimental
+NCT05238831,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05239624,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05241899,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05243693,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05245071,41509,"tusamitamab ravtansine",Pipeline,Experimental
+NCT05246514,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05249959,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05253495,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05253495,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05260957,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05263479,75825,HS-20089,Pipeline,Experimental
+NCT05263869,40379,MRG002,Pipeline,Experimental
+NCT05265013,38096,"cetuximab sarotalocan",Pipeline,Experimental
+NCT05270057,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05271604,37463,"ozuriftamab vedotin",Pipeline,Experimental
+NCT05274048,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05276141,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05276609,75700,HS-20093,Pipeline,Experimental
+NCT05279300,52851,CS5001,Pipeline,Experimental
+NCT05280275,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05280470,38593,DS-7300,Pipeline,Experimental
+NCT05283720,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05288777,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05293496,40221,"Vobramitamab duocarmazine",Pipeline,Experimental
+NCT05296070,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05297552,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05302284,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05303792,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT05308225,51908,STI-6129,Pipeline,Experimental
+NCT05311397,36747,A166,Pipeline,Experimental
+NCT05313243,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05313906,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05316246,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05320588,53641,BIO-106,Pipeline,Experimental
+NCT05323045,53683,BYON3521,Pipeline,Experimental
+NCT05323955,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05327530,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05329545,42516,"upifitamab rilsodotin",Pipeline,Experimental
+NCT05331326,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05332561,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05333809,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05334810,51501,DP-303c,Pipeline,Experimental
+NCT05338957,40379,MRG002,Pipeline,Experimental
+NCT05338970,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT05339685,53720,BL-M02D1,Pipeline,Experimental
+NCT05346328,36747,A166,Pipeline,Experimental
+NCT05347134,41671,SKB264,Pipeline,Comparator
+NCT05349409,41634,SHR-A1811,Pipeline,Experimental
+NCT05350917,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05351788,41671,SKB264,Pipeline,Experimental
+NCT05353361,41634,SHR-A1811,Pipeline,Experimental
+NCT05356351,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05365659,53853,IKS03,Pipeline,Experimental
+NCT05367635,52112,SKB-315,Pipeline,Experimental
+NCT05372614,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05374512,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT05377996,53952,XMT-1660,Pipeline,Experimental
+NCT05378737,53982,BAT8006,Pipeline,Experimental
+NCT05382286,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05382299,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05385692,53720,BL-M02D1,Pipeline,Experimental
+NCT05388149,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05388500,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT05389462,36855,"mipasetamab uzoptirine",Pipeline,Experimental
+NCT05394675,54112,DS-9606a,Pipeline,Experimental
+NCT05394818,51527,SHR-A2009,Pipeline,Experimental
+NCT05395533,54005,TRS005,Pipeline,Experimental
+NCT05399654,75611,TAC-001,Pipeline,Experimental
+NCT05403242,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05404945,37766,"brentuximab vedotin",Pipeline,Comparator
+NCT05405621,54288,BAT8009,Pipeline,Experimental
+NCT05406401,40286,"Zilovertamab vedotin",Pipeline,Experimental
+NCT05408845,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05410418,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05414500,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05415215,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05417230,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05424835,41634,SHR-A1811,Pipeline,Experimental
+NCT05426486,37250,ARX788,Pipeline,Experimental
+NCT05429684,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05429762,41509,"tusamitamab ravtansine",Pipeline,Experimental
+NCT05434234,54697,YL201,Pipeline,Experimental
+NCT05438329,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05445778,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT05445908,41671,SKB264,Pipeline,Experimental
+NCT05453396,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05456685,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT05456698,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT05458219,54800,IBI343,Pipeline,Experimental
+NCT05458297,40286,"Zilovertamab vedotin",Pipeline,Experimental
+NCT05458674,36871,"ado-trastuzumab emtansine",Pipeline,Other
+NCT05460273,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT05461768,55124,BL-M07D1,Pipeline,Experimental
+NCT05464030,55126,M9140,Pipeline,Experimental
+NCT05464719,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05480384,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05482568,41634,SHR-A1811,Pipeline,Experimental
+NCT05483933,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT05489211,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT05493683,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05494918,55314,JSKN003,Pipeline,Experimental
+NCT05495724,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05498220,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05498597,55319,AMT-151,Pipeline,Experimental
+NCT05502393,55411,JS107,Pipeline,Experimental
+NCT05508334,41263,RC88,Pipeline,Experimental
+NCT05512390,55435,ABBV-319,Pipeline,Experimental
+NCT05513703,41980,"telisotuzumab vedotin",Pipeline,Experimental
+NCT05514158,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05520723,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05524545,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05525286,51660,SOT102,Pipeline,Experimental
+NCT05527184,54774,IMGN151,Pipeline,Experimental
+NCT05530057,36871,"ado-trastuzumab emtansine",Pipeline,Other
+NCT05535218,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05540483,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05547321,54004,OMTX705,Pipeline,Experimental
+NCT05551117,40221,"Vobramitamab duocarmazine",Pipeline,Experimental
+NCT05552001,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05555732,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT05556798,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05558124,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT05560308,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05562830,40286,"Zilovertamab vedotin",Pipeline,Experimental
+NCT05564858,55613,FDA022,Pipeline,Experimental
+NCT05565807,51908,STI-6129,Pipeline,Experimental
+NCT05569811,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT05573802,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05575804,39168,GQ1001,Pipeline,Experimental
+NCT05577715,38801,"Farletuzumab Ecteribulin",Pipeline,Experimental
+NCT05578287,36871,"ado-trastuzumab emtansine",Pipeline,Other
+NCT05578287,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05579366,57580,PRO1184,Pipeline,Experimental
+NCT05581589,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05581875,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05582499,41634,SHR-A1811,Pipeline,Experimental
+NCT05584709,51908,STI-6129,Pipeline,Experimental
+NCT05586061,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05593094,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05593094,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05594095,41634,SHR-A1811,Pipeline,Experimental
+NCT05594875,51668,SHR-A1921,Pipeline,Experimental
+NCT05595447,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05599360,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT05600686,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05601401,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05609968,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05611853,41779,STRO-001,Pipeline,Experimental
+NCT05613088,38801,"Farletuzumab Ecteribulin",Pipeline,Experimental
+NCT05615636,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05620017,58878,BAT8008,Pipeline,Experimental
+NCT05620914,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT05622591,50702,ELU001,Pipeline,Experimental
+NCT05622890,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT05627414,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05627960,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05628857,41261,RC108,Pipeline,Experimental
+NCT05629585,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT05631262,41671,SKB264,Pipeline,Experimental
+NCT05631964,55124,BL-M07D1,Pipeline,Experimental
+NCT05633615,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05633615,77093,α4-1BB,Pipeline,Experimental
+NCT05633654,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05633667,41492,"sacituzumab govitecan-hziy",Pipeline,Comparator
+NCT05633979,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05635487,41634,SHR-A1811,Pipeline,Experimental
+NCT05636215,71331,IBI354,Pipeline,Experimental
+NCT05642780,41671,SKB264,Pipeline,Experimental
+NCT05645718,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT05647512,59194,LM-305,Pipeline,Experimental
+NCT05650879,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05650879,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05652855,71372,MHB088C,Pipeline,Experimental
+NCT05652868,71371,MYTX-011,Pipeline,Experimental
+NCT05653752,71376,YL202,Pipeline,Experimental
+NCT05656235,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05657418,55411,JS107,Pipeline,Experimental
+NCT05658562,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05660395,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05662904,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT05671822,41634,SHR-A1811,Pipeline,Experimental
+NCT05672251,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05673785,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05673928,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05675410,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05675579,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05678205,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05680662,75812,BRY812,Pipeline,Other
+NCT05687266,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT05688605,49520,MRG003,Pipeline,Experimental
+NCT05703555,41509,"tusamitamab ravtansine",Pipeline,Experimental
+NCT05704829,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05710666,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05714839,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05716009,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT05718895,51630,ATG-022,Pipeline,Experimental
+NCT05720117,56885,PYX-201,Pipeline,Experimental
+NCT05720533,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05721222,57581,PRO1160,Pipeline,Experimental
+NCT05726175,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05735496,71505,TQB2102,Pipeline,Experimental
+NCT05744375,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05744427,55314,JSKN003,Pipeline,Experimental
+NCT05745740,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05748171,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT05749588,41634,SHR-A1811,Pipeline,Experimental
+NCT05751512,49520,MRG003,Pipeline,Experimental
+NCT05754853,40379,MRG002,Pipeline,Comparator
+NCT05755048,36871,"ado-trastuzumab emtansine",Pipeline,Comparator
+NCT05755048,38989,FS-1502,Pipeline,Experimental
+NCT05756569,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05765032,51668,SHR-A1921,Pipeline,Experimental
+NCT05765851,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05769010,41634,SHR-A1811,Pipeline,Experimental
+NCT05770531,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05773937,51979,9MW2821,Pipeline,Experimental
+NCT05775471,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05785325,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05785728,75419,DB-1202,Pipeline,Experimental
+NCT05785741,75420,DB-1310,Pipeline,Experimental
+NCT05789303,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05792410,41634,SHR-A1811,Pipeline,Experimental
+NCT05795101,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05797168,75452,AZD5335,Pipeline,Experimental
+NCT05798156,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05800366,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05804526,41263,RC88,Pipeline,Experimental
+NCT05805371,77093,α4-1BB,Pipeline,Experimental
+NCT05810103,51501,DP-303c,Pipeline,Experimental
+NCT05814354,41634,SHR-A1811,Pipeline,Experimental
+NCT05816252,41671,SKB264,Pipeline,Experimental
+NCT05821933,41261,RC108,Pipeline,Experimental
+NCT05824325,41634,SHR-A1811,Pipeline,Experimental
+NCT05830097,75648,CBP-1019,Pipeline,Experimental
+NCT05830123,75700,HS-20093,Pipeline,Experimental
+NCT05833867,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05834764,36871,"ado-trastuzumab emtansine",Pipeline,Experimental
+NCT05836948,75696,"SHR 9839",Pipeline,Experimental
+NCT05837806,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05838521,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05840211,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05845138,41634,SHR-A1811,Pipeline,Experimental
+NCT05845450,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05845814,38740,"enfortumab vedotin",Pipeline,Comparator
+NCT05847569,37549,"belantamab mafodotin",Pipeline,Comparator
+NCT05847764,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05848466,58879,BAT8010,Pipeline,Experimental
+NCT05849246,41509,"tusamitamab ravtansine",Pipeline,Experimental
+NCT05853965,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05865990,40841,"patritumab deruxtecan",Pipeline,Experimental
+NCT05866354,42074,"tisotumab vedotin",Pipeline,Other
+NCT05866432,38426,"datopotamab deruxtecan",Pipeline,Experimental
+NCT05867563,75802,TQB2103,Pipeline,Experimental
+NCT05868226,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05868265,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05868395,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05870319,41671,SKB264,Pipeline,Experimental
+NCT05870748,41780,"luveltamab tazevibulin",Pipeline,Experimental
+NCT05872295,58010,IKS014,Pipeline,Experimental
+NCT05873712,77093,α4-1BB,Pipeline,Experimental
+NCT05874193,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05875168,62646,DS-3939,Pipeline,Experimental
+NCT05879627,58877,BAT8007,Pipeline,Experimental
+NCT05879653,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05884320,41492,"sacituzumab govitecan-hziy",Pipeline,Experimental
+NCT05887609,40261,"mirvetuximab soravtansine",Pipeline,Experimental
+NCT05894824,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05896020,41634,SHR-A1811,Pipeline,Experimental
+NCT05898373,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05900206,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05901935,51501,DP-303c,Pipeline,Experimental
+NCT05904106,39086,"gemtuzumab ozogamicin",Pipeline,Comparator
+NCT05904964,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05911295,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05911958,41634,SHR-A1811,Pipeline,Experimental
+NCT05912205,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05912816,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05914116,59381,DB-1311,Pipeline,Experimental
+NCT05914545,76260,FZ-AD004,Pipeline,Experimental
+NCT05915351,38740,"enfortumab vedotin",Pipeline,Experimental
+NCT05917158,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05919212,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05922501,37549,"belantamab mafodotin",Pipeline,Experimental
+NCT05922904,37766,"brentuximab vedotin",Pipeline,Experimental
+NCT05923008,76332,IBI130,Pipeline,Experimental
+NCT05923190,38740,"enfortumab vedotin",Pipeline,Comparator
+NCT05924256,41634,SHR-A1811,Pipeline,Experimental
+NCT05924256,51668,SHR-A1921,Pipeline,Experimental
+NCT05924750,76322,BL-M11D1,Pipeline,Experimental
+NCT05928897,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05930951,54618,OBT076,Pipeline,Comparator
+NCT05934331,50819,LM-302,Pipeline,Experimental
+NCT05940051,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05940064,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05940896,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05940961,39639,"inotuzumab ozogamicin",Pipeline,Experimental
+NCT05941507,76344,LCB84,Pipeline,Experimental
+NCT05943379,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05947344,77010,STI-8591,Pipeline,Experimental
+NCT05948865,77005,CPO301,Pipeline,Experimental
+NCT05949619,53720,BL-M02D1,Pipeline,Experimental
+NCT05950945,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05953168,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05954143,42178,"trastuzumab deruxtecan",Pipeline,Other
+NCT05955209,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05955261,39086,"gemtuzumab ozogamicin",Pipeline,Experimental
+NCT05957471,77020,BC3195,Pipeline,Experimental
+NCT05957757,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05966233,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT05971251,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05979740,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05980416,76255,EO-3021,Pipeline,Experimental
+NCT05980481,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05982678,42178,"trastuzumab deruxtecan",Pipeline,Experimental
+NCT05982834,50010,"disitamab vedotin",Pipeline,Experimental
+NCT05990452,75635,9MW2921,Pipeline,Experimental
+NCT05991349,77077,IBI129,Pipeline,Experimental
+NCT05991388,39979,"loncastuximab tesirine",Pipeline,Experimental
+NCT05994001,50819,LM-302,Pipeline,Experimental
+NCT05996952,50010,"disitamab vedotin",Pipeline,Experimental
+NCT06000033,50010,"disitamab vedotin",Pipeline,Experimental
+NCT06001255,75700,HS-20093,Pipeline,Experimental
+NCT06003231,50010,"disitamab vedotin",Pipeline,Experimental
+NCT06005740,77114,TORL-4-500,Pipeline,Other
+NCT06007729,75700,HS-20093,Pipeline,Experimental
+NCT06008054,37458,B003,Pipeline,Experimental
+NCT06008366,77103,7MW3711,Pipeline,Other
+NCT06012435,41609,SGN-B6A,Pipeline,Experimental
+NCT06014190,75825,HS-20089,Pipeline,Experimental
+NCT06014658,77123,MBRC-101,Pipeline,Experimental
+NCT06015048,41634,SHR-A1811,Pipeline,Experimental
+NCT06015880,41075,"polatuzumab vedotin",Pipeline,Experimental
+NCT06018337,51664,DB-1303,Pipeline,Experimental
+PACTR202201721209443,36871,"ado-trastuzumab emtansine",Pipeline,Other
+PER-067-21,42178,"trastuzumab deruxtecan",Pipeline,Other
+PER-070-21,41075,"polatuzumab vedotin",Pipeline,Other
+PER-082-14,36871,"ado-trastuzumab emtansine",Pipeline,Other
