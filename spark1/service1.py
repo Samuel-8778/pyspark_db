@@ -5,34 +5,38 @@ import pymssql
 
 app = Flask(__name__)
 
-spark = SparkSession.builder.appName("spark1").config("spark.jars", "/home/decoders/jdbc_driver/jar_files/mysql-connector-java-8.0.15.jar").getOrCreate()
-DATABASE_URI = 'mssql+pymssql://sa:Welcome123@localhost:1433/master'
-
+# spark = SparkSession.builder.appName("spark1").config("spark.jars", "/home/decoders/jdbc_driver/jar_files/mysql-connector-java-8.0.15.jar").getOrCreate()
+spark = SparkSession \
+    .builder \
+    .appName("mongodbtest1") \
+    .master('local')\
+    .config("spark.mongodb.input.uri", "mongodb://admin:password@127.0.0.1:27017/admin.temproles") \
+    .config("spark.mongodb.output.uri", "mongodb://admin:password@127.0.0.1:27017/admin.temproles") \
+    .config('spark.jars.packages', 'org.mongodb.spark:mongo-spark-connector_2.12:3.0.1') \
+    .getOrCreate()
 @app.route('/readfile', methods=['GET'])
 def csv_read():
     current_db = spark.catalog.currentDatabase()
-    print(current_db)
     data = spark.read.csv("kognitic_trials_adc/kognitic_trials_oncology_adc_trial_drug.csv", header=True)  # headers=True Given the Tables Headers
     data.show()
-    getdata(data)
-    spark.read.option('header', 'true').csv('fin Data.csv').show()
-    columns = data.columns
-    header_rdd = spark.sparkContext.parallelize([Row(header=columns)]) # for get header only
-    print("headers List", header_rdd)
-    # data.select(['Year', 'Variable_name']).show() #for filtering
-    return getdata(data)
+    studentdf = spark.createDataFrame([
+        Row(id=1, name='vijay', marks=67),
+        Row(id=2, name='Ajay', marks=88),
+        Row(id=3, name='jay', marks=79),
+        Row(id=4, name='binny', marks=99),
+        Row(id=5, name='omar', marks=99),
+        Row(id=6, name='divya', marks=98),
+    ])
+    studentdf.select("id", "name", "marks").write \
+        .format('com.mongodb.spark.sql.DefaultSource') \
+        .option("uri", "mongodb://admin:password@127.0.0.1:27017/admin.temproles") \
+        .save()
+    return {"data": "Data Added Succussfully"}
 
 
 def getdata(df):
     data = spark.read.csv("kognitic_trials_adc/kognitic_trials_oncology_adc_trial_drug.csv",header=True)  # headers=True Given the Tables Headers
-    # df.write.format("jdbc") \
-    #     .option("url", "jdbc:mysql://localhost:3306/clinical_trial_db_relational?useSSL=false") \
-    #     .option("driver", "com.mysql.jdbc.Driver") \
-    #     .option("dbtable", "clinical_data") \
-    #     .option("user", "root") \
-    #     .option("password", "sam_8778") \
-    #     .mode("overwrite") \
-    #     .save()
+
     df.write.format("jdbc") \
         .option("url", "jdbc:mysql://localhost:3306/clinical_trial_db_relational?useSSL=false") \
         .option("driver", "com.mysql.jdbc.Driver") \
